@@ -5,7 +5,6 @@ body {
   font-family: "Segoe UI", Tahoma, sans-serif;
 }
 
-#quarto-header,
 header#title-block-header,
 #title-block-header,
 #quarto-document-content > header.quarto-title-block,
@@ -31,6 +30,10 @@ main.content .title,
   margin: 0 !important;
   padding: 0 !important;
   overflow: hidden !important;
+}
+
+#quarto-header {
+  display: block !important;
 }
 
 main.content {
