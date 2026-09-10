@@ -1,0 +1,22 @@
+---
+title: "Kurumsal Logomuz"
+---
+
+::: {.grid}
+::: {.g-col-4}
+![](assets/cahspar-logo.png){width="220" fig-align="left"}
+:::
+::: {.g-col-8}
+- Soldaki mavi figür: mavi yakalı çalışanı, emeği ve üretimi temsil ediyor.
+
+- Ortadaki gri robot: yapay zekâ, otomasyon ve çalışma hayatının teknolojik dönüşümünü; yani geleceğin işgücünü temsil ediyor.
+
+- Sağdaki kadın figür: beyaz yakalı, bilgi ve uzmanlık temelli çalışmayı temsil ederken aynı zamanda kadınların çalışma yaşamındaki yerini ve toplumsal cinsiyet eşitliğini görünür kılıyor.
+
+- Dişli: çalışma, üretim ve ekonomik hayat.
+
+- Yeşil yaprak: sürdürülebilirlik ve çevresel duyarlılık.
+
+- Üç figürün aynı kavis içinde birleşmesi ise farklı çalışan gruplarının ortak bir çalışma ve toplum hayatının parçaları olduğunu anlatıyor.
+:::
+:::

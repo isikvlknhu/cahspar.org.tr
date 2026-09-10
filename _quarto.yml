@@ -1,0 +1,72 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: ""
+  site-url: "https://cahspar.org.tr"
+  description: "Çalışma hayatı ve sosyal politika alanında araştırma, eğitim ve proje faaliyetleri."
+  navbar:
+    background: "#0f3c78"
+    foreground: "#ffffff"
+    left:
+      - text: "Ana Sayfa"
+        href: index.qmd
+      - text: "Hakkımızda"
+        href: about.qmd
+      - text: "Biz Kimiz?"
+        menu:
+          - text: "Hakkımızda"
+            href: about.qmd
+          - text: "Kurumsal Logomuz"
+            href: kurumsal-logomuz.qmd
+          - text: "Kurumsal Yapımız"
+            href: kurumsal-yapimiz.qmd
+          - text: "Dünden Bugüne"
+            href: dunden-bugune.qmd
+          - text: "Faaliyet Raporları"
+            href: faaliyet-raporlari.qmd
+          - text: "Mali Raporlar"
+            href: mali-raporlari.qmd
+          - text: "Stratejiler"
+            href: stratejiler.qmd
+          - text: "Tüzük"
+            href: tuzuk.qmd
+          - text: "Ortaklarımız"
+            href: ortaklarimiz.qmd
+          - text: "Ödüllerimiz"
+            href: odullerimiz.qmd
+      - text: "Projeler"
+        menu:
+          - text: "Projeler"
+            href: projeler.qmd
+          - text: "İş Ortakları"
+            href: is-ortaklari.qmd
+      - text: "Basın Odası"
+        menu:
+          - text: "Basın Bültenleri"
+            href: basin-bultenleri.qmd
+          - text: "Duyurular"
+            href: duyurular.qmd
+      - text: "Bize Katılın"
+        menu:
+          - text: "Gönüllü Olun"
+            href: gonullu-olun.qmd
+          - text: "Üye Olun"
+            href: uye-olun.qmd
+      - text: "Bize Ulaşın"
+        menu:
+          - text: "İletişim"
+            href: iletisim.qmd
+          - text: "Bize Yazın"
+            href: bize-yazin.qmd
+  page-footer:
+    center: "© 2026 ÇAHSPAR · Kuruluş başvuru aşamasındadır."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    lang: tr
+    toc: false
+    link-external-newwindow: true
