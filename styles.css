@@ -1,35 +1,18 @@
-body {
-  margin: 0;
-  background: #ececec;
-  color: #1b3558;
-  font-family: "Segoe UI", Tahoma, sans-serif;
+:root {
+  --brand-blue: #0d3d7a;
+  --brand-blue-2: #1b4d8d;
+  --brand-green: #7aa36a;
+  --brand-gray: #6d7784;
+  --brand-white: #ffffff;
+  --brand-text: #1b3558;
+  --brand-bg: #ffffff;
 }
 
-header#title-block-header,
-#title-block-header,
-#quarto-document-content > header.quarto-title-block,
-main.content > header.quarto-title-block,
-main.content > header:first-child,
-main.content > :first-child > header.quarto-title-block,
-main.content > :first-child.quarto-title-block,
-main.content .quarto-title-block,
-main.content .quarto-title,
-main.content h1.title,
-main.content h1:first-child,
-main.content .title,
-.quarto-title-block,
-.quarto-title,
-.h1.title,
-.title,
-.quarto-title-meta,
-.navbar-brand,
-.navbar-title {
-  display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  overflow: hidden !important;
+body {
+  margin: 0;
+  background: var(--brand-bg);
+  color: var(--brand-text);
+  font-family: "Segoe UI", Tahoma, sans-serif;
 }
 
 #quarto-header {
@@ -42,7 +25,7 @@ main.content {
 }
 
 .navbar {
-  background: #0d3d7a !important;
+  background: var(--brand-blue) !important;
   border: 0 !important;
   box-shadow: none !important;
   min-height: 60px !important;
@@ -73,7 +56,7 @@ main.content {
 
 .navbar-nav .nav-link,
 .navbar-nav .dropdown-toggle {
-  color: #fff !important;
+  color: var(--brand-white) !important;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.02em;
@@ -99,13 +82,24 @@ main.content {
 }
 
 .dropdown-menu .dropdown-item {
-  color: #fff !important;
+  color: var(--brand-white) !important;
   padding: 0.7rem 1rem;
   border-bottom: 1px solid rgba(255,255,255,0.08);
 }
 
 .dropdown-menu .dropdown-item:hover {
   background: rgba(255,255,255,0.08) !important;
+}
+
+main.content p,
+main.content li,
+main.content a,
+main.content .callout {
+  color: var(--brand-text);
+}
+
+main.content a {
+  color: var(--brand-blue-2);
 }
 
 .hero {
@@ -140,6 +134,45 @@ main.content {
 
 .content {
   padding: 1.5rem 1rem 2rem !important;
+}
+
+main.content > h1:first-child,
+main.content h1.title,
+main.content .quarto-title,
+main.content .quarto-title-block h1,
+main.content h1 {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: clamp(2.2rem, 3vw, 3.1rem);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+  color: var(--brand-blue);
+  margin: 0.25rem 0 1.2rem;
+  padding: 0;
+  text-align: left;
+}
+
+main.content h2 {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: clamp(1.65rem, 2.2vw, 2.25rem);
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  color: var(--brand-blue);
+  margin: 2rem 0 0.9rem;
+}
+
+main.content h3 {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  font-weight: 700;
+  color: var(--brand-blue);
+  margin: 1.5rem 0 0.7rem;
+}
+
+main.content .quarto-title-block {
+  margin-bottom: 1.5rem;
 }
 
 @media (max-width: 991.98px) {
