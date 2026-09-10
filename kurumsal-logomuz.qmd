@@ -1,5 +1,5 @@
 ---
-title: "Kurumsal Logomuz"
+title: ""
 ---
 
 ::: {.grid}

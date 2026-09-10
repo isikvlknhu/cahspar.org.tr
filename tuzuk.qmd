@@ -1,9 +1,3 @@
----
-title: "Tüzük"
----
-
-# Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneği Tüzüğü
-
 ## 1. Derneğin Adı ve Merkezi
 
 Madde 1 - Derneğin adı: "Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneği"dir.

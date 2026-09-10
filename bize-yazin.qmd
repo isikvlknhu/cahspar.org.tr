@@ -2,8 +2,6 @@
 title: "Bize Yazın"
 ---
 
-# Bize Yazın
-
 Sorularınız, önerileriniz, iş birliği talepleriniz ve görüşleriniz için bizimle iletişime geçebilirsiniz. Mesajlarınız incelendikten sonra gerekli dönüşler sağlanacaktır.
 
 ## Mesaj göndermek için

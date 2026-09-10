@@ -2,9 +2,7 @@
 title: "Projeler"
 ---
 
-# Projeler
-
-ÇAHSPAR'ın proje yaklaşımı, kurumsal hedeflerle toplumun somut ihtiyaçlarını bir araya getiren uygulamalı ve etkili çalışmalar üretmeyi hedefler. Her proje, veri odaklı bir değerlendirme ile tasarlanır ve paydaş odaklı işleyişe sahiptir.
+ÇAHSPAR'ın proje yaklaşımı, kurumsal hedeflerle toplumun somut ihtiyaçlarını bir araya getiren uygulamalı ve etkili çalışmalar üretmeyi hedefler.
 
 ## Proje alanları
 
@@ -13,5 +11,3 @@ title: "Projeler"
 - Mesleki eğitim ve beceri geliştirme
 - Dijitalleşme ve geleceğin çalışma biçimleri
 - Toplumsal dönüşüm ve katılım
-
-Projelerimiz, akademik derinlik ile uygulama faydasını birleştirerek uzun vadeli etki yaratmayı amaçlar.

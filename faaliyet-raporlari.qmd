@@ -1,7 +1,3 @@
----
-title: "Faaliyet Raporları"
----
-
 # Faaliyet Raporları
 
 ÇAHSPAR faaliyet raporları, derneğin araştırma, eğitim, proje ve toplumla buluşma süreçlerini şeffaf bir şekilde ortaya koyar. Bu raporlar, kurumun etkinlik ve katkı alanlarını takip etmeyi ve değerlendirmeyi kolaylaştırır.

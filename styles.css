@@ -7,15 +7,30 @@ body {
 
 #quarto-header,
 header#title-block-header,
-#quarto-search,
+#title-block-header,
 #quarto-document-content > header.quarto-title-block,
+main.content > header.quarto-title-block,
+main.content > header:first-child,
+main.content > :first-child > header.quarto-title-block,
+main.content > :first-child.quarto-title-block,
+main.content .quarto-title-block,
+main.content .quarto-title,
+main.content h1.title,
+main.content h1:first-child,
+main.content .title,
 .quarto-title-block,
 .quarto-title,
 .h1.title,
 .title,
+.quarto-title-meta,
 .navbar-brand,
 .navbar-title {
   display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
 }
 
 main.content {

@@ -2,8 +2,6 @@
 title: "Mali Raporlar"
 ---
 
-# Mali Raporlar
-
 ÇAHSPAR'ın mali yapısı ve kaynak kullanımı, şeffaflık, hesap verebilirlik ve kurumsal sorumluluk ilkeleri çerçevesinde izlenir. Mali raporlar, derneğin kaynak yönetimi ve faaliyetlerine dair doğru, güvenilir ve erişilebilir bilgi sunar.
 
 ## Temel bakış

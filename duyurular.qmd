@@ -2,8 +2,6 @@
 title: "Duyurular"
 ---
 
-# Duyurular
-
 Duyurular sayfası, ÇAHSPAR'ın düzenlediği etkinlikler, başvurular, toplantılar, çalışmalar ve önemli gelişmelerin takip edildiği alan olarak tasarlanmıştır.
 
 ## Duyuru türleri

@@ -12,12 +12,8 @@ website:
     left:
       - text: "Ana Sayfa"
         href: index.qmd
-      - text: "Hakkımızda"
-        href: about.qmd
       - text: "Biz Kimiz?"
         menu:
-          - text: "Hakkımızda"
-            href: about.qmd
           - text: "Kurumsal Logomuz"
             href: kurumsal-logomuz.qmd
           - text: "Kurumsal Yapımız"
@@ -26,8 +22,6 @@ website:
             href: dunden-bugune.qmd
           - text: "Faaliyet Raporları"
             href: faaliyet-raporlari.qmd
-          - text: "Mali Raporlar"
-            href: mali-raporlari.qmd
           - text: "Stratejiler"
             href: stratejiler.qmd
           - text: "Tüzük"

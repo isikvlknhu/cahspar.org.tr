@@ -2,8 +2,6 @@
 title: "İş Ortakları"
 ---
 
-# İş Ortakları
-
 ÇAHSPAR, araştırma ve uygulama süreçlerinde üniversiteler, sivil toplum kuruluşları, kamu kurumları ve özel sektör aktörleriyle iş birliği yapar. Bu iş ortaklıkları, projelerin daha güçlü ve etkili olmasını sağlar.
 
 ## İş birlikleri

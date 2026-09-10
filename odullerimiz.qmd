@@ -1,7 +1,3 @@
----
-title: "Ödüllerimiz"
----
-
 # Ödüllerimiz
 
 ÇAHSPAR, araştırma, eğitim ve toplumsal katkı alanında gösterdiği çabaların bir yansıması olarak, kurumların ve bireylerin bilim, eşitlik ve yenilik anlayışını destekleyen çalışmalara değer verir.
