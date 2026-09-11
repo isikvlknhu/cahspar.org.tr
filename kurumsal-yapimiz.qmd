@@ -3,15 +3,15 @@
 
 ## Kurucu Yönetim Kurulu Üyeleri
 
-- <div class="board-member"><img class="member-photo" src="assets/volkan-isik.jpeg" alt="Prof. Dr. Volkan IŞIK" /><span class="board-member-name">Prof. Dr. Volkan IŞIK (Yönetim Kurulu Başkanı)</span></div>
-- <div class="board-member"><img class="member-photo" src="assets/caglar-ozdemir.png" alt="Prof. Dr. Mustafa Çağlar ÖZDEMİR" /><span class="board-member-name">Prof. Dr. Mustafa Çağlar ÖZDEMİR (Yönetim Kurulu Üyesi)</span></div>
-- <div class="board-member"><img class="member-photo" src="assets/ekrem-erdogan.png" alt="Prof. Dr. Ekrem ERDOĞAN" /><span class="board-member-name">Prof. Dr. Ekrem ERDOĞAN (Yönetim Kurulu Üyesi)</span></div>
-- Prof. Dr. Mehmet ZANBAK (Yönetim Kurulu Üyesi)
-- Prof. Dr. Ufuk BİNGÖL (Yönetim Kurulu Üyesi)
-- Prof. Dr. Meltem İnce YENİLMEZ (Yönetim Kurulu Üyesi)
-- Doç. Dr. Süheyla ERİKLİ SELEK (Yönetim Kurulu Üyesi)
-- Doç. Dr. Menekşe ŞAHİN (Yönetim Kurulu Üyesi)
-- <div class="board-member"><img class="member-photo" src="assets/serhat-ozturk.jpeg" alt="Doç. Dr. Muhammet Serhat ÖZTÜRK" /><span class="board-member-name">Doç. Dr. Muhammet Serhat ÖZTÜRK (Yönetim Kurulu Üyesi)</span></div>
+<div class="board-member"><img class="member-photo" src="assets/volkan-isik.jpeg" alt="Prof. Dr. Volkan IŞIK" /><span class="board-member-name">Prof. Dr. Volkan IŞIK (Yönetim Kurulu Başkanı)</span></div>
+<div class="board-member"><img class="member-photo" src="assets/caglar-ozdemir.png" alt="Prof. Dr. Mustafa Çağlar ÖZDEMİR" /><span class="board-member-name">Prof. Dr. Mustafa Çağlar ÖZDEMİR (Yönetim Kurulu Üyesi)</span></div>
+<div class="board-member"><img class="member-photo" src="assets/ekrem-erdogan.png" alt="Prof. Dr. Ekrem ERDOĞAN" /><span class="board-member-name">Prof. Dr. Ekrem ERDOĞAN (Yönetim Kurulu Üyesi)</span></div>
+<div class="board-member">Prof. Dr. Mehmet ZANBAK (Yönetim Kurulu Üyesi)</div>
+<div class="board-member">Prof. Dr. Ufuk BİNGÖL (Yönetim Kurulu Üyesi)</div>
+<div class="board-member">Prof. Dr. Meltem İnce YENİLMEZ (Yönetim Kurulu Üyesi)</div>
+<div class="board-member">Doç. Dr. Süheyla ERİKLİ SELEK (Yönetim Kurulu Üyesi)</div>
+<div class="board-member">Doç. Dr. Menekşe ŞAHİN (Yönetim Kurulu Üyesi)</div>
+<div class="board-member"><img class="member-photo" src="assets/serhat-ozturk-portrait.jpeg" alt="Doç. Dr. Muhammet Serhat ÖZTÜRK" /><span class="board-member-name">Doç. Dr. Muhammet Serhat ÖZTÜRK (Yönetim Kurulu Üyesi)</span></div>
 
 ## Danışma Kurulu
 
