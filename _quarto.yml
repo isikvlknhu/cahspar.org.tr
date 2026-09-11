@@ -39,19 +39,19 @@ website:
       - text: "Araştırma Grupları"
         menu:
           - text: "Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu"
-            href: sosyal-politika-yoksulluk-ve-refah-arastirma-grubu.qmd
+            href: sosyal-politika-yoksulluk-ve-refah.qmd
           - text: "Çalışma Hayatı ve İstihdam Araştırma Grubu"
-            href: calisma-hayati-ve-istihdam-arastirma-grubu.qmd
-          - text: "Kadın Çalışmaları Araştırma Grubu"
-            href: kadin-calismalari-arastirma-grubu.qmd
-          - text: "Sosyal Girişimcilik ve Sürdürülebilirlik Araştırma Grubu"
-            href: sosyal-girisimcilik-ve-surdurulebilirlik-arastirma-grubu.qmd
-          - text: "Dijital Dönüşüm, Yapay Zekâ ve Çalışma Hayatı Araştırma Grubu"
-            href: dijital-donusum-yapay-zeka-ve-calisma-hayati-arastirma-grubu.qmd
+            href: calisma-hayati-ve-istihdam.qmd
+          - text: "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu"
+            href: kadin-calismalari-ve-toplumsal-cinsiyet.qmd
+          - text: "Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu"
+            href: sosyal-girisimcilik-ve-surdurulebilirlik.qmd
+          - text: "Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu"
+            href: dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.qmd
           - text: "Göç, Uyum ve Sosyal Bütünleşme Araştırma Grubu"
-            href: goc-uyum-ve-sosyal-butunlesme-arastirma-grubu.qmd
-          - text: "Gençlik, Eğitim ve Geleceğin Toplumu Araştırma Grubu"
-            href: genclik-egitim-ve-gelecegin-toplumu-arastirma-grubu.qmd
+            href: goc-uyum-ve-sosyal-butunlesme.qmd
+          - text: "Gençlik ve Eğitim Çalışmaları Araştırma Grubu"
+            href: genclik-ve-egitim-calismalari.qmd
       - text: "Basın Odası"
         menu:
           - text: "Basın Bültenleri"
