@@ -38,21 +38,12 @@ page-layout: full
 
 ## Duyurular
 
-<div class="announcement-list">
-  <div class="announcement-item">
-    <div class="announcement-header">
-      <span class="new-badge">Yeni!</span>
-      <span class="announcement-date">11.09.2026</span>
-    </div>
-    <div class="announcement-text">Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneğimizin kuruluş işlemleri tamamlanmıştır.</div>
-  </div>
+::: {.announcement-list}
+- **Yeni!** 11.09.2026  
+  Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneğimizin kuruluş işlemleri tamamlanmıştır.
 
-  <div class="announcement-item announcement-item-older">
-    <div class="announcement-header">
-      <span class="announcement-date">Duyuru</span>
-    </div>
-    <div class="announcement-text">Etkinlik, yayın ve proje duyuruları bu alanda yer alacaktır.</div>
-  </div>
-</div>
+- Duyuru  
+  Etkinlik, yayın ve proje duyuruları bu alanda yer alacaktır.
+:::
 
 [ÇAHSPAR hakkında daha fazla bilgi →](about.qmd)
