@@ -10,14 +10,14 @@ page-layout: full
 <div class="social-links">
 <a class="social-link social-linkedin" href="https://www.linkedin.com/company/%C3%A7al%C4%B1%C5%9Fma-hayat%C4%B1-ve-sosyal-politika-ara%C5%9Ft%C4%B1rmalar%C4%B1-derne%C4%9Fi/?viewAsMember=true" target="_blank" rel="noopener noreferrer" aria-label="ÇAHSPAR LinkedIn">
 <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-  <path d="M6.94 8.25a1.5 1.5 0 1 1-.02-3 1.5 1.5 0 0 1 .02 3ZM5.7 9.7h2.5v8.3H5.7V9.7Zm4.18 0h2.39v1.13h.03c.33-.63 1.15-1.29 2.37-1.29 2.53 0 2.99 1.66 2.99 3.82V18H15.2v-15.5c0-1.52-.03-3.48-2.12-3.48-2.13 0-2.46 1.66-2.46 3.38V18H9.88V9.7Z"/>
+  <path d="M6.94 8.15a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm-1.2 1.45h2.38v8.25H5.74V9.6Zm4.02 0h2.28v1.12h.03c.31-.6 1.08-1.23 2.22-1.23 2.39 0 2.83 1.57 2.83 3.62v4.74h-2.38v-4.44c0-1.06-.02-2.42-1.47-2.42-1.48 0-1.7 1.15-1.7 2.35v4.5H9.76V9.6Z"/>
 </svg>
 </a>
 <a class="social-link social-instagram" href="https://www.instagram.com/cahsparder/" target="_blank" rel="noopener noreferrer" aria-label="ÇAHSPAR Instagram">
 <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-  <rect x="3.5" y="3.5" width="17" height="17" rx="4.5" fill="none" stroke="currentColor" stroke-width="1.8"/>
-  <circle cx="12" cy="12" r="4.1" fill="none" stroke="currentColor" stroke-width="1.8"/>
-  <circle cx="17.2" cy="6.8" r="1.2" fill="currentColor"/>
+  <rect x="3.5" y="3.5" width="17" height="17" rx="4.5" fill="none" stroke="currentColor" stroke-width="1.7"/>
+  <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.7"/>
+  <circle cx="17.1" cy="6.9" r="1.2" fill="currentColor"/>
 </svg>
 </a>
 </div>
