@@ -2,6 +2,8 @@
 title: "Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu"
 ---
 
+![](assets/sosyal-girisimcilik-ve-surdurulebilirlik.png){fig-alt="Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu; toplumsal sorunlara yenilikçi ve sürdürülebilir çözümler geliştiren sosyal girişimleri, sosyal inovasyonu ve sürdürülebilir kalkınma yaklaşımlarını disiplinlerarası bir perspektifle araştırır.

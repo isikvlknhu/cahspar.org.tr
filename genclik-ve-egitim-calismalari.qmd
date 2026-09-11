@@ -2,6 +2,8 @@
 title: "Gençlik ve Eğitim Çalışmaları Araştırma Grubu"
 ---
 
+![](assets/genclik-ve-egitim-calismalari.png){fig-alt="Gençlik ve Eğitim Çalışmaları Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Gençlik ve Eğitim Çalışmaları Araştırma Grubu; gençlerin eğitim, istihdam ve toplumsal yaşama katılım süreçlerini disiplinlerarası bir perspektifle araştırır. Grubun temel amacı; gençlerin karşı karşıya olduğu fırsat ve eşitsizlikleri anlamak, eğitim ve beceri politikalarının gençlerin yaşamlarına etkilerini incelemek ve gençlerin sosyal ve ekonomik güçlenmesine katkı sağlayacak bilimsel bilgi üretmektir.

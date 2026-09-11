@@ -2,6 +2,8 @@
 title: "Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu"
 ---
 
+![](assets/dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.png){fig-alt="Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu; dijital teknolojilerin, yapay zekânın ve otomasyonun çalışma hayatı, ekonomi ve toplum üzerindeki etkilerini disiplinlerarası bir perspektifle araştırır.

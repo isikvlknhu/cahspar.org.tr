@@ -2,6 +2,8 @@
 title: "Göç, Uyum ve Sosyal Bütünleşme Araştırma Grubu"
 ---
 
+![](assets/goc-uyum-ve-sosyal-butunlesme.png){fig-alt="Göç, Uyum ve Sosyal Bütünleşme Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Göç, Uyum ve Sosyal Bütünleşme Araştırma Grubu; uluslararası ve iç göç hareketlerini, göçün ekonomik ve toplumsal etkilerini ve farklı göçmen gruplarının topluma katılım süreçlerini disiplinlerarası bir perspektifle araştırır.
