@@ -4,7 +4,7 @@
 ## Kurucu Yönetim Kurulu Üyeleri
 
 <div class="board-member"><img class="member-photo" src="assets/volkan-isik.jpeg" width="72" height="72" alt="Prof. Dr. Volkan IŞIK" /><span class="board-member-name"><a class="board-member-link" href="https://avesis.hacettepe.edu.tr/volkani" target="_blank" rel="noopener noreferrer">Prof. Dr. Volkan IŞIK (Yönetim Kurulu Başkanı)</a></span></div>
-<div class="board-member"><img class="member-photo" src="assets/caglar-ozdemir.png" width="72" height="72" alt="Prof. Dr. Mustafa Çağlar ÖZDEMİR" /><span class="board-member-name">Prof. Dr. Mustafa Çağlar ÖZDEMİR (Yönetim Kurulu Üyesi)</span></div>
+<div class="board-member"><img class="member-photo" src="assets/caglar-ozdemir.png" width="72" height="72" alt="Prof. Dr. Mustafa Çağlar ÖZDEMİR" /><span class="board-member-name"><a class="board-member-link" href="https://cozdemir.sakarya.edu.tr/" target="_blank" rel="noopener noreferrer">Prof. Dr. Mustafa Çağlar ÖZDEMİR (Yönetim Kurulu Üyesi)</a></span></div>
 <div class="board-member"><img class="member-photo" src="assets/ekrem-erdogan.png" width="72" height="72" alt="Prof. Dr. Ekrem ERDOĞAN" /><span class="board-member-name">Prof. Dr. Ekrem ERDOĞAN (Yönetim Kurulu Üyesi)</span></div>
 <div class="board-member">Prof. Dr. Mehmet ZANBAK (Yönetim Kurulu Üyesi)</div>
 <div class="board-member">Prof. Dr. Ufuk BİNGÖL (Yönetim Kurulu Üyesi)</div>
