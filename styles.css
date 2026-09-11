@@ -154,16 +154,17 @@ main.content a {
 
 .social-link svg,
 .social-link img {
-  width: 1.1rem;
-  height: 1.1rem;
+  width: 1.15rem;
+  height: 1.15rem;
   display: block;
   vertical-align: middle;
   object-fit: contain;
 }
 
 .social-linkedin img {
-  width: 1.05rem;
-  height: 1.05rem;
+  width: 1.15rem;
+  height: 1.15rem;
+  border-radius: 50%;
 }
 
 .social-instagram svg {
