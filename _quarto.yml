@@ -73,11 +73,11 @@ website:
             href: iletisim.qmd
     right:
       - text: "EN"
-        href: /en/
+        href: "https://translate.google.com/translate?sl=tr&tl=en&u=https://cahspar.org.tr/"
       - text: "FR"
-        href: /fr/
+        href: "https://translate.google.com/translate?sl=tr&tl=fr&u=https://cahspar.org.tr/"
       - text: "ES"
-        href: /es/
+        href: "https://translate.google.com/translate?sl=tr&tl=es&u=https://cahspar.org.tr/"
   page-footer:
     center: "© 2026 ÇAHSPAR"
 
@@ -85,6 +85,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: language-switcher.html
     lang: tr
     toc: false
     link-external-newwindow: true
