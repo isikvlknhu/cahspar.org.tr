@@ -152,15 +152,18 @@ main.content a {
   transform: translateY(-1px);
 }
 
-.social-link svg {
+.social-link svg,
+.social-link img {
   width: 1.1rem;
   height: 1.1rem;
   display: block;
   vertical-align: middle;
+  object-fit: contain;
 }
 
-.social-linkedin svg path {
-  fill: currentColor;
+.social-linkedin img {
+  width: 1.05rem;
+  height: 1.05rem;
 }
 
 .social-instagram svg {
