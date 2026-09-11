@@ -36,6 +36,8 @@ website:
             href: projeler.qmd
           - text: "İş Ortakları"
             href: is-ortaklari.qmd
+      - text: "Araştırma Grupları"
+        href: arastirma-gruplari.qmd
       - text: "Basın Odası"
         menu:
           - text: "Basın Bültenleri"
