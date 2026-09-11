@@ -52,8 +52,6 @@ website:
         menu:
           - text: "İletişim"
             href: iletisim.qmd
-          - text: "Bize Yazın"
-            href: bize-yazin.qmd
   page-footer:
     center: "© 2026 ÇAHSPAR · Kuruluş başvuru aşamasındadır."
 
