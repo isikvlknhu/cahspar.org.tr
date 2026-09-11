@@ -71,6 +71,13 @@ website:
         menu:
           - text: "İletişim"
             href: iletisim.qmd
+    right:
+      - text: "EN"
+        href: /en/
+      - text: "FR"
+        href: /fr/
+      - text: "ES"
+        href: /es/
   page-footer:
     center: "© 2026 ÇAHSPAR"
 
