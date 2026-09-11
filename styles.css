@@ -154,8 +154,8 @@ main.content a {
 
 .social-link svg,
 .social-link img {
-  width: 1.15rem;
-  height: 1.15rem;
+  width: 0.9rem;
+  height: 0.9rem;
   display: block;
   vertical-align: middle;
   object-fit: contain;
@@ -163,8 +163,8 @@ main.content a {
 
 .social-linkedin img,
 .social-instagram img {
-  width: 1.15rem;
-  height: 1.15rem;
+  width: 0.9rem;
+  height: 0.9rem;
   border-radius: 50%;
 }
 
