@@ -217,6 +217,15 @@ main.content .quarto-title-block {
   min-width: 0;
 }
 
+.board-member-link {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.board-member-link:hover {
+  text-decoration: underline !important;
+}
+
 @media (max-width: 991.98px) {
   .navbar-nav {
     flex-direction: column;
