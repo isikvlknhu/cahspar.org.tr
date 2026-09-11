@@ -161,25 +161,11 @@ main.content a {
   object-fit: contain;
 }
 
-.social-linkedin img {
+.social-linkedin img,
+.social-instagram img {
   width: 1.15rem;
   height: 1.15rem;
   border-radius: 50%;
-}
-
-.social-instagram svg {
-  width: 1.15rem;
-  height: 1.15rem;
-}
-
-.social-instagram svg rect,
-.social-instagram svg circle {
-  stroke: currentColor;
-}
-
-.social-instagram svg circle:last-child {
-  fill: currentColor;
-  stroke: none;
 }
 
 .social-links p {
