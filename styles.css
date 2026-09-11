@@ -115,6 +115,32 @@ main.content a {
   margin: 0 auto;
 }
 
+.social-linkedin {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  margin-top: 0.9rem;
+  color: var(--brand-blue);
+  border: 1px solid rgba(13, 61, 122, 0.16);
+  border-radius: 999px;
+  background: #f4f8fc;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.social-linkedin:hover {
+  color: var(--brand-white);
+  background: var(--brand-blue);
+  border-color: var(--brand-blue);
+}
+
+.social-linkedin svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
 .hero h1 {
   font-size: clamp(2rem, 4vw, 3rem);
   font-weight: 800;
