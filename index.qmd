@@ -3,31 +3,6 @@ title: ""
 page-layout: full
 ---
 
-<script>
-(function () {
-  try {
-    var url = new URL(window.location.href);
-    var version = url.searchParams.get('v');
-
-    if (!version) {
-      url.searchParams.set('v', Date.now());
-      window.location.replace(url.toString());
-      return;
-    }
-
-    document.querySelectorAll('link[rel="stylesheet"]').forEach(function (link) {
-      if (!link.href) return;
-      var resolved = new URL(link.href, window.location.href);
-      if (resolved.searchParams.has('v')) return;
-      resolved.searchParams.set('v', version);
-      link.href = resolved.toString();
-    });
-  } catch (error) {
-    console.warn('Cache bypass failed:', error);
-  }
-})();
-</script>
-
 ::: {.hero}
 
 ![](assets/cahspar-logo.png){width=2080px fig-align="center"}
