@@ -78,23 +78,3 @@ format:
     lang: tr
     toc: false
     link-external-newwindow: true
-    include-in-header: |
-      <script>
-        (function () {
-          const url = new URL(window.location.href);
-          const version = Date.now();
-
-          if (!url.searchParams.has('v')) {
-            url.searchParams.set('v', version);
-            window.location.replace(url.toString());
-            return;
-          }
-
-          document.querySelectorAll('link[rel="stylesheet"]').forEach(function (link) {
-            const href = link.getAttribute('href');
-            if (!href || href.indexOf('v=') !== -1) return;
-            const separator = href.indexOf('?') === -1 ? '?' : '&';
-            link.setAttribute('href', href + separator + 'v=' + version);
-          });
-        })();
-      </script>
