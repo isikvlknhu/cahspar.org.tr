@@ -1,0 +1,268 @@
+:root {
+  --brand-blue: #0d3d7a;
+  --brand-blue-2: #1b4d8d;
+  --brand-green: #7aa36a;
+  --brand-gray: #6d7784;
+  --brand-white: #ffffff;
+  --brand-text: #1b3558;
+  --brand-bg: #ffffff;
+}
+
+body {
+  margin: 0;
+  background: var(--brand-bg);
+  color: var(--brand-text);
+  font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+#quarto-header {
+  display: block !important;
+}
+
+main.content {
+  padding: 0 !important;
+  max-width: none !important;
+}
+
+.navbar {
+  background: var(--brand-blue) !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  min-height: 60px !important;
+  padding: 0 !important;
+}
+
+.navbar .container-fluid,
+.navbar .navbar-container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.navbar-brand {
+  display: none !important;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: stretch;
+  width: 100%;
+  margin: 0;
+}
+
+.navbar-nav .nav-item,
+.navbar-nav .dropdown {
+  position: relative;
+}
+
+.navbar-nav .nav-link,
+.navbar-nav .dropdown-toggle {
+  color: var(--brand-white) !important;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.9rem 1rem !important;
+  border-left: 1px solid rgba(255,255,255,0.12);
+  display: flex;
+  align-items: center;
+  min-height: 58px;
+  font-size: 0.92rem;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .dropdown-toggle:hover {
+  background: rgba(255,255,255,0.08);
+}
+
+.dropdown-menu {
+  background: rgba(13,61,122,0.98) !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: 0 10px 18px rgba(0,0,0,0.12);
+  margin-top: 0 !important;
+}
+
+.dropdown-menu .dropdown-item {
+  color: var(--brand-white) !important;
+  padding: 0.7rem 1rem;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background: rgba(255,255,255,0.08) !important;
+}
+
+main.content p,
+main.content li,
+main.content a,
+main.content .callout {
+  color: var(--brand-text);
+}
+
+main.content a {
+  color: var(--brand-blue-2);
+}
+
+.hero {
+  margin-top: 0.5rem;
+  text-align: center;
+  padding: 1rem 0 0;
+}
+
+.hero img {
+  max-width: 192px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+  color: #1e3359;
+  margin-top: 0.8rem;
+}
+
+.status-note,
+.home-intro {
+  margin: 1.25rem auto 0;
+  max-width: 1200px;
+  padding: 0 1rem;
+  text-align: justify;
+}
+
+.status-note p,
+.home-intro p,
+.status-note,
+.home-intro {
+  margin: 0;
+  text-align: justify;
+}
+
+.home-intro {
+  margin-bottom: 2rem;
+}
+
+.content {
+  padding: 1.5rem 1rem 2rem !important;
+}
+
+main.content > h1:first-child,
+main.content h1.title,
+main.content .quarto-title,
+main.content .quarto-title-block h1,
+main.content h1 {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: clamp(2.2rem, 3vw, 3.2rem);
+  line-height: 1.1;
+  letter-spacing: -0.045em;
+  font-weight: 600;
+  color: var(--brand-blue);
+  margin: 0.25rem 0 1.35rem;
+  padding: 0 0 0.75rem 0;
+  text-align: left;
+  border-bottom: 1px solid rgba(13, 61, 122, 0.14);
+  text-shadow: 0 1px 0 rgba(13, 61, 122, 0.04);
+}
+
+main.content h2 {
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-size: clamp(1.65rem, 2.2vw, 2.3rem);
+  line-height: 1.2;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+  color: var(--brand-blue);
+  margin: 4rem 0 0.9rem;
+}
+
+main.content h3 {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  font-weight: 700;
+  color: var(--brand-blue);
+  margin: 1.5rem 0 0.7rem;
+}
+
+main.content .quarto-title-block {
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-nav {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .navbar-nav .nav-link,
+  .navbar-nav .dropdown-toggle {
+    border-left: 0;
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+    width: 100%;
+  }
+
+  .dropdown-menu {
+    position: static !important;
+    float: none;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1100px) {
+  .site-header {
+    grid-template-columns: 1fr;
+  }
+
+  .brand-block {
+    justify-content: center;
+  }
+
+  .top-menu {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0.4rem 0;
+  }
+
+  .utility-tools {
+    justify-content: center;
+    padding: 0.8rem 0 1rem;
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-panel {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 700px) {
+  .brand-mark {
+    width: 72px;
+    height: 72px;
+    font-size: 42px;
+  }
+
+  .brand-copy {
+    text-align: center;
+  }
+
+  .top-menu {
+    flex-direction: column;
+  }
+
+  .menu-item {
+    width: 100%;
+  }
+
+  .menu-item summary,
+  .menu-link {
+    width: 100%;
+    padding: 0.85rem 1rem;
+  }
+
+  .sub-menu {
+    position: static;
+    width: 100%;
+  }
+}
