@@ -187,6 +187,26 @@ main.content .quarto-title-block {
   margin-bottom: 1.5rem;
 }
 
+.board-member {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 0.25rem 0;
+}
+
+.member-photo {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.board-member-name {
+  line-height: 1.35;
+}
+
 @media (max-width: 991.98px) {
   .navbar-nav {
     flex-direction: column;
