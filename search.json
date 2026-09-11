@@ -126,39 +126,18 @@
     "text": "Duyurular\nEtkinlik, yayın ve proje duyuruları bu alanda yer alacaktır.\nÇAHSPAR hakkında daha fazla bilgi →"
   },
   {
-    "objectID": "bize-yazin.html",
-    "href": "bize-yazin.html",
-    "title": "Bize Yazın",
+    "objectID": "projeler.html",
+    "href": "projeler.html",
+    "title": "Projeler",
     "section": "",
-    "text": "Sorularınız, önerileriniz, iş birliği talepleriniz ve görüşleriniz için bizimle iletişime geçebilirsiniz. Mesajlarınız incelendikten sonra gerekli dönüşler sağlanacaktır."
+    "text": "ÇAHSPAR’ın proje yaklaşımı, kurumsal hedeflerle toplumun somut ihtiyaçlarını bir araya getiren uygulamalı ve etkili çalışmalar üretmeyi hedefler."
   },
   {
-    "objectID": "bize-yazin.html#mesaj-göndermek-için",
-    "href": "bize-yazin.html#mesaj-göndermek-için",
-    "title": "Bize Yazın",
-    "section": "Mesaj göndermek için",
-    "text": "Mesaj göndermek için\n\nKonu başlığı belirtin\nİletmek istediğiniz talebi net şekilde açıklayın\nGerekirse iletişim bilgilerinizi paylaşın\n\nBizimle olan iletişiminiz, paydaş ilişkilerimizi güçlendirmemize ve daha etkili çözümler üretmemize yardımcı olur."
-  },
-  {
-    "objectID": "gonullu-olun.html",
-    "href": "gonullu-olun.html",
-    "title": "Gönüllü Olun",
-    "section": "",
-    "text": "ÇAHSPAR için gönüllü olmak, çalışma yaşamı ve sosyal politika alanında anlamlı katkılar üretmek isteyen bireyler için önemli bir fırsattır. Gönüllüler, proje ve etkinliklerde araştırma, iletişim, organizasyon ve saha desteği gibi alanlarda katkı sunabilir."
-  },
-  {
-    "objectID": "gonullu-olun.html#gönüllülük-alanları",
-    "href": "gonullu-olun.html#gönüllülük-alanları",
-    "title": "Gönüllü Olun",
-    "section": "Gönüllülük alanları",
-    "text": "Gönüllülük alanları\n\nEtkinlik organizasyonu\nAraştırma ve veri destekleri\nToplumsal iletişim ve farkındalık çalışmaları\nEğitim ve program destekleri\n\nGönüllülük, derneğin toplumsal etki üretme kapasitesini güçlendirir."
-  },
-  {
-    "objectID": "uye-olun.html",
-    "href": "uye-olun.html",
-    "title": "Üye Olun",
-    "section": "",
-    "text": "Üye olmak için Başvuru Formunu doldurarak derneğimiz e-posta adresine (info@cahspar.org.tr) gönderiniz.\nBaşvuru Formunu indiriniz\nÜyelikle İlgili Tüzük Maddeleri:\nMadde 3 - Dernekler Kanunu’nda belirtilen şartları taşıyan, derneğin amaç ve ilkelerini benimsemiş ve bu doğrultuda çalışmayı kabul etmiş herkes derneğe üye olmak için başvurabilir.\nDerneğin üyelik türleri şunlardır:\n\nAsil üyelik\nFahri üyelik\nOnursal üyelik\n\nAsil üyelik: Fiil ehliyetine sahip, derneğin amaç ve ilkelerini benimseyen, mevzuatın öngördüğü koşulları taşıyan akademisyenler, araştırmacılar, uzmanlar, işverenler, gerçek ve tüzel kişiler bu derneğe üye olma hakkına sahiptir.\nFahri üyelik: Dernek Yönetim Kurulu kararı ile derneğe yakın ilgi gösterenler, önemli çalışmaları olanlar veya derneğin amacıyla ilgili alanlarda katkı sağlamış kişiler fahri üye olabilir.\nOnursal üyelik: Derneğe maddi ve manevi bakımdan önemli katkı sağlamış kişiler, yönetim kurulu kararıyla onursal üye kabul edilebilir.\nMadde 4 - Dernek başkanlığına yapılan üyelik başvurusu, dernek yönetim kurulunca en geç otuz gün içinde kabul veya reddedilir. Sonuç yazılı olarak başvuru sahibine bildirilir.\nDerneğin asli üyeleri, kurucular ile müracaatları üzerine yönetim kurulu kararıyla üyeliğe kabul edilen kişilerdir.\nMadde 5 - Dernek üyeleri eşit haklara sahiptir. Her üyenin genel kurulda bir oy hakkı vardır. Fahri üyelerin oy hakkı yoktur.\nDernek üyeleri, genel kurul tarafından belirlenen giriş ve aylık/yıllık aidatı öderler."
+    "objectID": "projeler.html#proje-alanları",
+    "href": "projeler.html#proje-alanları",
+    "title": "Projeler",
+    "section": "Proje alanları",
+    "text": "Proje alanları\n\nÇalışma yaşamı ve istihdam politikaları\nSosyal koruma ve eşitlik\nMesleki eğitim ve beceri geliştirme\nDijitalleşme ve geleceğin çalışma biçimleri\nToplumsal dönüşüm ve katılım"
   },
   {
     "objectID": "tuzuk.html",
@@ -308,18 +287,25 @@
     "text": "20. Derneğin Feshi ve Mal Varlığının Tasfiyesi\nMadde 23 - Genel kurul, derneğin feshine karar verebilir.\nFesih kararı için gerekli çoğunluk sağlanır. Fesih halinde, son yönetim kurulu üyelerinden oluşan tasfiye kurulu derneğin para, mal ve haklarını tasfiye eder. Kalan varlık, genel kurulda belirlenen yere devredilir; belirlenmemişse amacına en yakın derneğe devredilir.\nTüzük metninin tamamı, derneğin kurumsal yapısı, amaçları, yönetim modeli, üyelik düzeni ve faaliyet ilkeleri açısından bu çerçevede düzenlenmiştir."
   },
   {
-    "objectID": "projeler.html",
-    "href": "projeler.html",
-    "title": "Projeler",
+    "objectID": "uye-olun.html",
+    "href": "uye-olun.html",
+    "title": "Üye Olun",
     "section": "",
-    "text": "ÇAHSPAR’ın proje yaklaşımı, kurumsal hedeflerle toplumun somut ihtiyaçlarını bir araya getiren uygulamalı ve etkili çalışmalar üretmeyi hedefler."
+    "text": "Üye olmak için Başvuru Formunu doldurarak derneğimiz e-posta adresine (info@cahspar.org.tr) gönderiniz.\nBaşvuru Formunu indiriniz\nÜyelikle İlgili Tüzük Maddeleri:\nMadde 3 - Dernekler Kanunu’nda belirtilen şartları taşıyan, derneğin amaç ve ilkelerini benimsemiş ve bu doğrultuda çalışmayı kabul etmiş herkes derneğe üye olmak için başvurabilir.\nDerneğin üyelik türleri şunlardır:\n\nAsil üyelik\nFahri üyelik\nOnursal üyelik\n\nAsil üyelik: Fiil ehliyetine sahip, derneğin amaç ve ilkelerini benimseyen, mevzuatın öngördüğü koşulları taşıyan akademisyenler, araştırmacılar, uzmanlar, işverenler, gerçek ve tüzel kişiler bu derneğe üye olma hakkına sahiptir.\nFahri üyelik: Dernek Yönetim Kurulu kararı ile derneğe yakın ilgi gösterenler, önemli çalışmaları olanlar veya derneğin amacıyla ilgili alanlarda katkı sağlamış kişiler fahri üye olabilir.\nOnursal üyelik: Derneğe maddi ve manevi bakımdan önemli katkı sağlamış kişiler, yönetim kurulu kararıyla onursal üye kabul edilebilir.\nMadde 4 - Dernek başkanlığına yapılan üyelik başvurusu, dernek yönetim kurulunca en geç otuz gün içinde kabul veya reddedilir. Sonuç yazılı olarak başvuru sahibine bildirilir.\nDerneğin asli üyeleri, kurucular ile müracaatları üzerine yönetim kurulu kararıyla üyeliğe kabul edilen kişilerdir.\nMadde 5 - Dernek üyeleri eşit haklara sahiptir. Her üyenin genel kurulda bir oy hakkı vardır. Fahri üyelerin oy hakkı yoktur.\nDernek üyeleri, genel kurul tarafından belirlenen giriş ve aylık/yıllık aidatı öderler."
   },
   {
-    "objectID": "projeler.html#proje-alanları",
-    "href": "projeler.html#proje-alanları",
-    "title": "Projeler",
-    "section": "Proje alanları",
-    "text": "Proje alanları\n\nÇalışma yaşamı ve istihdam politikaları\nSosyal koruma ve eşitlik\nMesleki eğitim ve beceri geliştirme\nDijitalleşme ve geleceğin çalışma biçimleri\nToplumsal dönüşüm ve katılım"
+    "objectID": "gonullu-olun.html",
+    "href": "gonullu-olun.html",
+    "title": "Gönüllü Olun",
+    "section": "",
+    "text": "ÇAHSPAR için gönüllü olmak, çalışma yaşamı ve sosyal politika alanında anlamlı katkılar üretmek isteyen bireyler için önemli bir fırsattır. Gönüllüler, proje ve etkinliklerde araştırma, iletişim, organizasyon ve saha desteği gibi alanlarda katkı sunabilir."
+  },
+  {
+    "objectID": "gonullu-olun.html#gönüllülük-alanları",
+    "href": "gonullu-olun.html#gönüllülük-alanları",
+    "title": "Gönüllü Olun",
+    "section": "Gönüllülük alanları",
+    "text": "Gönüllülük alanları\n\nEtkinlik organizasyonu\nAraştırma ve veri destekleri\nToplumsal iletişim ve farkındalık çalışmaları\nEğitim ve program destekleri\n\nGönüllülük, derneğin toplumsal etki üretme kapasitesini güçlendirir."
   },
   {
     "objectID": "is-ortaklari.html",
