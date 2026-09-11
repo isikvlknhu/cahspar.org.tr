@@ -131,7 +131,9 @@ main.content a {
 }
 
 .status-note p,
-.home-intro p {
+.home-intro p,
+.status-note,
+.home-intro {
   margin: 0;
   text-align: justify;
 }
