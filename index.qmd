@@ -3,16 +3,47 @@ title: ""
 page-layout: full
 ---
 
+<script>
+(function () {
+  try {
+    var url = new URL(window.location.href);
+    var version = url.searchParams.get('v');
+
+    if (!version) {
+      url.searchParams.set('v', Date.now());
+      window.location.replace(url.toString());
+      return;
+    }
+
+    document.querySelectorAll('link[rel="stylesheet"]').forEach(function (link) {
+      if (!link.href) return;
+      var resolved = new URL(link.href, window.location.href);
+      if (resolved.searchParams.has('v')) return;
+      resolved.searchParams.set('v', version);
+      link.href = resolved.toString();
+    });
+  } catch (error) {
+    console.warn('Cache bypass failed:', error);
+  }
+})();
+</script>
+
 ::: {.hero}
 
 ![](assets/cahspar-logo.png){width=2080px fig-align="center"}
 
 <div class="social-links">
 <a class="social-link social-linkedin" href="https://www.linkedin.com/company/%C3%A7al%C4%B1%C5%9Fma-hayat%C4%B1-ve-sosyal-politika-ara%C5%9Ft%C4%B1rmalar%C4%B1-derne%C4%9Fi/?viewAsMember=true" target="_blank" rel="noopener noreferrer" aria-label="ÇAHSPAR LinkedIn">
-<i class="bi bi-linkedin" aria-hidden="true"></i>
+<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+  <path d="M6.94 8.25a1.5 1.5 0 1 1-.02-3 1.5 1.5 0 0 1 .02 3ZM5.7 9.7h2.5v8.3H5.7V9.7Zm4.18 0h2.39v1.13h.03c.33-.63 1.15-1.29 2.37-1.29 2.53 0 2.99 1.66 2.99 3.82V18H15.2v-15.5c0-1.52-.03-3.48-2.12-3.48-2.13 0-2.46 1.66-2.46 3.38V18H9.88V9.7Z"/>
+</svg>
 </a>
 <a class="social-link social-instagram" href="https://www.instagram.com/cahsparder/" target="_blank" rel="noopener noreferrer" aria-label="ÇAHSPAR Instagram">
-<i class="bi bi-instagram" aria-hidden="true"></i>
+<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+  <rect x="3.5" y="3.5" width="17" height="17" rx="4.5" fill="none" stroke="currentColor" stroke-width="1.8"/>
+  <circle cx="12" cy="12" r="4.1" fill="none" stroke="currentColor" stroke-width="1.8"/>
+  <circle cx="17.2" cy="6.8" r="1.2" fill="currentColor"/>
+</svg>
 </a>
 </div>
 
