@@ -2,6 +2,8 @@
 title: "Çalışma Hayatı ve İstihdam Araştırma Grubu"
 ---
 
+![](assets/calisma-hayati-ve-istihdam.png){fig-alt="Çalışma Hayatı ve İstihdam Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Çalışma Hayatı ve İstihdam Araştırma Grubu; çalışma hayatındaki dönüşümleri, istihdam yapısını ve işgücü piyasalarının ekonomik ve toplumsal etkilerini disiplinlerarası bir perspektifle araştırır. Grubun temel amacı, değişen çalışma dünyasını anlamaya ve daha kapsayıcı, güvenceli, adil ve sürdürülebilir çalışma hayatının geliştirilmesine yönelik bilimsel bilgi üretmektir.

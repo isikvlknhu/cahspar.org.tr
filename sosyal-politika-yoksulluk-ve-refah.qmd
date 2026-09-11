@@ -2,6 +2,8 @@
 title: "Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu"
 ---
 
+![](assets/sosyal-politika-yoksulluk-ve-refah.png){fig-alt="Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu; yoksulluk, eşitsizlik, sosyal koruma ve refah politikalarını disiplinlerarası bir perspektifle araştırır. Grubun temel amacı, toplumsal refahın geliştirilmesine ve daha kapsayıcı, adil ve sürdürülebilir sosyal politikaların oluşturulmasına yönelik bilimsel bilgi üretmektir.
