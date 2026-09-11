@@ -7,7 +7,7 @@
 <div class="board-member"><img class="member-photo" src="assets/caglar-ozdemir.png" width="72" height="72" alt="Prof. Dr. Mustafa Çağlar ÖZDEMİR" /><span class="board-member-name"><a class="board-member-link" href="https://cozdemir.sakarya.edu.tr/" target="_blank" rel="noopener noreferrer">Prof. Dr. Mustafa Çağlar ÖZDEMİR (Yönetim Kurulu Üyesi)</a></span></div>
 <div class="board-member"><img class="member-photo" src="assets/ekrem-erdogan.png" width="72" height="72" alt="Prof. Dr. Ekrem ERDOĞAN" /><span class="board-member-name"><a class="board-member-link" href="https://eerdogan.sakarya.edu.tr/" target="_blank" rel="noopener noreferrer">Prof. Dr. Ekrem ERDOĞAN (Yönetim Kurulu Üyesi)</a></span></div>
 <div class="board-member"><a class="board-member-link" href="https://avesis.akdeniz.edu.tr/mehmetzanbak" target="_blank" rel="noopener noreferrer">Prof. Dr. Mehmet ZANBAK (Yönetim Kurulu Üyesi)</a></div>
-<div class="board-member">Prof. Dr. Ufuk BİNGÖL (Yönetim Kurulu Üyesi)</div>
+<div class="board-member"><a class="board-member-link" href="https://acikerisim.bandirma.edu.tr/arastirmaci/ubingol" target="_blank" rel="noopener noreferrer">Prof. Dr. Ufuk BİNGÖL (Yönetim Kurulu Üyesi)</a></div>
 <div class="board-member">Prof. Dr. Meltem İnce YENİLMEZ (Yönetim Kurulu Üyesi)</div>
 <div class="board-member">Doç. Dr. Süheyla ERİKLİ SELEK (Yönetim Kurulu Üyesi)</div>
 <div class="board-member">Doç. Dr. Menekşe ŞAHİN (Yönetim Kurulu Üyesi)</div>
