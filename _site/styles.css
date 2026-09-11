@@ -192,19 +192,29 @@ main.content .quarto-title-block {
   align-items: center;
   gap: 0.9rem;
   margin: 0.25rem 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .member-photo {
-  width: 72px;
-  height: 72px;
+  width: 72px !important;
+  min-width: 72px !important;
+  max-width: 72px !important;
+  height: 72px !important;
+  min-height: 72px !important;
+  max-height: 72px !important;
   object-fit: cover;
+  display: block;
   border-radius: 8px;
   flex: none;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  aspect-ratio: 1 / 1;
 }
 
 .board-member-name {
   line-height: 1.35;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 @media (max-width: 991.98px) {
