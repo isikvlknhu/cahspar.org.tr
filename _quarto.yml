@@ -69,7 +69,7 @@ website:
           - text: "İletişim"
             href: iletisim.qmd
   page-footer:
-    center: "© 2026 ÇAHSPAR · Kuruluş başvuru aşamasındadır."
+    center: "© 2026 ÇAHSPAR"
 
 format:
   html:
