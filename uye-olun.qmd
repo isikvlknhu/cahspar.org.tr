@@ -6,6 +6,8 @@ title: "Üye Olun"
 
 [Başvuru Formunu indiriniz](assets/uye-basvuru-formu.pdf)
 
+Üyelikle İlgili Tüzük Maddeleri:
+
 Madde 3 - Dernekler Kanunu’nda belirtilen şartları taşıyan, derneğin amaç ve ilkelerini benimsemiş ve bu doğrultuda çalışmayı kabul etmiş herkes derneğe üye olmak için başvurabilir.
 
 Derneğin üyelik türleri şunlardır:

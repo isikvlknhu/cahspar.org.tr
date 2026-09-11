@@ -122,14 +122,22 @@ main.content a {
   margin-top: 0.8rem;
 }
 
-.status-note {
+.status-note,
+.home-intro {
   margin: 1.25rem auto 0;
   max-width: 1200px;
   padding: 0 1rem;
+  text-align: justify;
 }
 
-.status-note p {
+.status-note p,
+.home-intro p {
   margin: 0;
+  text-align: justify;
+}
+
+.home-intro {
+  margin-bottom: 2rem;
 }
 
 .content {
@@ -161,7 +169,7 @@ main.content h2 {
   letter-spacing: -0.03em;
   font-weight: 600;
   color: var(--brand-blue);
-  margin: 2rem 0 0.9rem;
+  margin: 4rem 0 0.9rem;
 }
 
 main.content h3 {
