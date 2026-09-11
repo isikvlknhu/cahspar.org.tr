@@ -2,6 +2,8 @@
 title: "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu"
 ---
 
+![](assets/kadin-calismalari-ve-toplumsal-cinsiyet.png){fig-alt="Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu" fig-align="center" width="100%"}
+
 ### Hakkında
 
 Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu; kadınların toplumsal, ekonomik ve siyasal yaşam içindeki konumunu ve toplumsal cinsiyet eşitsizliklerinin farklı boyutlarını disiplinlerarası bir perspektifle araştırır. Grubun temel amacı, kadınların yaşamlarını ve fırsatlarını şekillendiren yapısal, ekonomik, kültürel ve kurumsal dinamiklere ilişkin bilimsel bilgi üretmek ve toplumsal cinsiyet eşitliğinin güçlendirilmesine katkı sağlamaktır.
