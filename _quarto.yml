@@ -35,6 +35,8 @@ website:
             href: ortaklarimiz.qmd
           - text: "Ödüllerimiz"
             href: odullerimiz.qmd
+          - text: "ÇAHSPAR Hakkında"
+            href: about.qmd
       - text: "Projeler"
         menu:
           - text: "Projeler"
