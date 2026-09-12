@@ -500,11 +500,7 @@ main.content .quarto-title-block {
     box-shadow: 0 0.48rem 0 0 var(--brand-white), 0 0.96rem 0 0 var(--brand-white);
   }
 
-  .navbar-collapse,
-  .navbar-collapse.show,
-  .navbar-collapse.collapsing,
-  .navbar-expand-lg .navbar-collapse,
-  .navbar-expand-lg .navbar-nav {
+  .navbar-collapse {
     display: none !important;
     flex-direction: column !important;
     flex-wrap: nowrap !important;
@@ -521,8 +517,7 @@ main.content .quarto-title-block {
     z-index: 1001;
   }
 
-  .navbar-collapse.show,
-  .navbar-collapse:not(.collapse) {
+  .navbar-collapse.show {
     display: flex !important;
   }
 
@@ -578,6 +573,10 @@ main.content .quarto-title-block {
     max-height: 45vh;
     overflow-y: auto;
     border-radius: 0;
+    display: none !important;
+  }
+
+  .dropdown-menu.show {
     display: block !important;
   }
 
