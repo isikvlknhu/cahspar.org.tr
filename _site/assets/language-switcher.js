@@ -68,8 +68,11 @@
 
       if (clickedItem && window.innerWidth < 992) {
         var href = clickedItem.getAttribute("href");
-        setMenuState(false);
-        if (href && href !== "#") {
+        var targetUrl = href ? new URL(href, window.location.href).href : "";
+        var isCurrentPage = targetUrl && targetUrl === window.location.href;
+
+        setMenuState(!isCurrentPage);
+        if (href && href !== "#" && !isCurrentPage) {
           window.location.href = href;
         }
       }

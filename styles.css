@@ -137,6 +137,15 @@ main.content {
   background: rgba(255,255,255,0.08) !important;
 }
 
+.dropdown-menu .dropdown-item.active,
+.dropdown-menu .dropdown-item[aria-current="page"] {
+  background: rgba(255,255,255,0.12) !important;
+  color: var(--brand-white) !important;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
 main.content p,
 main.content li,
 main.content a,
