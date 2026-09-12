@@ -85,6 +85,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header: cache-bust.html
     include-after-body: language-switcher.html
     lang: tr
     toc: false
