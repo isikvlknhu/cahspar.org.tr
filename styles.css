@@ -475,15 +475,15 @@ main.content .quarto-title-block {
     flex-wrap: nowrap !important;
     width: 100% !important;
     max-width: 100% !important;
-    overflow: hidden !important;
+    overflow-y: auto !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
     position: fixed !important;
     left: 0 !important;
     right: 0 !important;
     top: 64px !important;
     bottom: 0 !important;
     max-height: calc(100vh - 64px) !important;
-    overflow-y: auto !important;
-    overflow-x: hidden !important;
     background: rgba(13,61,122,0.98) !important;
     transform: none !important;
     transition: none !important;
@@ -509,7 +509,8 @@ main.content .quarto-title-block {
     flex-direction: column !important;
     width: 100% !important;
     max-width: 100% !important;
-    overflow: hidden !important;
+    overflow-x: auto !important;
+    overflow-y: visible !important;
     flex-wrap: nowrap !important;
   }
 
