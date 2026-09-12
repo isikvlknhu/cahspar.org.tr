@@ -40,4 +40,6 @@ page-layout: full
   Etkinlik, yayın ve proje duyuruları bu alanda yer alacaktır.
 :::
 
+<div class="home-more-info">
 [ÇAHSPAR hakkında daha fazla bilgi →](about.qmd)
+</div>

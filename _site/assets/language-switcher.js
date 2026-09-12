@@ -33,7 +33,21 @@
     var toggler = document.querySelector(".navbar-toggler[data-bs-target='#navbarCollapse']");
     if (!collapse || !toggler) return;
 
+    var bsCollapse = null;
+    if (window.bootstrap && window.bootstrap.Collapse) {
+      bsCollapse = window.bootstrap.Collapse.getOrCreateInstance(collapse, { toggle: false });
+    }
+
     function setMenuState(isOpen) {
+      if (bsCollapse) {
+        if (isOpen) {
+          bsCollapse.show();
+        } else {
+          bsCollapse.hide();
+        }
+        return;
+      }
+
       collapse.classList.toggle("show", isOpen);
       collapse.classList.remove("collapsing");
       collapse.classList.add("collapse");
@@ -45,8 +59,9 @@
       var clickedToggler = target.closest(".navbar-toggler[data-bs-target='#navbarCollapse']");
       var clickedItem = target.closest(".nav-link, .dropdown-item");
 
-      if (clickedToggler) {
+      if (clickedToggler && window.innerWidth < 992) {
         event.preventDefault();
+        event.stopPropagation();
         setMenuState(!collapse.classList.contains("show"));
         return;
       }
