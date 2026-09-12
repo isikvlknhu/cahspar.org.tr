@@ -29,14 +29,15 @@
   }
 
   function bindMobileNavigation() {
-    var toggler = document.querySelector(".navbar-toggler[data-bs-target='#navbarCollapse']");
     var collapse = document.getElementById("navbarCollapse");
-    if (!toggler || !collapse) return;
+    if (!collapse) return;
 
-    toggler.addEventListener("click", function (event) {
+    document.addEventListener("click", function (event) {
+      var toggler = event.target.closest(".navbar-toggler[data-bs-target='#navbarCollapse']");
+      if (!toggler) return;
+
       event.preventDefault();
       event.stopImmediatePropagation();
-      event.stopPropagation();
 
       var isOpen = collapse.classList.toggle("show");
       collapse.classList.remove("collapsing");
