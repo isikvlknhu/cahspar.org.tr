@@ -477,21 +477,17 @@ main.content .quarto-title-block {
 
   .navbar-toggler-icon {
     background-image: none !important;
+    background-color: transparent !important;
     width: 1.6rem;
     height: 1.2rem;
     position: relative;
   }
 
-  .navbar-toggler-icon::before,
-  .navbar-toggler-icon::after,
-  .navbar-toggler-icon {
+  .navbar-toggler-icon::before {
     display: block;
     content: "";
     border-radius: 2px;
     background: var(--brand-white);
-  }
-
-  .navbar-toggler-icon::before {
     position: absolute;
     left: 0;
     right: 0;
