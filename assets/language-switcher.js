@@ -36,12 +36,13 @@
     toggler.addEventListener("click", function (event) {
       event.preventDefault();
       event.stopImmediatePropagation();
+      event.stopPropagation();
 
       var isOpen = collapse.classList.toggle("show");
       collapse.classList.remove("collapsing");
       collapse.classList.add("collapse");
       toggler.setAttribute("aria-expanded", String(isOpen));
-    });
+    }, true);
   }
 
   if (document.readyState === "loading") {
