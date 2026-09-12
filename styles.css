@@ -181,7 +181,7 @@ main.content a {
   height: 36px;
   flex: 0 0 auto;
   font-size: 0;
-  line-height: 0;
+  line-height: 1;
   border: 0;
   border-radius: 50%;
   box-shadow: none;
@@ -204,13 +204,17 @@ main.content a {
 }
 
 .social-link i {
-  display: block;
-  width: 1rem;
-  height: 1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
   color: #ffffff !important;
   font-size: 1.25rem !important;
   line-height: 1;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  position: relative;
+  top: 0.02em;
 }
 
 .social-linkedin {
@@ -475,13 +479,19 @@ main.content .quarto-title-block {
     border: 0 !important;
     outline: none !important;
     box-shadow: none !important;
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0.5rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
   }
 
   .navbar-toggler-icon {
     background-image: none !important;
     background-color: transparent !important;
-    width: 1.6rem;
-    height: 1.2rem;
+    width: 1.5rem;
+    height: 1.15rem;
     position: relative;
   }
 
@@ -561,7 +571,8 @@ main.content .quarto-title-block {
     border-bottom: 1px solid rgba(255,255,255,0.12);
     white-space: normal;
     min-height: unset;
-    padding: 0.8rem 1rem !important;
+    padding: 0.72rem 1rem !important;
+    line-height: 1.25;
   }
 
   .dropdown-menu {
