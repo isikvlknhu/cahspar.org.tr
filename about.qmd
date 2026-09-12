@@ -3,8 +3,6 @@ title: "ÇAHSPAR Hakkında"
 page-layout: full
 ---
 
-# ÇAHSPAR Hakkında
-
 ## Çalışma Hayatı ve Sosyal Politika Alanında Yeni Bir Akademik İş Birliği Ekosistemi
 ÇAHSPAR, çalışma hayatı ve sosyal politika alanlarında bilimsel araştırmayı, akademik iş birliğini ve toplumsal etkiyi güçlendirmek amacıyla kurulmuş bir akademik dernektir.
 
