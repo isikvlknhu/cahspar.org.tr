@@ -478,13 +478,14 @@ main.content .quarto-title-block {
     overflow-y: auto !important;
     overflow-x: auto !important;
     -webkit-overflow-scrolling: touch;
-    position: fixed !important;
+    position: absolute !important;
     left: 0 !important;
     right: 0 !important;
-    top: 64px !important;
-    bottom: 0 !important;
+    top: 100% !important;
+    bottom: auto !important;
     max-height: calc(100vh - 64px) !important;
     background: rgba(13,61,122,0.98) !important;
+    box-shadow: 0 12px 18px rgba(0,0,0,0.12);
     transform: none !important;
     transition: none !important;
     z-index: 1001;
