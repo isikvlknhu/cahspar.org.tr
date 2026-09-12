@@ -30,19 +30,34 @@
 
   function bindMobileNavigation() {
     var collapse = document.getElementById("navbarCollapse");
-    if (!collapse) return;
+    var toggler = document.querySelector(".navbar-toggler[data-bs-target='#navbarCollapse']");
+    if (!collapse || !toggler) return;
 
-    document.addEventListener("click", function (event) {
-      var toggler = event.target.closest(".navbar-toggler[data-bs-target='#navbarCollapse']");
-      if (!toggler) return;
-
-      event.preventDefault();
-      event.stopImmediatePropagation();
-
-      var isOpen = collapse.classList.toggle("show");
+    function setMenuState(isOpen) {
+      collapse.classList.toggle("show", isOpen);
       collapse.classList.remove("collapsing");
       collapse.classList.add("collapse");
       toggler.setAttribute("aria-expanded", String(isOpen));
+    }
+
+    document.addEventListener("click", function (event) {
+      var target = event.target;
+      var clickedToggler = target.closest(".navbar-toggler[data-bs-target='#navbarCollapse']");
+      var clickedItem = target.closest(".nav-link, .dropdown-item");
+
+      if (clickedToggler) {
+        event.preventDefault();
+        setMenuState(!collapse.classList.contains("show"));
+        return;
+      }
+
+      if (clickedItem && window.innerWidth < 992) {
+        var href = clickedItem.getAttribute("href");
+        setMenuState(false);
+        if (href && href !== "#") {
+          window.location.href = href;
+        }
+      }
     }, true);
   }
 
