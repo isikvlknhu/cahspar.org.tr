@@ -40,6 +40,44 @@ page-layout: full
   Etkinlik, yayın ve proje duyuruları bu alanda yer alacaktır.
 :::
 
+## RSS Güncel Gelişmeler
+
+::: {.rss-demo-panel}
+Bu alan, son 30 gün içinde çalışma hayatı, istihdam, sosyal politika ve refah alanında yayımlanan ulusal/uluslararası gelişmeleri gösteren örnek RSS kutusudur. Deneme amacıyla anahtar kelimeler şöyle kullanılmaktadır: çalışma hayatı, istihdam, sosyal politika, refah, sosyal koruma, iş güvencesi, labour market, employment, social protection.
+
+<div class="rss-feed-grid">
+  <a class="rss-item" href="https://www.ilo.org/global/topics/decent-work/lang--tr/index.htm" target="_blank" rel="noopener noreferrer">
+    <span class="rss-source">ILO</span>
+    <strong>Decent work ve sosyal koruma politikaları, küresel iş piyasası gündeminde öne çıkmaya devam ediyor.</strong>
+    <span class="rss-meta">12 Eylül 2026 • Uluslararası çalışma düzeni</span>
+  </a>
+
+  <a class="rss-item" href="https://www.oecd.org/employment/" target="_blank" rel="noopener noreferrer">
+    <span class="rss-source">OECD</span>
+    <strong>İstihdam, beceri politikaları ve iş güvencesi için yeni ülke değerlendirmeleri yayımlandı.</strong>
+    <span class="rss-meta">10 Eylül 2026 • İş piyasası görünümü</span>
+  </a>
+
+  <a class="rss-item" href="https://www.worldbank.org/en/topic/socialprotection" target="_blank" rel="noopener noreferrer">
+    <span class="rss-source">World Bank</span>
+    <strong>Refah ve sosyal koruma harcamaları, eşitlik odaklı kalkınma için kritik bir araç olarak vurgulandı.</strong>
+    <span class="rss-meta">08 Eylül 2026 • Sosyal koruma</span>
+  </a>
+
+  <a class="rss-item" href="https://www.eurofound.europa.eu/tr" target="_blank" rel="noopener noreferrer">
+    <span class="rss-source">Eurofound</span>
+    <strong>Avrupa'da çalışma koşulları, güvenlik ve ücret politikaları üzerine yeni veri raporları yayımlandı.</strong>
+    <span class="rss-meta">05 Eylül 2026 • Çalışma koşulları</span>
+  </a>
+
+  <a class="rss-item" href="https://data.tuik.gov.tr/" target="_blank" rel="noopener noreferrer">
+    <span class="rss-source">TÜİK</span>
+    <strong>İstihdam, işsizlik ve gelir yapısı verileri, sosyal politikalar için güncel temel göstergeler olarak değerlendiriliyor.</strong>
+    <span class="rss-meta">02 Eylül 2026 • Ulusal veri</span>
+  </a>
+</div>
+:::
+
 <div class="home-more-info">
 [ÇAHSPAR hakkında daha fazla bilgi →](about.qmd)
 </div>
