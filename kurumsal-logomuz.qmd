@@ -2,21 +2,159 @@
 title: ""
 ---
 
-::: {.grid}
-::: {.g-col-4}
-![](assets/cahspar-logo.png){width="220" fig-align="left"}
-:::
-::: {.g-col-8}
-- Soldaki mavi figür: mavi yakalı çalışanı, emeği ve üretimi temsil ediyor.
+<style>
+.kurumsal-logo-visual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem 0 2rem;
+}
 
-- Ortadaki gri robot: yapay zekâ, otomasyon ve çalışma hayatının teknolojik dönüşümünü; yani geleceğin işgücünü temsil ediyor.
+.kurumsal-logo-visual svg {
+  display: block;
+  width: min(90vw, 1100px);
+  height: auto;
+  max-height: 80vh;
+}
+</style>
 
-- Sağdaki kadın figür: beyaz yakalı, bilgi ve uzmanlık temelli çalışmayı temsil ederken aynı zamanda kadınların çalışma yaşamındaki yerini ve toplumsal cinsiyet eşitliğini görünür kılıyor.
+<div class="kurumsal-logo-visual">
+<svg viewBox="0 0 1200 820" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ÇAHSPAR kurumsal logo görseli">
+  <defs>
+    <marker id="arrowBlue" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#0c5aa6"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#5aa14d"/>
+    </marker>
+  </defs>
 
-- Dişli: çalışma, üretim ve ekonomik hayat.
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#123d76">
+    <g transform="translate(90,110)">
+      <circle cx="115" cy="110" r="88" fill="#0d4f8f"/>
+      <circle cx="115" cy="110" r="62" fill="#f2f5f7"/>
+      <path d="M95 130 L135 130 L138 205 L92 205 Z" fill="#0d4f8f"/>
+      <rect x="90" y="165" width="50" height="46" rx="12" fill="#0d4f8f"/>
+      <circle cx="115" cy="85" r="34" fill="#f2f5f7"/>
+      <path d="M78 86 L88 58 L109 74 L119 52 L140 74 L153 60 L156 86 Z" fill="#0d4f8f"/>
+      <path d="M80 170 L145 170" stroke="#0d4f8f" stroke-width="18" stroke-linecap="round"/>
+      <path d="M80 130 C90 118, 96 112, 108 110 C123 108, 136 115, 145 130" fill="none" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+    </g>
 
-- Yeşil yaprak: sürdürülebilirlik ve çevresel duyarlılık.
+    <g transform="translate(720,40)">
+      <rect x="0" y="0" width="430" height="86" rx="16" fill="#e6f1f7" stroke="#0c5aa6" stroke-width="2"/>
+      <circle cx="26" cy="43" r="8" fill="#0c5aa6"/>
+      <text x="52" y="40" font-size="28" font-weight="700" fill="#123d76">•</text>
+      <text x="74" y="49" font-size="25" font-weight="600">Soldaki mavi figür: mavi yakalı çalışanı,</text>
+      <text x="74" y="78" font-size="25" font-weight="600">emeği ve üretimi temsil ediyor.</text>
+    </g>
 
-- Üç figürün aynı kavis içinde birleşmesi ise farklı çalışan gruplarının ortak bir çalışma ve toplum hayatının parçaları olduğunu anlatıyor.
-:::
-:::
+    <g transform="translate(710,150)">
+      <rect x="0" y="0" width="470" height="90" rx="16" fill="#e6f1f7" stroke="#0c5aa6" stroke-width="2"/>
+      <circle cx="26" cy="45" r="8" fill="#0c5aa6"/>
+      <text x="74" y="52" font-size="25" font-weight="600">Ortakaki gri robot: yapay zekâ, otomasyon ve</text>
+      <text x="74" y="81" font-size="25" font-weight="600">çalışma hayatının teknolojik dönüşümünü temsil ediyor.</text>
+    </g>
+
+    <g transform="translate(690,285)">
+      <rect x="0" y="0" width="500" height="96" rx="16" fill="#e6f1f7" stroke="#0c5aa6" stroke-width="2"/>
+      <circle cx="26" cy="48" r="8" fill="#0c5aa6"/>
+      <text x="74" y="51" font-size="25" font-weight="600">Sağdaki kadın figür: beyaz yakalı, bilgi ve uzmanlık</text>
+      <text x="74" y="80" font-size="25" font-weight="600">temelli çalışmayı ve eşitliği görünür kılıyor.</text>
+    </g>
+
+    <g transform="translate(760,420)">
+      <rect x="0" y="0" width="420" height="80" rx="16" fill="#e6f1f7" stroke="#0c5aa6" stroke-width="2"/>
+      <circle cx="26" cy="40" r="8" fill="#0c5aa6"/>
+      <text x="74" y="48" font-size="25" font-weight="600">Dişli: çalışma, üretim ve ekonomik hayat.</text>
+    </g>
+
+    <g transform="translate(740,525)">
+      <rect x="0" y="0" width="460" height="90" rx="16" fill="#dfeee0" stroke="#5aa14d" stroke-width="2"/>
+      <circle cx="26" cy="45" r="8" fill="#5aa14d"/>
+      <text x="74" y="52" font-size="25" font-weight="600">Yeşil yaprak: sürdürülebilirlik ve çevresel</text>
+      <text x="74" y="81" font-size="25" font-weight="600">duyarlılık.</text>
+    </g>
+
+    <g transform="translate(700,650)">
+      <rect x="0" y="0" width="500" height="90" rx="16" fill="#e6f1f7" stroke="#0c5aa6" stroke-width="2"/>
+      <circle cx="26" cy="45" r="8" fill="#0c5aa6"/>
+      <text x="74" y="52" font-size="25" font-weight="600">Üç figürün aynı kavis içinde birleşmesi, farklı</text>
+      <text x="74" y="81" font-size="25" font-weight="600">çalışan gruplarının ortak çalışmayı sembolize eder.</text>
+    </g>
+
+    <path d="M 440 80 C 510 40, 620 36, 700 60" stroke="#0c5aa6" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrowBlue)"/>
+    <path d="M 440 230 C 560 225, 650 219, 710 200" stroke="#0c5aa6" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrowBlue)"/>
+    <path d="M 440 360 C 530 360, 610 360, 690 350" stroke="#0c5aa6" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrowBlue)"/>
+    <path d="M 480 520 C 620 520, 690 505, 760 475" stroke="#0c5aa6" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrowBlue)"/>
+    <path d="M 460 640 C 560 640, 660 630, 740 615" stroke="#5aa14d" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrowGreen)"/>
+    <path d="M 440 705 C 560 710, 660 700, 700 690" stroke="#0c5aa6" stroke-width="6" fill="none" stroke-linecap="round" marker-end="url(#arrowBlue)"/>
+
+    <g transform="translate(120,210)">
+      <circle cx="150" cy="160" r="50" fill="#d7dfe6"/>
+      <circle cx="150" cy="120" r="28" fill="#f4f6f8"/>
+      <rect x="118" y="149" width="64" height="64" rx="18" fill="#d7dfe6"/>
+      <path d="M 120 100 Q 150 70, 180 100" stroke="#f4f6f8" stroke-width="12" fill="none" stroke-linecap="round"/>
+      <path d="M 86 180 L 208 180" stroke="#0d4f8f" stroke-width="20" stroke-linecap="round"/>
+      <path d="M 82 178 C 100 150, 118 136, 144 132 C 170 128, 188 150, 208 178" fill="none" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(310,210)">
+      <circle cx="150" cy="160" r="50" fill="#d7dfe6"/>
+      <circle cx="150" cy="120" r="28" fill="#f4f6f8"/>
+      <path d="M124 150 L176 150 L188 210 L112 210 Z" fill="#0d4f8f"/>
+      <path d="M124 110 L176 110" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+      <path d="M114 150 Q150 90 186 150" fill="none" stroke="#0d4f8f" stroke-width="10" stroke-linecap="round"/>
+      <path d="M112 210 L188 210" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(500,200)">
+      <circle cx="150" cy="170" r="52" fill="#0d4f8f"/>
+      <circle cx="150" cy="128" r="30" fill="#f4f6f8"/>
+      <path d="M118 170 L182 170 L186 232 L114 232 Z" fill="#0d4f8f"/>
+      <path d="M120 128 L180 128" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+      <path d="M112 168 Q150 98 188 168" fill="none" stroke="#0d4f8f" stroke-width="10" stroke-linecap="round"/>
+      <path d="M112 232 L188 232" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(260,420)">
+      <path d="M 110 260 C 160 200, 260 200, 310 260 L 300 290 C 240 350, 180 350, 120 290 Z" fill="#0d4f8f"/>
+      <circle cx="210" cy="135" r="62" fill="#0d4f8f"/>
+      <circle cx="210" cy="116" r="32" fill="#f4f6f8"/>
+      <path d="M172 156 L248 156 L258 260 L162 260 Z" fill="#0d4f8f"/>
+      <path d="M185 160 Q210 110 235 160" fill="none" stroke="#0d4f8f" stroke-width="12" stroke-linecap="round"/>
+      <path d="M175 260 L245 260" stroke="#f4f6f8" stroke-width="16" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(650,450)">
+      <circle cx="65" cy="65" r="55" fill="#0d4f8f"/>
+      <circle cx="65" cy="65" r="35" fill="#f4f6f8"/>
+      <g stroke="#0d4f8f" stroke-width="8" stroke-linecap="round" fill="none">
+        <path d="M65 16 L65 34"/>
+        <path d="M65 96 L65 114"/>
+        <path d="M16 65 L34 65"/>
+        <path d="M96 65 L114 65"/>
+        <path d="M28 28 L40 40"/>
+        <path d="M90 90 L102 102"/>
+        <path d="M28 102 L40 90"/>
+        <path d="M90 40 L102 28"/>
+      </g>
+    </g>
+
+    <g transform="translate(460,560)">
+      <path d="M 20 180 C 90 80, 180 90, 260 170 C 230 240, 160 245, 90 235 C 40 225, 20 205, 20 180 Z" fill="#7bbf65"/>
+      <path d="M 70 130 C 110 80, 165 65, 200 90 C 160 122, 120 172, 70 130 Z" fill="#7bbf65" opacity="0.92"/>
+    </g>
+
+    <g transform="translate(825,420)">
+      <circle cx="90" cy="92" r="52" fill="#0d4f8f"/>
+      <circle cx="90" cy="62" r="20" fill="#f4f6f8"/>
+      <path d="M66 90 H114 L118 142 H62 Z" fill="#f4f6f8"/>
+      <circle cx="40" cy="118" r="18" fill="#0d4f8f"/>
+      <circle cx="140" cy="118" r="18" fill="#0d4f8f"/>
+      <circle cx="90" cy="150" r="18" fill="#0d4f8f"/>
+    </g>
+  </g>
+</svg>
+</div>
+
