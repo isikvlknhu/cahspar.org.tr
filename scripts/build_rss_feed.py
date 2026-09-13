@@ -40,23 +40,53 @@ KEYWORDS = [
     "unemployment",
     "workers rights",
     "decent work",
+    "duyuru",
+    "bakan",
+    "ziyaret",
+    "açıklama",
+    "görüşme",
+    "anlaşma",
+    "program",
+    "karar",
+    "toplantı",
 ]
+
+TURKISH_OFFICIAL_DOMAINS = {"tuik.gov.tr", "sgk.gov.tr", "csgb.gov.tr", "iskur.gov.tr"}
+GENERIC_TURKISH_TITLES = {
+    "ana sayfa",
+    "hakkimizda",
+    "kurumsal politikalar",
+    "organizasyon yapisi",
+    "organizasyon yapısı",
+    "arama sonuçları",
+    "veri portalı",
+    "veri portalı",
+    "haber bültenleri",
+    "duyurular",
+    "istatistik yıllıkları",
+    "uygulama portalı",
+}
 
 ALLOWED_SOURCES = [
     {"name": "ILO", "domain": "ilo.org", "query": "site:ilo.org (employment OR social protection OR labour market OR decent work OR working conditions)"},
     {"name": "OECD", "domain": "oecd.org", "query": "site:oecd.org (employment OR labour market OR social policy OR social protection OR job quality)"},
     {"name": "Eurofound", "domain": "eurofound.europa.eu", "query": "site:eurofound.europa.eu (employment OR labour market OR working conditions OR social policy)"},
-    {"name": "TÜİK", "domain": "tuik.gov.tr", "query": "site:tuik.gov.tr (istihdam OR isizlik OR sosyal politika OR refah OR calisma hayati)"},
-    {"name": "SGK", "domain": "sgk.gov.tr", "query": "site:sgk.gov.tr (sosyal guvenlik OR istihdam OR refah OR calisma hayati)"},
-    {"name": "ÇSGB", "domain": "csgb.gov.tr", "query": "site:csgb.gov.tr (istihdam OR sosyal politika OR is guvencesi OR calisma hayati)"},
-    {"name": "AB", "domain": "ec.europa.eu", "query": "site:ec.europa.eu (employment OR social policy OR labour market OR social protection)"},
-    {"name": "AB", "domain": "europa.eu", "query": "site:europa.eu (employment OR social policy OR labour market OR social protection)"},
+    {"name": "TÜİK", "domain": "tuik.gov.tr", "query": "site:tuik.gov.tr (\"istihdam\" OR \"işsizlik\" OR \"çalışma hayatı\" OR \"refah\" OR \"sosyal politika\") (duyuru OR açıklama OR bülten OR rapor OR istatistik)"},
+    {"name": "SGK", "domain": "sgk.gov.tr", "query": "site:sgk.gov.tr (\"sosyal güvenlik\" OR \"emeklilik\" OR \"istihdam\") (duyuru OR açıklama OR kararı OR program OR ziyaret OR bakan)"},
+    {"name": "ÇSGB", "domain": "csgb.gov.tr", "query": "site:csgb.gov.tr (\"çalışma\" OR \"istihdam\" OR \"iş güvencesi\" OR \"sosyal güvenlik\") (duyuru OR bakan OR program OR ziyaret OR anlaşma)"},
+    {"name": "AB", "domain": "ec.europa.eu", "query": "site:ec.europa.eu (employment OR social policy OR labour market OR social protection OR working conditions)"},
+    {"name": "AB", "domain": "europa.eu", "query": "site:europa.eu (employment OR social policy OR labour market OR social protection OR working conditions)"},
 ]
 
-FEEDS = [
-    {"name": source["name"], "url": "https://news.google.com/rss/search?q=" + urllib.parse.quote_plus(source["query"]) + "&hl=en-US&gl=US&ceid=US:en"}
-     for source in ALLOWED_SOURCES
-]
+def build_feed_url(source: dict[str, str]) -> str:
+    if source["domain"] in TURKISH_OFFICIAL_DOMAINS:
+        locale = "&hl=tr&gl=TR&ceid=TR:tr"
+    else:
+        locale = "&hl=en-US&gl=US&ceid=US:en"
+    return "https://news.google.com/rss/search?q=" + urllib.parse.quote_plus(source["query"]) + locale
+
+
+FEEDS = [{"name": source["name"], "url": build_feed_url(source)} for source in ALLOWED_SOURCES]
 
 
 def normalize_text(value: str) -> str:
@@ -131,9 +161,19 @@ def fetch_feed(url: str) -> bytes:
         return response.read()
 
 
-def is_relevant(title: str, description: str) -> bool:
+def is_generic_turkish_title(title: str) -> bool:
+    haystack = normalize_text(title)
+    return any(item in haystack for item in GENERIC_TURKISH_TITLES)
+
+
+def is_relevant(title: str, description: str, source_url: str = "") -> bool:
     haystack = normalize_text(f"{title} {description}")
     normalized_keywords = [normalize_text(keyword) for keyword in KEYWORDS]
+    if source_url and any(host in source_url.lower() for host in TURKISH_OFFICIAL_DOMAINS):
+        normalized_terms = [normalize_text(term) for term in ("duyuru", "bakan", "ziyaret", "açıklama", "görüşme", "anlaşma", "program", "toplantı")]
+        return (not is_generic_turkish_title(title)) and (
+            any(keyword in haystack for keyword in normalized_keywords) or any(term in haystack for term in normalized_terms)
+        )
     return any(keyword in haystack for keyword in normalized_keywords)
 
 
@@ -144,9 +184,16 @@ def is_allowed_source(link: str) -> bool:
     return any(host == domain or host.endswith(f'.{domain}') for domain in [source['domain'] for source in ALLOWED_SOURCES])
 
 
+def is_turkish_official_source(link: str) -> bool:
+    if not link:
+        return False
+    host = urlparse(link).netloc.lower()
+    return any(host == domain or host.endswith(f'.{domain}') for domain in TURKISH_OFFICIAL_DOMAINS)
+
+
 def main() -> None:
     items: list[dict] = []
-    cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+    seen: set[str] = set()
 
     for feed in FEEDS:
         try:
@@ -169,14 +216,23 @@ def main() -> None:
                 date_obj = parse_date(date_text)
                 if date_obj is None:
                     continue
+                source_ref = source_url or article_link or link
+                cutoff_days = 180 if is_turkish_official_source(source_ref) else 30
+                cutoff = datetime.now(timezone.utc) - timedelta(days=cutoff_days)
                 if date_obj < cutoff:
                     continue
                 if not article_link or not title:
                     continue
-                if not is_allowed_source(source_url or article_link or link):
+                if not is_allowed_source(source_ref):
                     continue
-                if not is_relevant(title, description):
+                if not is_relevant(title, description, source_ref):
                     continue
+
+                dedupe_key = normalize_text(title) + "|" + normalize_text(article_link or source_url or link)
+                if dedupe_key in seen:
+                    continue
+                seen.add(dedupe_key)
+
                 items.append(
                     {
                         "source": feed["name"],
