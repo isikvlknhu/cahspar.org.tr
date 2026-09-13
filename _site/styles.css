@@ -343,14 +343,20 @@ main.content a {
 
 .rss-header-row {
   display: flex;
-  justify-content: space-between;
   align-items: flex-end;
+  justify-content: space-between;
   gap: 1rem;
   margin-bottom: 1rem;
 }
 
+.rss-heading-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+}
+
 .rss-kicker {
-  margin: 0 0 0.2rem;
+  margin: 0;
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.08em;

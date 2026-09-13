@@ -46,9 +46,11 @@ ALLOWED_SOURCES = [
     {"name": "ILO", "domain": "ilo.org", "query": "site:ilo.org (employment OR social protection OR labour market OR decent work OR working conditions)"},
     {"name": "OECD", "domain": "oecd.org", "query": "site:oecd.org (employment OR labour market OR social policy OR social protection OR job quality)"},
     {"name": "Eurofound", "domain": "eurofound.europa.eu", "query": "site:eurofound.europa.eu (employment OR labour market OR working conditions OR social policy)"},
-    {"name": "TÜİK", "domain": "tuik.gov.tr", "query": "site:tuik.gov.tr (istihdam OR isizlik OR sosyal politika OR refah OR calisma hayatı)"},
-    {"name": "World Bank", "domain": "worldbank.org", "query": "site:worldbank.org (social protection OR employment OR labor market OR welfare)"},
-    {"name": "Academic", "domain": "sagepub.com", "query": "site:sagepub.com (labor market OR social policy OR employment OR welfare OR working conditions)"},
+    {"name": "TÜİK", "domain": "tuik.gov.tr", "query": "site:tuik.gov.tr (istihdam OR isizlik OR sosyal politika OR refah OR calisma hayati)"},
+    {"name": "SGK", "domain": "sgk.gov.tr", "query": "site:sgk.gov.tr (sosyal guvenlik OR istihdam OR refah OR calisma hayati)"},
+    {"name": "ÇSGB", "domain": "csgb.gov.tr", "query": "site:csgb.gov.tr (istihdam OR sosyal politika OR is guvencesi OR calisma hayati)"},
+    {"name": "AB", "domain": "ec.europa.eu", "query": "site:ec.europa.eu (employment OR social policy OR labour market OR social protection)"},
+    {"name": "AB", "domain": "europa.eu", "query": "site:europa.eu (employment OR social policy OR labour market OR social protection)"},
 ]
 
 FEEDS = [

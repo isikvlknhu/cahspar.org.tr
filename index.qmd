@@ -44,7 +44,7 @@ page-layout: full
 
 <div class="rss-panel">
   <div class="rss-header-row">
-    <div>
+    <div class="rss-heading-group">
       <p class="rss-kicker">Çalışma Hayatı ve Sosyal Politika</p>
       <h3>Güncel gelişmeler</h3>
     </div>
