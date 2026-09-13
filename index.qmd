@@ -42,16 +42,17 @@ page-layout: full
 
 ## Güncel Gelişmeler
 
-<div class="rss-panel">
-  <div class="rss-header-row">
-    <div class="rss-heading-group">
-      <p class="rss-kicker">Çalışma Hayatı ve Sosyal Politika</p>
-      <h3>Güncel gelişmeler</h3>
-    </div>
-    <span class="rss-live-badge">Son 30 gün</span>
-  </div>
-  <div id="rss-feed-grid" class="rss-feed-grid"></div>
-</div>
+::: {.rss-panel}
+::: {.rss-header-row}
+::: {.rss-heading-group}
+[Çalışma Hayatı ve Sosyal Politika]{.rss-kicker}
+
+### Güncel gelişmeler
+:::
+[Son 30 gün]{.rss-live-badge}
+:::
+<div id="rss-feed-grid" class="rss-feed-grid"></div>
+:::
 
 <script src="assets/rss-loader.js"></script>
 
