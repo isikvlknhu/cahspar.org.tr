@@ -21,6 +21,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate RSS feed data
+        run: python3 scripts/build_rss_feed.py
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 

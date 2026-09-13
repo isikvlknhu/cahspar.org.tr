@@ -3,6 +3,8 @@ project:
   output-dir: _site
   resources:
     - assets/language-switcher.js
+    - assets/rss-loader.js
+    - assets/rss-feed.json
   render:
     - "*.qmd"
     - "!* [0-9].qmd"
