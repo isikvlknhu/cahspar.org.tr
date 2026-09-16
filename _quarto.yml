@@ -63,6 +63,8 @@ website:
             href: goc-uyum-ve-sosyal-butunlesme.qmd
           - text: "Gençlik ve Eğitim Çalışmaları Araştırma Grubu"
             href: genclik-ve-egitim-calismalari.qmd
+      - text: "ÇAHSPAR ENDEKSİ"
+        href: cahspar-index.qmd
       - text: "Basın Odası"
         menu:
           - text: "Basın Bültenleri"
