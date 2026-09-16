@@ -165,7 +165,8 @@ main.content a {
 }
 
 .hero img {
-  max-width: 192px;
+  width: 100%;
+  max-width: 500px;
   height: auto;
   display: block;
   margin: 0 auto;
