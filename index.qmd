@@ -55,7 +55,7 @@ page-layout: full
 <div id="rss-feed-grid" class="rss-feed-grid"></div>
 :::
 
-<script src="assets/rss-loader.js"></script>
+<script src="assets/rss-loader.js?v=3"></script>
 
 
 <div class="home-more-info">
