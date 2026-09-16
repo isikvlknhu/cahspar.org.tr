@@ -26,7 +26,7 @@ website:
           - text: "Kurumsal Yapımız"
             href: kurumsal-yapimiz.qmd
           - text: "Nasıl Kurulduk?"
-            href: nasil-kurulduk?.qmd
+            href: nasil-kurulduk.qmd
           - text: "Faaliyet Raporları"
             href: faaliyet-raporlari.qmd
           - text: "Stratejiler"
