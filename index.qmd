@@ -47,10 +47,11 @@ page-layout: full
 ::: {.rss-heading-group}
 [Çalışma Hayatı ve Sosyal Politika]{.rss-kicker}
 
-### Güncel gelişmeler
+### Son 30 günde yayımlananlar
 :::
 [Son 30 gün]{.rss-live-badge}
 :::
+
 <div id="rss-feed-grid" class="rss-feed-grid"></div>
 :::
 
