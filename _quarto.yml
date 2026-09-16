@@ -39,12 +39,14 @@ website:
             href: odullerimiz.qmd
           - text: "ÇAHSPAR Hakkında"
             href: about.qmd
-      - text: "Projeler"
+      - text: "İşbirlikleri ve Projeler"
         menu:
           - text: "Projeler"
             href: projeler.qmd
-          - text: "İş Ortakları"
-            href: is-ortaklari.qmd
+          - text: "Uluslararası İşbirlikleri"
+            href: uluslararasi-isbirlikleri.qmd
+          - text: "Ulusal İşbirlikleri"
+            href: ulusal-isbirlikleri.qmd
       - text: "Araştırma Grupları"
         menu:
           - text: "Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu"
