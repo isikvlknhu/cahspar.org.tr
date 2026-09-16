@@ -3,8 +3,6 @@ title: "CAHSPAR Index"
 page-layout: full
 ---
 
-# ÇAHSPAR Endeksi
-
 ## Çalışma Hayatı ve Sosyal Politika Endeksi
 
 **ÇAHSPAR Çalışma Hayatı ve Sosyal Politika Endeksi**, çalışma hayatı, sosyal politika ve toplumsal refah alanındaki gelişmeleri çok boyutlu göstergeler aracılığıyla izlemeyi amaçlayan özgün bir endeks çalışmasıdır.
