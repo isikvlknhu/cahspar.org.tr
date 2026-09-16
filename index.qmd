@@ -19,7 +19,7 @@ page-layout: full
 :::
 
 ::: {.home-intro}
-ÇAHSPAR, çalışma hayatı ve sosyal politika alanına yönelik kar amacı gütmeyen, yenilikçi ve sürdürülebilir araştırma, eğitim, proje ve danışmanlık faaliyetleri ile çalışma yaşamının ve toplumsal hayatın kalitesinin arttırılması amacıyla kurulmuştur. Dernek, bilimsel bilgi üretimini, mesleki eğitim ve kamu-üniversite-sivil toplum iş birliklerini bir araya getirerek daha adil ve sürdürülebilir bir çalışma yaşamı için katkı sunmayı hedefler.
+Çalışma Hayatı ve Sosyal Poitika Araştırmaları Derneği (ÇAHSPAR), çalışma hayatı ve sosyal politika alanına yönelik kar amacı gütmeyen, yenilikçi ve sürdürülebilir araştırma, eğitim, proje ve danışmanlık faaliyetleri ile çalışma yaşamının ve toplumsal hayatın kalitesinin arttırılması amacıyla kurulmuştur. Dernek, bilimsel bilgi üretimini, mesleki eğitim ve kamu-üniversite-sivil toplum iş birliklerini bir araya getirerek daha adil ve sürdürülebilir bir çalışma yaşamı için katkı sağlamayı hedefler.
 :::
 
 ## Faaliyetlerimiz
@@ -28,7 +28,7 @@ page-layout: full
 - Akademik çalışmalar ve süreli yayınlar geliştirmek
 - Eğitim, seminer, konferans ve çalıştaylar düzenlemek
 - Ulusal ve uluslararası projeler yürütmek
-- Çalışma hayatında eşitlik, kapsayıcılık ve sürdürülebilirlik için çözüm üretmek
+- Çalışma hayatında eşitlik, kapsayıcılık ve sürdürülebilirlik için çözümler üretmek
 
 ## Duyurular
 
