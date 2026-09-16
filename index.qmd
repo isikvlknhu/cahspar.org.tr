@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.hero}
 
-![](assets/cahspar-logo.png){width=3000px fig-align="center"}
+![](assets/cahspar-logo.png){fig-align="center"}
 
 <div class="social-links">
 <a class="social-link social-linkedin" href="https://www.linkedin.com/company/%C3%A7al%C4%B1%C5%9Fma-hayat%C4%B1-ve-sosyal-politika-ara%C5%9Ft%C4%B1rmalar%C4%B1-derne%C4%9Fi/?viewAsMember=true" target="_blank" rel="noopener noreferrer" aria-label="ÇAHSPAR LinkedIn">
