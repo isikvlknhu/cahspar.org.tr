@@ -45,7 +45,7 @@ page-layout: full
 ::: {.rss-panel}
 ::: {.rss-header-row}
 ::: {.rss-heading-group}
-[Çalışma Hayatı ve Sosyal Politika]{.rss-kicker}
+[Seçilmiş resmî veri, araştırma ve yayınlar]{.rss-kicker}
 
 ### Son 30 günde yayımlananlar
 :::
@@ -55,7 +55,7 @@ page-layout: full
 <div id="rss-feed-grid" class="rss-feed-grid"></div>
 :::
 
-<script src="assets/rss-loader.js?v=3"></script>
+<script src="assets/rss-loader.js?v=4"></script>
 
 
 <div class="home-more-info">

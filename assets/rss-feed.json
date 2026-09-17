@@ -1,69 +1,238 @@
 {
-  "updated": "2026-09-13T12:10:03.756023+00:00",
+  "updated": "2026-09-17T06:27:32.975958+00:00",
+  "pipeline": [
+    "kaynak RSS/API/yayın akışı",
+    "Python veri toplama",
+    "alan adı ve kaynak kontrolü",
+    "konu/içerik filtreleme",
+    "rss-feed.json",
+    "rss-loader.js",
+    "ÇAHSPAR ana sayfası"
+  ],
+  "sources": [
+    {
+      "name": "ILO",
+      "category": "Çalışma hayatı",
+      "homepage": "https://www.ilo.org/",
+      "domain": "ilo.org"
+    },
+    {
+      "name": "OECD",
+      "category": "Araştırma / politika",
+      "homepage": "https://www.oecd.org/en/publications.html",
+      "domain": "oecd.org"
+    },
+    {
+      "name": "World Bank",
+      "category": "Kalkınma / veri",
+      "homepage": "https://www.worldbank.org/en/research",
+      "domain": "worldbank.org"
+    },
+    {
+      "name": "UN DESA",
+      "category": "Sosyal politika / nüfus",
+      "homepage": "https://www.un.org/development/desa/",
+      "domain": "un.org"
+    },
+    {
+      "name": "UNDP",
+      "category": "İnsani gelişme",
+      "homepage": "https://www.undp.org/publications",
+      "domain": "undp.org"
+    },
+    {
+      "name": "UN Women",
+      "category": "Kadın / toplumsal cinsiyet",
+      "homepage": "https://www.unwomen.org/en/how-we-work/research-and-data/publications",
+      "domain": "unwomen.org"
+    },
+    {
+      "name": "UNICEF",
+      "category": "Çocuk / sosyal koruma",
+      "homepage": "https://www.unicef.org/reports",
+      "domain": "unicef.org"
+    },
+    {
+      "name": "Eurostat",
+      "category": "İstatistik / veri",
+      "homepage": "https://ec.europa.eu/eurostat/news/news-articles",
+      "domain": "ec.europa.eu"
+    },
+    {
+      "name": "European Commission (DG EMPL)",
+      "category": "AB / sosyal politika",
+      "homepage": "https://employment-social-affairs.ec.europa.eu/",
+      "domain": "ec.europa.eu"
+    },
+    {
+      "name": "European Commission (JRC)",
+      "category": "Araştırma / politika",
+      "homepage": "https://publications.jrc.ec.europa.eu/repository/",
+      "domain": "ec.europa.eu"
+    },
+    {
+      "name": "Eurofound",
+      "category": "Çalışma koşulları",
+      "homepage": "https://www.eurofound.europa.eu/",
+      "domain": "eurofound.europa.eu"
+    },
+    {
+      "name": "TÜİK",
+      "category": "Türkiye / istatistik",
+      "homepage": "https://data.tuik.gov.tr/",
+      "domain": "tuik.gov.tr"
+    },
+    {
+      "name": "TCMB",
+      "category": "Türkiye / ekonomi",
+      "homepage": "https://www.tcmb.gov.tr/",
+      "domain": "tcmb.gov.tr"
+    }
+  ],
   "items": [
     {
-      "source": "ÇSGB",
-      "title": "Bakan Işıkhan, Yalova’da Ziyaretlerde Bulundu - T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "summary": "Bakan Işıkhan, Yalova’da Ziyaretlerde Bulundu T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYXdJX3lQbktweHhtV1lDZ0VpY0lXTGVkbVB6cElhWTNCZ2lJM1MzZU1sUW5lVXpKMzVpUzdKNm5vSUdrVHVVcTNsazhKTTZZUnNPZDN1UlhHbzlkUDlfdWJLMUFnb1QzNzZmTW1xZG51VTZxRXZBeHhYdmowN2ptTnVxZw?oc=5",
-      "published": "2026-09-12T19:14:39+00:00"
+      "source": "Eurostat",
+      "category": "İstatistik / veri",
+      "title": "Annual increase in labour costs at 3.1% in euro area",
+      "summary": "In the second quarter of 2026 the hourly labour costs rose by 3.1% in the euro area and by 3.2% in the EU, compared with the same quarter of the previous year. These figures are published by Eurostat, the statistical office of the European",
+      "link": "https://ec.europa.eu/eurostat/product?code=3-16092026-bp",
+      "published": "2026-09-16T09:00:00+00:00"
     },
     {
-      "source": "AB",
-      "title": "Employment rate up in Q2 2026 - European Commission",
-      "summary": "Employment rate up in Q2 2026 European Commission",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sSTF1WXduRWVrVDR6WkVPNjNfMEZCczVDUXNfUlh6QVVtYVFwN3htRFB4ZnRfNk84RzBOUm5sU0RtOTZUbm11STIxTWt3LXR5bWlWSFhTZjczYklHRnp4cEpEUDV2Q0hjSXZtcFFyNTRxZHJ6V0RnWVNjV3Npdw?oc=5",
-      "published": "2026-09-11T10:15:32+00:00"
+      "source": "UN Women",
+      "category": "Kadın / toplumsal cinsiyet",
+      "title": "How Sudanese women uplift one another – and their communities – amid war",
+      "summary": "Two young Sudanese peacebuilders speak to UN Women about what it has been like to live through conflict – and to help shape the country’s path toward healing, resilience, and peace.",
+      "link": "https://www.unwomen.org/en/news-stories/feature-story/2026/09/how-sudanese-women-uplift-one-another-and-their-communities-amid-war",
+      "published": "2026-09-15T15:00:02+00:00"
     },
     {
-      "source": "AB",
-      "title": "Labour market flows in Q2 2026 - European Commission",
-      "summary": "Labour market flows in Q2 2026 European Commission",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HWUVXZzZrRTNKdjJMcFRKb1BxOXFKendiaWFkeF9yVUlGV2kyczFwMlhIWnlmcWdBd0x2NW1ZWWRSNk9LNGdmR0RydExJZ2pTNVJEX2lFNWRkX2NXRk93QUUwci1Xa0hoZUROdmdJX29WY05QaUtUUXJrSW9xZw?oc=5",
-      "published": "2026-09-11T10:15:28+00:00"
+      "source": "TÜİK",
+      "category": "Türkiye / istatistik",
+      "title": "Tarım Ürünleri Üretici Fiyat Endeksi - Veri Portalı - TÜİK",
+      "summary": "Tarım Ürünleri Üretici Fiyat Endeksi &nbsp;&nbsp; Veri Portalı - TÜİK",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoM1dmaTcwcWgxUkFLNWtLZzB1QlhrR0tPYmxjTUJhYWh0eW55ZTJqZC1pQ3JvWXB0VThvM2ZyZXdlYmxveGxTSExhbExtclFEb1N6RFlkMnRVS0pmcEthV3VXbl9PQQ?oc=5",
+      "published": "2026-09-15T14:48:27+00:00"
     },
     {
-      "source": "ÇSGB",
-      "title": "Türkiye ve İtalya Arasında 'İşbirliği Mutabakat Zaptı’ İmzalandı - T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "summary": "Türkiye ve İtalya Arasında 'İşbirliği Mutabakat Zaptı’ İmzalandı T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdzJOVDdIc2tTaVl1cHE3a1RmN0tJVFBUSVJiQlF0RHBIaTh6TW10NU1NVVNMSFhZbG12WThJR0c0WlI2dXZBRVByak9Cd3FMLWdxTTdqUzNvV3RneFo2cko1MWQ2NEVkeGVlVVJFMER5bkVxOWhyV3U5Y1k4a0tjaTJRUjVjWGU1TnhLRE9tYXctcUNrNExIYTM3QzY?oc=5",
-      "published": "2026-09-10T17:01:29+00:00"
+      "source": "Eurostat",
+      "category": "İstatistik / veri",
+      "title": "Euro area job vacancy rate at 2.1%",
+      "summary": "In the second quarter of 2026, the job vacancy rate was 2.1% in the euro area, down from 2.3% in the first quarter of 2026 and down from 2.2% in the second quarter of 2025, according to the figures published by Eurostat, the statistical off",
+      "link": "https://ec.europa.eu/eurostat/product?code=3-15092026-bp",
+      "published": "2026-09-15T09:00:00+00:00"
     },
     {
-      "source": "ÇSGB",
-      "title": "24-25 Eylül 2026 Asbest Katı Numune Alma Personeli Sertifikalandırma Eğitimi Başvurusu Hakkında Duyuru - T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "summary": "24-25 Eylül 2026 Asbest Katı Numune Alma Personeli Sertifikalandırma Eğitimi Başvurusu Hakkında Duyuru T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GbmxFVnJ3VUl3X3JJNGZVYzZvN3ZIWnFud1NiZmJvUl9fWlRSN013SWVjbzFyTmY5NWNQdHgxb1BYamZlMjVYalkwVDRpSXB0Nl9FRV9kaTVSeFBPQWcw?oc=5",
-      "published": "2026-09-10T16:17:07+00:00"
+      "source": "UN Women",
+      "category": "Kadın / toplumsal cinsiyet",
+      "title": "Media fact sheet: Women in the occupied West Bank fear violence and arrest, as settler attacks, military operations, and movement restrictions reach two-decade high",
+      "summary": "A new analysis from UN Women reveals the extent of daily suffering endured by women and girls across the occupied West Bank.",
+      "link": "https://www.unwomen.org/en/news-stories/press-release/2026/09/media-fact-sheet-women-in-the-occupied-west-bank-fear-violence-and-arrest",
+      "published": "2026-09-15T08:54:56+00:00"
     },
     {
-      "source": "ÇSGB",
-      "title": "21-23 Eylül 2026 Ölçüm ve Numune Alma Personeli Sertifikalandırma Eğitimi Başvuruları Hakkında Duyuru - T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "summary": "21-23 Eylül 2026 Ölçüm ve Numune Alma Personeli Sertifikalandırma Eğitimi Başvuruları Hakkında Duyuru T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55a2MzUkNWTk1oNTRTOHVqNGRaUHR5RlhTWHFnSDI3cC1BMG5JelFhLU0xZEpCZ3owOVhZdGhsQ0VDSElzUlJ3NkRmWnM3a0REcFZZNG8tNFBPSGJtaXhr?oc=5",
-      "published": "2026-09-10T16:17:01+00:00"
+      "source": "UN Women",
+      "category": "Kadın / toplumsal cinsiyet",
+      "title": "Women in the occupied West Bank increasingly cut off from daily life, living in fear amid rising violence and restrictions",
+      "summary": "As prepared remarks by UN Women Chief of Humanitarian Action Sofia Calltorp – to whom quoted text may be attributed – at today’s press briefing at the Palais des Nations in Geneva.",
+      "link": "https://www.unwomen.org/en/news-stories/press-briefing/2026/09/women-in-the-occupied-west-bank-increasingly-cut-off-from-daily-life-living-in-fear-amid-rising-violence-and-restrictions",
+      "published": "2026-09-15T08:27:31+00:00"
     },
     {
-      "source": "SGK",
-      "title": "Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/35 - Sosyal Güvenlik Kurumu",
-      "summary": "Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/35 Sosyal Güvenlik Kurumu",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXdYNUEyRWc0a01QT0tCalJ4NUFPQng3Ujh1VnNWZndGRjFmSW9GdFdkQncxVThaNkl5U2ZiSUloU2Y2c3hLNGlDZHFIZWxvRDlyWEVCVEYwRjMyREk4bUswYzRrd0lhSXE5VVZkWDRtVWpTaUYtNjlXNDdvMDNkQkc1Mm03amdCV2I2SXFvenBZOW5VejRNdXpFdFJnMkowRnpyWkowVHRSWHQxR21iTmpCTW1HRzhKZ1RrQnZEUVpJX1RQMGx0MnJn?oc=5",
-      "published": "2026-09-10T06:20:20+00:00"
+      "source": "Eurostat",
+      "category": "İstatistik / veri",
+      "title": "SDG 4: Adult learning on the rise in the EU",
+      "summary": "13.7% of the people in the EU aged 25 to 64 state having received formal or non-formal education and training in the last 4 weeks in 2025, rising from 10.1% in 2015. This growth has been steady, except for a temporary decline in 2020, likel",
+      "link": "https://ec.europa.eu/eurostat/product?code=ddn-20260914-1",
+      "published": "2026-09-14T09:00:00+00:00"
     },
     {
-  "source": "Eurostat",
-  "category": "İşgücü İstatistikleri",
-  "title": "Employment rate up in Q2 2026",
-  "summary": "AB'de istihdam oranına ilişkin yeni istatistikler yayımlandı.",
-  "link": "https://...",
-  "published": "2026-09-11T10:15:32+00:00"
+      "source": "European Commission (JRC)",
+      "category": "Araştırma / politika",
+      "title": "EU labour market - quarterly statistics Statistics Explained - European Commission",
+      "summary": "EU labour market - quarterly statistics Statistics Explained &nbsp;&nbsp; European Commission",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdWthT2hQbkc0d2RFWjc1WHlnVXhObEhoTVc0YThPZ2lveUdxZkFFNk9UTlZ4WTdGNThVTklXNkxsTVYxVHkwTFFxcW5yMVowd3FYaXVlMHZMamZWcFZpSDAxaDJudGtOUnl5Y2lpZGg3cW05NWFoektsWlJyVHFvX0JGLWlOVk5lYWlUSmhYVV8zaEdTY1E?oc=5",
+      "published": "2026-09-11T07:00:00+00:00"
     },
     {
-      "source": "SGK",
-      "title": "Pakistan Heyeti SGK’yı Ziyaret Etti - Sosyal Güvenlik Kurumu",
-      "summary": "Pakistan Heyeti SGK’yı Ziyaret Etti Sosyal Güvenlik Kurumu",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzc2MVFNd3NGN0FaTkc3S2dqTTJyNDktMDhhc3BLOEk1UUpOUU9kS2dQZXhtc3V2VnloYWx3VHdxcDlZMDlUQVdUbkRVRVNrRlRPUUFfWnZXVlVQYkU1Z2J4LXhGMG5GU0tyWXBWUjc0MER2SGdsQnh2M3d6VGd5SnNOMnM2c2V2dnNTTExvdjhSNW8?oc=5",
-      "published": "2026-09-09T19:59:35+00:00"
+      "source": "Eurofound",
+      "category": "Çalışma koşulları",
+      "title": "Working conditions and social dialogue - Conference report - Eurofound",
+      "summary": "Working conditions and social dialogue - Conference report &nbsp;&nbsp; Eurofound",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzVmUnhTSFhiNHI2b3hVUjJ5YXI3NEcyMkgyam5HcWlMMGozOHdxbXp2NGJ0YjNKLWFRamxjbW05dGVGc3Qwb0hINVF0Rm1ob01QZ2Jfa0pCcXNHUnN5dE1Mekl3RzZCR29MaTFrSHh6RnJXVHZtV1pVRnRRdGJDTy1JOHQ5UXNrbW1GYmlMNnNYdHJIaEY0YWNBTWFVMFFXT2RsMGdSdXpwQXV2?oc=5",
+      "published": "2026-09-08T13:23:47+00:00"
+    },
+    {
+      "source": "TÜİK",
+      "category": "Türkiye / istatistik",
+      "title": "Hizmet Üretici Fiyat Endeksi - Temmuz 2026 - Veri Portalı - TÜİK",
+      "summary": "Hizmet Üretici Fiyat Endeksi - Temmuz 2026 &nbsp;&nbsp; Veri Portalı - TÜİK",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YmZXaGFzeHhRbnoyMG1vOEZOUTFFZFBuOFBRTmZwb0Q2VnZxc01KVEhBZ0dwSE5mc0VlOGdUMlZrNk8wWjEwQnA5Q2ZlQTY1?oc=5",
+      "published": "2026-09-06T19:15:03+00:00"
+    },
+    {
+      "source": "TÜİK",
+      "category": "Türkiye / istatistik",
+      "title": "Dolaylı Ar-Ge Teşvikleri - 2025 - Veri Portalı - TÜİK",
+      "summary": "Dolaylı Ar-Ge Teşvikleri - 2025 &nbsp;&nbsp; Veri Portalı - TÜİK",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUXgzQ1R6TXl4V0xNYXRRUzFhVWJoV1dlVEtHWHFWeHFqVmtnXzN2VEF5WHpRODZSZ1h4QzVib3FLWFJqTFk5dFJZUW1VdXBs?oc=5",
+      "published": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "source": "UNDP",
+      "category": "İnsani gelişme",
+      "title": "Policy Brief on the 2025 Gambia National Human Development Report - United Nations Development Programme",
+      "summary": "Policy Brief on the 2025 Gambia National Human Development Report &nbsp;&nbsp; United Nations Development Programme",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGc0OUFsQ0lLcHpNMlhyS0c0UWpnUFJhbDN3ZVA1a3RKckU1c2F3eGs2MmdZR2NObTQ1T3M2VTFGamdFU09md1A5eGZMaERUejAwZzRVWll3bHRnTXlnNl8tVFhHdTZ0RGhyUHJja1V3eUZKYlNoRW4wUENfLUxtX2lEZ01uaGFUQzh4Y3lfeTN0Y2R1ZE8wVnNKYzR2ZTc0?oc=5",
+      "published": "2026-08-30T16:38:34+00:00"
+    },
+    {
+      "source": "TCMB",
+      "category": "Türkiye / ekonomi",
+      "title": "Sektörel Enflasyon Beklentileri (Ağustos 2026)",
+      "summary": "",
+      "link": "http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/istatistikler/egilim+anketleri/sektorel+enflasyon+beklentileri",
+      "published": "2026-08-24T10:00:00+00:00"
+    },
+    {
+      "source": "TCMB",
+      "category": "Türkiye / ekonomi",
+      "title": "Hanehalkı Beklenti Anketi (Ağustos 2026)",
+      "summary": "",
+      "link": "http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/istatistikler/egilim+anketleri/hanehalki+beklenti+anketi",
+      "published": "2026-08-24T10:00:00+00:00"
+    },
+    {
+      "source": "TCMB",
+      "category": "Türkiye / ekonomi",
+      "title": "Enflasyon Raporu (2026-III)",
+      "summary": "",
+      "link": "http://www.tcmb.gov.tr/wps/wcm/connect/tr/tcmb+tr/main+menu/yayinlar/raporlar/enflasyon+raporu/2026/enflasyon+raporu+2026+-+iii",
+      "published": "2026-08-13T10:00:00+00:00"
+    },
+    {
+      "source": "OECD",
+      "category": "Araştırma / politika",
+      "title": "National Educational Attainment Classification (NEAC) and labour market status (full dataset) - OECD Data Explorer",
+      "summary": "National Educational Attainment Classification (NEAC) and labour market status (full dataset) &nbsp;&nbsp; OECD Data Explorer",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFlBMmJpcGQwODRSNHBQazVhRUh5endOOXNZbWM4VndvVC1KUmY2T0FxWG1IMWRXd3U3aDM5VjFNc3ljRW5WVndBbkY3VHh1azMyYnF0OVhERjRHU3gtZ0JlZ2dJaEZZU0tfV29ZeU14T2xYQTVKR3c5c21oQXI3RG1DazlLaXV2aHdRUDNZbkNzWVFyd1FrSzhXRC1ONTVTQ0JYNnBpekdDWmk0TlVNYTVBTFZvd2Y3dExobzNOTTNfd3ZTWUhHNnYzcGQtRkh5dHp5cXRKa2pCSHBsUnVzWVlzOA?oc=5",
+      "published": "2026-07-23T07:00:00+00:00"
+    },
+    {
+      "source": "OECD",
+      "category": "Araştırma / politika",
+      "title": "Employment rates of adults, by educational attainment, age group and gender - OECD Data Explorer",
+      "summary": "Employment rates of adults, by educational attainment, age group and gender &nbsp;&nbsp; OECD Data Explorer",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92WkJnR19yUVBUZUJudUVTUmFud25iYjdIVGNjaElCeDE4U0NDSnkxWkdJUFRGVXVPNXAwTFFBVkkwUTJMWVEtZGdIaks?oc=5",
+      "published": "2026-07-23T07:00:00+00:00"
+    },
+    {
+      "source": "OECD",
+      "category": "Araştırma / politika",
+      "title": "OECD Employment Outlook 2026 (EN) - OECD",
+      "summary": "OECD Employment Outlook 2026 (EN) &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUE2M20yRnlNNjVZQndZaWlWak9wSzRpUkFEQ2RPaE5ERkQzbi1fS2ZUMTRFZWdCSTk1X3RuLVgzTjQyWUQyVkJscHlNWmRxV0VpUm1Fd1dhVUVjMmYzYmFiSElhSm1KRzlBajNhS3Zqbno3V3ZEc0F2d1NBMmkzaWVXUzljWURJVlhOanN6amF1WmowVTNVbW5lYnp4cVRmM0gyTjBxdkxvWGJPRkFPYnd5eTVVS0ZvM3RGOXpva0Q?oc=5",
+      "published": "2026-07-07T12:58:41+00:00"
     }
   ]
 }
