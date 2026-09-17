@@ -1,0 +1,33 @@
+---
+title: "Podcastler"
+---
+
+ÇAHSPAR podcastleri, çalışma hayatı ve sosyal politika alanındaki güncel gelişmeleri, araştırmaları ve deneyimleri erişilebilir bir formatta paylaşır.
+
+## Podcast yayınları
+
+### İlk bölüm
+
+<div class="podcast-card">
+<iframe
+  src="https://open.spotify.com/embed/episode/2bfJ6gcDJgzJnlftxYrOL1?utm_source=generator&theme=0"
+  width="100%"
+  height="152"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy">
+</iframe>
+</div>
+
+[Spotify'da dinle →](https://open.spotify.com/episode/2bfJ6gcDJgzJnlftxYrOL1?si=b0876913ca6a4a37){target="_blank" rel="noopener noreferrer"}
+
+Yeni podcast bölümleri yayımlandıkça bu sayfaya eklenecektir.
+
+## Konu başlıkları
+
+- Çalışma hayatı ve istihdam
+- Sosyal politika, yoksulluk ve refah
+- Kadın çalışmaları ve toplumsal cinsiyet
+- Göç, gençlik ve eğitim
+- Dijital dönüşüm ve geleceğin toplumu

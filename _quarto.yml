@@ -67,6 +67,8 @@ website:
         menu:
           - text: "Haber Bültenleri"
             href: haber-bultenleri.qmd
+          - text: "Podcastler"
+            href: podcastler.qmd
           - text: "Duyurular"
             href: duyurular.qmd
       - text: "Bize Katılın"
