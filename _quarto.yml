@@ -65,8 +65,8 @@ website:
         href: cahspar-index.qmd
       - text: "Basın Odası"
         menu:
-          - text: "Haber Bültenleri"
-            href: haber-bultenleri.qmd
+          - text: "Çalışma Hayatı ve Sosyal Politika Bültenleri"
+            href: cahspar-bultenleri.qmd
           - text: "Podcastler"
             href: podcastler.qmd
           - text: "Duyurular"

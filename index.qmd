@@ -24,7 +24,7 @@ page-layout: full
 
 ## Faaliyetlerimiz
 
-- Araştırma raporları ve politika notları yayımlamak
+- Araştırma raporları, politika notları ve bültenler yayımlamak
 - Akademik çalışmalar ve süreli yayınlar geliştirmek
 - Eğitim, seminer, konferans ve çalıştaylar düzenlemek
 - Ulusal ve uluslararası projeler yürütmek
