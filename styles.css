@@ -62,6 +62,18 @@ main.content {
   .navbar-expand-lg .navbar-collapse {
     display: flex !important;
     flex-basis: auto;
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  .navbar-nav.me-auto {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  .navbar-nav.me-auto .nav-item {
+    min-width: 0;
+    flex: 0 1 auto;
   }
 }
 
@@ -75,13 +87,13 @@ main.content {
   color: var(--brand-white) !important;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: 0.02em;
-  padding: 0.9rem 1rem !important;
+  letter-spacing: 0.01em;
+  padding: 0.9rem 0.72rem !important;
   border-left: 1px solid rgba(255,255,255,0.12);
   display: flex;
   align-items: center;
   min-height: 58px;
-  font-size: 0.92rem;
+  font-size: 0.84rem;
   white-space: nowrap;
 }
 
@@ -92,9 +104,10 @@ main.content {
 
 .navbar-nav.ms-auto {
   width: auto;
+  flex: 0 0 auto;
   align-items: center;
-  gap: 0.4rem;
-  margin-right: 0.75rem;
+  gap: 0.25rem;
+  margin-right: 0.35rem;
 }
 
 .navbar-nav.ms-auto .nav-item {
@@ -117,6 +130,28 @@ main.content {
 .navbar-nav.ms-auto .nav-link:focus-visible {
   background: rgba(255,255,255,0.2);
   border-color: rgba(255,255,255,0.7);
+}
+
+/* Keep the complete desktop navigation visible at common laptop widths. */
+@media (min-width: 992px) and (max-width: 1399.98px) {
+  .navbar-nav .nav-link,
+  .navbar-nav .dropdown-toggle {
+    padding-left: 0.4rem !important;
+    padding-right: 0.4rem !important;
+    font-size: 0.72rem;
+    letter-spacing: 0;
+  }
+
+  .navbar-nav.ms-auto {
+    gap: 0.15rem;
+    margin-right: 0.2rem;
+  }
+
+  .navbar-nav.ms-auto .nav-link {
+    padding-left: 0.48rem !important;
+    padding-right: 0.48rem !important;
+    font-size: 0.66rem;
+  }
 }
 
 .dropdown-menu {
