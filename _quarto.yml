@@ -65,8 +65,8 @@ website:
         href: cahspar-index.qmd
       - text: "Basın Odası"
         menu:
-          - text: "Basın Bültenleri"
-            href: basin-bultenleri.qmd
+          - text: "Haber Bültenleri"
+            href: haber-bultenleri.qmd
           - text: "Duyurular"
             href: duyurular.qmd
       - text: "Bize Katılın"
