@@ -47,7 +47,6 @@ page-layout: full
 ::: {.rss-heading-group}
 [Seçilmiş resmî veri, araştırma ve yayınlar]{.rss-kicker}
 
-### Son 30 günde yayımlananlar
 :::
 [Son 30 gün]{.rss-live-badge}
 :::
