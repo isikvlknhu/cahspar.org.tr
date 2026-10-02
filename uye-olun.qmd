@@ -2,9 +2,20 @@
 title: "Üye Olun"
 ---
 
-Üye olmak için Başvuru Formunu doldurarak derneğimiz e-posta adresine (info@cahspar.org.tr) gönderiniz.
+Üye olmak için:
 
+1. YÖNTEM: e-Devlet Üzerinden Üyelik Başvurusu
+
+Derneğimize üyelik başvurunuzu e-Devlet Kapısı üzerinden elektronik olarak gerçekleştirebilirsiniz.
+e-Devlet’e giriş yaptıktan sonra “Dernek Üyelik Başvurusu” hizmetini açarak Derneğimiz adına başvurunuzu oluşturabilirsiniz.
+İzlenecek adımlar:
+e-Devlet (Elektronik İmza veya Mobil İmza ile Giriş) → Dernek Üyelik Başvurusu → Yeni Başvuru → Kütük No: 06-163-043 Derneğin Adı: ÇALIŞMA HAYATI VE SOSYAL POLİTİKA ARAŞTIRMALARI DERNEĞİ → Başvuruyu Tamamla
+
+2. YÖNTEM: Başvuru Formu Yoluyla Üyelik Başvurusu
+
+Başvuru Formunu doldurarak derneğimiz e-posta adresine (info@cahspar.org.tr) gönderiniz.
 [Başvuru Formunu indiriniz](assets/uye-basvuru-formu.pdf)
+
 
 Üyelikle İlgili Tüzük Maddeleri:
 
