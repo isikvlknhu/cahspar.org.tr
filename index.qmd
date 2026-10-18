@@ -62,3 +62,8 @@ page-layout: full
 <div class="home-more-info">
 [ÇAHSPAR hakkında daha fazla bilgi →](about.qmd)
 </div>
+
+
+<style>
+.announcement-list a { text-decoration: none; }
+</style>
