@@ -10,4 +10,4 @@ Türk ve Suriyeli mesleki ve teknik ortaöğretim öğrencileri ve mezunlarını
 
 ![](assets/sosyal-politika-odulleri-2026.jpg){fig-alt="2026 Sosyal Politika Ödülleri ödül töreninden fotoğraf" fig-align="center" width="650"}
 
-[Ana sayfaya dön →](index.qmd#duyurular)
+[Tüm duyurular →](duyurular.qmd) · [Ana sayfaya dön →](index.qmd#duyurular)
