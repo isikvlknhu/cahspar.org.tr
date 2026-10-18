@@ -2,13 +2,6 @@
 title: "Duyurular"
 ---
 
-Duyurular sayfası, ÇAHSPAR'ın düzenlediği etkinlikler, başvurular, toplantılar, çalışmalar ve önemli gelişmelerin takip edildiği alan olarak tasarlanmıştır.
+ÇAHSPAR’dan duyurular, etkinlikler ve güncel gelişmeler.
 
-## Duyuru türleri
-
-- Etkinlik ve program duyuruları
-- Başvuru ve katılım çağrıları
-- Proje ve araştırma duyuruları
-- Toplumsal etkinlik ve iş birliği çağrıları
-
-Duyurular, kurumun aktif ve görünür bir katılım platformu olmasına yardımcı olur.
+{{< include _duyuru-listesi.md >}}
