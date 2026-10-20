@@ -1,5 +1,6 @@
 ---
 title: "Our Structure"
+body-classes: structure-page
 ---
 
 ## Founding Board Members
