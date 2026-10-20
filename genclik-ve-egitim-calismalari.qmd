@@ -2,6 +2,8 @@
 title: "Youth and Education Studies Research Group"
 ---
 
+![](assets/genclik-ve-egitim-calismalari.png){fig-alt="Youth and Education Studies Research Group" fig-align="center" width="100%"}
+
 ### About
 
 The Youth and Education Studies Research Group examines young people’s participation in education, employment and social life from an interdisciplinary perspective. Its main aim is to understand the opportunities and inequalities they face, examine how education and skills policies affect their lives and produce scientific knowledge that contributes to their social and economic empowerment.

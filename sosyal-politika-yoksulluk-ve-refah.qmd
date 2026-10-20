@@ -2,6 +2,8 @@
 title: "Social Policy, Poverty and Welfare Research Group"
 ---
 
+![](assets/sosyal-politika-yoksulluk-ve-refah.png){fig-alt="Social Policy, Poverty and Welfare Research Group" fig-align="center" width="100%"}
+
 ### About
 
 The Social Policy, Poverty and Welfare Research Group examines poverty, inequality, social protection and welfare policies from an interdisciplinary perspective. Its main aim is to produce scientific knowledge that improves social welfare and supports more inclusive, fair and sustainable social policies.

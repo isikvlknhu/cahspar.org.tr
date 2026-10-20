@@ -2,6 +2,8 @@
 title: "Digital Transformation, Artificial Intelligence and the Society of the Future Research Group"
 ---
 
+![](assets/dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.png){fig-alt="Digital Transformation, Artificial Intelligence and the Society of the Future Research Group" fig-align="center" width="100%"}
+
 ### About
 
 The Digital Transformation, Artificial Intelligence and the Society of the Future Research Group examines the effects of digital technologies, artificial intelligence and automation on working life, the economy and society from an interdisciplinary perspective.

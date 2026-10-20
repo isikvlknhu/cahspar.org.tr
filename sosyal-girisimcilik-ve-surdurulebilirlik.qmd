@@ -2,6 +2,8 @@
 title: "Social Entrepreneurship and Sustainability Studies Research Group"
 ---
 
+![](assets/sosyal-girisimcilik-ve-surdurulebilirlik.png){fig-alt="Social Entrepreneurship and Sustainability Studies Research Group" fig-align="center" width="100%"}
+
 ### About
 
 The Social Entrepreneurship and Sustainability Studies Research Group examines social enterprises that develop innovative and sustainable responses to social problems, social innovation and approaches to sustainable development from an interdisciplinary perspective.

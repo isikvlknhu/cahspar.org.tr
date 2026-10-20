@@ -2,6 +2,8 @@
 title: "Working Life and Employment Research Group"
 ---
 
+![](assets/calisma-hayati-ve-istihdam.png){fig-alt="Working Life and Employment Research Group" fig-align="center" width="100%"}
+
 ### About
 
 The Working Life and Employment Research Group examines changes in working life, employment structures and the economic and social effects of labour markets from an interdisciplinary perspective. Its main aim is to produce scientific knowledge that helps us understand the changing world of work and develop more inclusive, secure, fair and sustainable working lives.
