@@ -861,3 +861,12 @@ body.structure-page main.content h1,
 body.structure-page main.content h2 {
   text-align: center;
 }
+
+/* Keep research-group banners compact and centred within the wide page. */
+main.content img.research-group-banner {
+  display: block;
+  width: 560px;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}

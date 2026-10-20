@@ -2,7 +2,7 @@
 title: "Migration, Integration and Social Cohesion Research Group"
 ---
 
-![](assets/goc-uyum-ve-sosyal-butunlesme-en.png){fig-alt="Migration, Integration and Social Cohesion Research Group" fig-align="center" width="100%"}
+![](assets/goc-uyum-ve-sosyal-butunlesme-en.png){fig-alt="Migration, Integration and Social Cohesion Research Group" fig-align="center" width="560" .research-group-banner}
 
 ### About
 
