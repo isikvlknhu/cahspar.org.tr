@@ -5,6 +5,20 @@ body-classes: research-page
 
 ![](assets/sosyal-girisimcilik-ve-surdurulebilirlik-en.png){fig-alt="Social Entrepreneurship and Sustainability Studies Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Lead
+
+<ul class="research-team-leads">
+<li><img src="assets/volkan-isik.jpeg" alt="" width="64" height="64"><a href="https://avesis.hacettepe.edu.tr/volkani" target="_blank" rel="noopener noreferrer">Professor Dr Volkan IŞIK</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Social Entrepreneurship and Sustainability Studies Research Group examines social enterprises that develop innovative and sustainable responses to social problems, social innovation and approaches to sustainable development from an interdisciplinary perspective.

@@ -5,6 +5,20 @@ body-classes: research-page
 
 ![](assets/calisma-hayati-ve-istihdam-en.png){fig-alt="Working Life and Employment Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Lead
+
+<ul class="research-team-leads">
+<li><img src="assets/caglar-ozdemir.png" alt="" width="64" height="64"><a href="https://cozdemir.sakarya.edu.tr/" target="_blank" rel="noopener noreferrer">Professor Dr Mustafa Çağlar ÖZDEMİR</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Working Life and Employment Research Group examines changes in working life, employment structures and the economic and social effects of labour markets from an interdisciplinary perspective. Its main aim is to produce scientific knowledge that helps us understand the changing world of work and develop more inclusive, secure, fair and sustainable working lives.

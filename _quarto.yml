@@ -101,7 +101,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles-editorial.css
+    css: styles-editorial-teams.css
     include-after-body: language-switcher.html
     lang: en-GB
     toc: false

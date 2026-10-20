@@ -5,6 +5,20 @@ body-classes: research-page
 
 ![](assets/kadin-calismalari-ve-toplumsal-cinsiyet-en.png){fig-alt="Women’s Studies and Gender Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Lead
+
+<ul class="research-team-leads">
+<li><img src="assets/meltem-ince-yenilmez.jpeg" alt="" width="64" height="64"><a href="https://www.melteminceyenilmez.com/" target="_blank" rel="noopener noreferrer">Professor Dr Meltem İnce YENİLMEZ</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Women’s Studies and Gender Research Group examines women’s position in social, economic and political life and the different dimensions of gender inequality from an interdisciplinary perspective. Its main aim is to produce scientific knowledge about the structural, economic, cultural and institutional dynamics shaping women’s lives and opportunities, and to contribute to greater gender equality.

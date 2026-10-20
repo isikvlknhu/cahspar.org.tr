@@ -455,3 +455,21 @@ body.structure-page main.content h1, body.structure-page main.content h2 { text-
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
 }
+
+/* Research leadership appears immediately beneath each group banner. */
+.research-team {
+  max-width: 820px;
+  margin: 0 auto 2.5rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-top: 3px solid var(--brand-green);
+  border-radius: 4px;
+}
+main.content .research-team h2 { margin: 0 0 1.4rem; }
+main.content .research-team h3 { font-size: .9rem; margin: 1.25rem 0 .8rem; }
+.research-team-leads { list-style: none; padding: 0; margin: 0; }
+.research-team-leads li { display: flex; align-items: center; gap: 1rem; padding-block: .65rem; margin: 0 !important; }
+.research-team-leads img { width: 64px; height: 64px; object-fit: cover; flex: none; border-radius: 4px; }
+.research-team-leads a { font-size: .94rem; font-weight: 600; line-height: 1.6; text-decoration: none; }
+.research-team-leads a:hover { text-decoration: underline; }

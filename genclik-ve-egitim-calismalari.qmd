@@ -5,6 +5,21 @@ body-classes: research-page
 
 ![](assets/genclik-ve-egitim-calismalari-en.png){fig-alt="Youth and Education Studies Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Co-Leads
+
+<ul class="research-team-leads">
+<li><img src="assets/mehmet-zanbak.jpeg" alt="" width="64" height="64"><a href="https://avesis.akdeniz.edu.tr/mehmetzanbak" target="_blank" rel="noopener noreferrer">Professor Dr Mehmet ZANBAK</a></li>
+<li><img src="assets/serhat-ozturk-portrait.jpeg" alt="" width="64" height="64"><a href="https://avesis.hacettepe.edu.tr/sozturk" target="_blank" rel="noopener noreferrer">Associate Professor Dr Muhammet Serhat ÖZTÜRK</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Youth and Education Studies Research Group examines young people’s participation in education, employment and social life from an interdisciplinary perspective. Its main aim is to understand the opportunities and inequalities they face, examine how education and skills policies affect their lives and produce scientific knowledge that contributes to their social and economic empowerment.

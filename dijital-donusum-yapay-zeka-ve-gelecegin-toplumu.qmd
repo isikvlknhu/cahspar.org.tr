@@ -5,6 +5,20 @@ body-classes: research-page
 
 ![](assets/dijital-donusum-yapay-zeka-ve-gelecegin-toplumu-en.png){fig-alt="Digital Transformation, Artificial Intelligence and the Society of the Future Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Lead
+
+<ul class="research-team-leads">
+<li><img src="assets/ufuk-bingol.jpeg" alt="" width="64" height="64"><a href="https://acikerisim.bandirma.edu.tr/arastirmaci/ubingol" target="_blank" rel="noopener noreferrer">Professor Dr Ufuk BİNGÖL</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Digital Transformation, Artificial Intelligence and the Society of the Future Research Group examines the effects of digital technologies, artificial intelligence and automation on working life, the economy and society from an interdisciplinary perspective.

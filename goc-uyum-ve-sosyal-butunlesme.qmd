@@ -5,6 +5,21 @@ body-classes: research-page
 
 ![](assets/goc-uyum-ve-sosyal-butunlesme-en.png){fig-alt="Migration, Integration and Social Cohesion Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Co-Leads
+
+<ul class="research-team-leads">
+<li><img src="assets/suheyla-erikli-selek.jpeg" alt="" width="64" height="64"><a href="https://avesis.aybu.edu.tr/serikli" target="_blank" rel="noopener noreferrer">Associate Professor Dr Süheyla ERİKLİ SELEK</a></li>
+<li><img src="assets/menekse.jpeg" alt="" width="64" height="64"><a href="https://web.hitit.edu.tr/meneksesahin" target="_blank" rel="noopener noreferrer">Associate Professor Dr Menekşe ŞAHİN</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Migration, Integration and Social Cohesion Research Group examines international and internal migration, its economic and social effects and the participation of different migrant groups in society from an interdisciplinary perspective.

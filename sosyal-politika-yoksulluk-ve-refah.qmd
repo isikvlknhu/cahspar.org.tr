@@ -5,6 +5,20 @@ body-classes: research-page
 
 ![](assets/sosyal-politika-yoksulluk-ve-refah-en.png){fig-alt="Social Policy, Poverty and Welfare Research Group" fig-align="center" width="560" .research-group-banner}
 
+::: {.research-team}
+
+## Research Team
+
+### Research Group Lead
+
+<ul class="research-team-leads">
+<li><img src="assets/ekrem-erdogan.png" alt="" width="64" height="64"><a href="https://eerdogan.sakarya.edu.tr/" target="_blank" rel="noopener noreferrer">Professor Dr Ekrem ERDOĞAN</a></li>
+</ul>
+
+### Team Members
+
+:::
+
 ### About
 
 The Social Policy, Poverty and Welfare Research Group examines poverty, inequality, social protection and welfare policies from an interdisciplinary perspective. Its main aim is to produce scientific knowledge that improves social welfare and supports more inclusive, fair and sustainable social policies.
