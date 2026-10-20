@@ -101,7 +101,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles-editorial-larger-mobile-logo.css
+    css: styles-editorial-mobile-masthead.css
     include-after-body: language-switcher.html
     lang: en-GB
     toc: false

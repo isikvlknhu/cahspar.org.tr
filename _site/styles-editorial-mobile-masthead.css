@@ -406,9 +406,10 @@ body.structure-page main.content h1, body.structure-page main.content h2 { text-
 }
 @media (max-width: 991.98px) {
   .navbar .navbar-container { grid-template-columns: minmax(0, 1fr) 40px 44px; grid-template-rows: auto; padding-block: .4rem !important; position: relative; }
-  .navbar-brand { gap: 0; padding: .8rem 0 !important; }
-  .navbar-title { font-size: 1.5rem; }
-  .navbar-brand::after { display: none; }
+  .navbar-brand-container { justify-self: stretch; min-width: 0; max-width: none !important; width: 100%; }
+  .navbar-brand { gap: .65rem; padding: .8rem 0 !important; width: 100%; min-width: 0; white-space: normal; }
+  .navbar-title { font-size: clamp(1rem, 4.8vw, 1.5rem); flex: none; }
+  .navbar-brand::after { display: block; flex: 1 1 auto; min-width: 0; padding-left: .65rem; font-size: clamp(.6rem, 1.8vw, .76rem); line-height: 1.35; }
   .navbar-toggler { display: inline-flex !important; align-items: center; justify-content: center; grid-column: 3; grid-row: 1; justify-self: end; width: 40px; height: 40px; padding: .45rem; border: 1px solid rgba(255,255,255,.35); border-radius: 3px; margin: 0; }
   #quarto-search { grid-column: 2; grid-row: 1; justify-self: center; }
   .navbar-expand-lg .navbar-collapse { display: none !important; position: absolute; top: 100%; left: 0; right: 0; padding: 1rem var(--page-gutter); background: var(--brand-blue); border-top: 1px solid rgba(255,255,255,.18); max-height: calc(100dvh - 80px); overflow-y: auto; box-shadow: 0 14px 24px rgba(18,59,89,.14); }
