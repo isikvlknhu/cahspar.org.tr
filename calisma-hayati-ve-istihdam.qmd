@@ -1,52 +1,46 @@
 ---
-title: "Çalışma Hayatı ve İstihdam Araştırma Grubu"
+title: "Working Life and Employment Research Group"
 ---
 
-![](assets/calisma-hayati-ve-istihdam.png){fig-alt="Çalışma Hayatı ve İstihdam Araştırma Grubu" fig-align="center" width="100%"}
+### About
 
-### Hakkında
+The Working Life and Employment Research Group examines changes in working life, employment structures and the economic and social effects of labour markets from an interdisciplinary perspective. Its main aim is to produce scientific knowledge that helps us understand the changing world of work and develop more inclusive, secure, fair and sustainable working lives.
 
-Çalışma Hayatı ve İstihdam Araştırma Grubu; çalışma hayatındaki dönüşümleri, istihdam yapısını ve işgücü piyasalarının ekonomik ve toplumsal etkilerini disiplinlerarası bir perspektifle araştırır. Grubun temel amacı, değişen çalışma dünyasını anlamaya ve daha kapsayıcı, güvenceli, adil ve sürdürülebilir çalışma hayatının geliştirilmesine yönelik bilimsel bilgi üretmektir.
+Research addresses different dimensions of working life, from employment and unemployment dynamics to working conditions, new forms of work and labour market inequalities. The effects of technological transformation, demographic change, globalisation and economic restructuring are among the group’s central research interests.
 
-Araştırmalar; istihdam ve işsizlik dinamiklerinden çalışma koşullarına, yeni çalışma biçimlerinden işgücü piyasalarındaki eşitsizliklere kadar çalışma hayatının farklı boyutlarını ele alır. Teknolojik dönüşüm, demografik değişimler, küreselleşme ve ekonomik dönüşümlerin çalışma hayatı üzerindeki etkileri grubun temel araştırma konuları arasındadır.
+### Priority Research Areas
 
-### Öncelikli Araştırma Alanları
+- Labour markets and employment policies
+- Unemployment and labour force participation
+- Employment quality and working conditions
+- Precarious work and in-work poverty
+- Work–life balance and working time
+- Women’s and youth employment
+- Labour market participation of disadvantaged groups
+- New forms of work and flexible working
+- Remote and hybrid working
+- The platform and gig economies
+- The effects of digitalisation, automation and artificial intelligence on employment
+- Skills at work and the jobs of the future
+- Workplace equality, discrimination and inclusion
+- Employment relations and social dialogue
+- Occupational health, safety and employee wellbeing
+- Regional and social inequalities in labour markets
 
-- İşgücü piyasaları ve istihdam politikaları
-- İşsizlik ve işgücüne katılım
-- İstihdamın niteliği ve çalışma koşulları
-- Güvencesiz çalışma ve çalışan yoksulluğu
-- İş-yaşam dengesi ve çalışma süreleri
-- Kadınların ve gençlerin istihdamı
-- Dezavantajlı grupların işgücü piyasasına katılımı
-- Yeni çalışma biçimleri ve esnek çalışma
-- Uzaktan çalışma ve hibrit çalışma
-- Platform ekonomisi ve gig economy
-- Dijitalleşme, otomasyon ve yapay zekânın istihdama etkileri
-- Çalışma hayatında beceriler ve geleceğin işleri
-- İşyerinde eşitlik, ayrımcılık ve kapsayıcılık
-- Çalışma ilişkileri ve sosyal diyalog
-- İş sağlığı, güvenliği ve çalışan refahı
-- İşgücü piyasalarında bölgesel ve sosyal eşitsizlikler
+### Research Approach
 
-### Araştırma Yaklaşımı
+The group examines working life through **job quality, income security, employee wellbeing, social protection, equality and quality of life**, alongside employment and unemployment indicators.
 
-Grup, çalışma hayatını yalnızca istihdam ve işsizlik göstergeleri üzerinden değil; **işin niteliği, gelir güvencesi, çalışan refahı, sosyal koruma, eşitlik ve yaşam kalitesi** boyutlarıyla birlikte ele alır.
+It uses quantitative and qualitative methods to analyse labour market changes and compare countries, sectors, occupations and social groups.
 
-Nicel ve nitel araştırma yöntemlerini kullanarak işgücü piyasalarındaki değişimleri analiz eder; farklı ülke, sektör, meslek ve toplumsal gruplar arasındaki farklılıkları karşılaştırmalı bir perspektifle inceler.
+It focuses particularly on how **digital transformation, artificial intelligence and new forms of work** are reshaping future jobs, occupations and the skills workers need.
 
-Özellikle **dijital dönüşüm, yapay zekâ ve yeni çalışma biçimlerinin** geleceğin işlerini, meslekleri ve çalışanların ihtiyaç duyduğu becerileri nasıl dönüştürdüğüne odaklanır.
+### Our Work
 
-### Çalışmalarımız
+The research group supports the production and sharing of knowledge through **research projects • labour market analyses • academic publications • field studies • policy analyses • workshops • conferences • research networks**.
 
-Araştırma Grubu;
+By developing partnerships with academia, public bodies, the private sector, the business community and civil society organisations, it aims to translate research findings into policy and practice.
 
-**araştırma projeleri • işgücü piyasası analizleri • bilimsel yayınlar • saha araştırmaları • politika analizleri • çalıştaylar • konferanslar • araştırmacı ağları**
+### Core Objective
 
-aracılığıyla çalışma hayatına ilişkin güncel bilimsel bilgi üretimini ve paylaşımını destekler.
-
-Akademi, kamu, özel sektör, iş dünyası ve sivil toplum kuruluşlarıyla iş birlikleri geliştirerek araştırma bulgularının politika ve uygulamaya aktarılmasını hedefler.
-
-### Temel Hedef
-
-**Değişen çalışma dünyasını bilimsel yöntemlerle anlamak; herkes için daha nitelikli, kapsayıcı, güvenceli ve sürdürülebilir istihdam ve çalışma koşullarının geliştirilmesine katkı sağlamak.**
+**To understand the changing world of work through scientific research and contribute to better-quality, inclusive, secure and sustainable employment and working conditions for everyone.**

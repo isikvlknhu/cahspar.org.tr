@@ -5,7 +5,7 @@ page-layout: full
 
 ::: {.hero}
 
-![](assets/cahspar-logo.png){fig-align="center"}
+![ÇAHSPAR – Working Life and Social Policy Research Association](assets/cahspar-logo.png){fig-align="center"}
 
 <div class="social-links">
 <a class="social-link social-linkedin" href="https://www.linkedin.com/company/%C3%A7al%C4%B1%C5%9Fma-hayat%C4%B1-ve-sosyal-politika-ara%C5%9Ft%C4%B1rmalar%C4%B1-derne%C4%9Fi/?viewAsMember=true" target="_blank" rel="noopener noreferrer" aria-label="ÇAHSPAR LinkedIn">
@@ -19,40 +19,40 @@ page-layout: full
 :::
 
 ::: {.home-intro}
-Çalışma Hayatı ve Sosyal Poitika Araştırmaları Derneği (ÇAHSPAR), çalışma hayatı ve sosyal politika alanına yönelik kar amacı gütmeyen, yenilikçi ve sürdürülebilir araştırma, eğitim, proje ve danışmanlık faaliyetleri ile çalışma yaşamının ve toplumsal hayatın kalitesinin arttırılması amacıyla kurulmuştur. Dernek, bilimsel bilgi üretimini, mesleki eğitim ve kamu-üniversite-sivil toplum iş birliklerini bir araya getirerek daha adil ve sürdürülebilir bir çalışma yaşamı için katkı sağlamayı hedefler.
+The Working Life and Social Policy Research Association (ÇAHSPAR) was established to improve the quality of working and social life through innovative, sustainable, not-for-profit research, training, projects and consultancy in working life and social policy. The association brings together scientific knowledge, vocational education and partnerships between public bodies, universities and civil society to contribute to a fairer and more sustainable world of work.
 :::
 
-## Faaliyetlerimiz
+## Our Activities
 
-- Araştırma raporları, politika notları ve bültenler yayımlamak
-- Akademik çalışmalar ve süreli yayınlar geliştirmek
-- Eğitim, seminer, konferans ve çalıştaylar düzenlemek
-- Ulusal ve uluslararası projeler yürütmek
-- Çalışma hayatında eşitlik, kapsayıcılık ve sürdürülebilirlik için çözümler üretmek
+- Publishing research reports, policy briefs and bulletins
+- Developing academic research and periodicals
+- Organising training, seminars, conferences and workshops
+- Delivering national and international projects
+- Developing solutions for equality, inclusion and sustainability in working life
 
-## Duyurular
+## Announcements
 
 {{< include _duyuru-listesi.md >}}
 
-## Güncel Gelişmeler
+## Latest Developments
 
 ::: {.rss-panel}
 ::: {.rss-header-row}
 ::: {.rss-heading-group}
-[Seçilmiş resmî veri, araştırma ve yayınlar]{.rss-kicker}
+[Selected official data, research and publications]{.rss-kicker}
 
 :::
-[Son 30 gün]{.rss-live-badge}
+[Past 30 days]{.rss-live-badge}
 :::
 
 <div id="rss-feed-grid" class="rss-feed-grid"></div>
 :::
 
-<script src="assets/rss-loader.js?v=4"></script>
+<script src="assets/rss-loader.js?v=20261020"></script>
 
 
 <div class="home-more-info">
-[ÇAHSPAR hakkında daha fazla bilgi →](about.qmd)
+[Learn more about ÇAHSPAR →](about.qmd)
 </div>
 
 

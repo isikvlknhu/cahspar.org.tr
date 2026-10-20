@@ -1,7 +1,7 @@
 ---
-title: "Duyurular"
+title: "Announcements"
 ---
 
-ÇAHSPAR’dan duyurular, etkinlikler ve güncel gelişmeler.
+Announcements, events and the latest developments from ÇAHSPAR.
 
 {{< include _duyuru-listesi.md >}}

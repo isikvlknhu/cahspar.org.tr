@@ -1,13 +1,15 @@
-# Faaliyet Raporları
+---
+title: "Activity Reports"
+---
 
-ÇAHSPAR faaliyet raporları, derneğin araştırma, eğitim, proje ve toplumla buluşma süreçlerini şeffaf bir şekilde ortaya koyar. Bu raporlar, kurumun etkinlik ve katkı alanlarını takip etmeyi ve değerlendirmeyi kolaylaştırır.
+ÇAHSPAR’s activity reports provide a transparent account of the association’s research, training, projects and public engagement. They make it easier to follow and assess our activities and contributions.
 
-## İçerik alanları
+## Areas Covered
 
-- Araştırma ve inceleme faaliyetleri
-- Eğitim, seminer ve atölye çalışmaları
-- Ortak proje ve iş birlikleri
-- Toplumsal görünürlük ve iletişim faaliyetleri
-- Paydaş katılımı ve etkinlik sonuçları
+- Research and analytical activities
+- Training, seminars and workshops
+- Joint projects and partnerships
+- Public visibility and communications
+- Stakeholder participation and event outcomes
 
-Faaliyet raporları, aynı zamanda derneğin merkezi hedefi olan çalışma yaşamı kalitesi ve sosyal eşitlik üzerine kurulu katkı zincirinin ölçülebilir göstergelerini ortaya koyar.
+The reports also provide measurable indicators of the association’s contribution to its central goals: quality of working life and social equality.

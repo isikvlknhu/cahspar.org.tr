@@ -1,55 +1,49 @@
 ---
-title: "Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu"
+title: "Digital Transformation, Artificial Intelligence and the Society of the Future Research Group"
 ---
 
-![](assets/dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.png){fig-alt="Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu" fig-align="center" width="100%"}
+### About
 
-### Hakkında
+The Digital Transformation, Artificial Intelligence and the Society of the Future Research Group examines the effects of digital technologies, artificial intelligence and automation on working life, the economy and society from an interdisciplinary perspective.
 
-Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu; dijital teknolojilerin, yapay zekânın ve otomasyonun çalışma hayatı, ekonomi ve toplum üzerindeki etkilerini disiplinlerarası bir perspektifle araştırır.
+Its main aim is to investigate the opportunities and social risks arising from technological transformation through scientific methods, understand future ways of working and living, and contribute to a more inclusive, fair and human-centred digital transformation.
 
-Grubun temel amacı; teknolojik dönüşümün ortaya çıkardığı fırsatları ve toplumsal riskleri bilimsel yöntemlerle incelemek, geleceğin çalışma ve yaşam biçimlerini anlamak ve dijital dönüşümün daha kapsayıcı, adil ve insan odaklı bir biçimde gerçekleşmesine katkı sağlamaktır.
+Research ranges from artificial intelligence and employment to digital skills, future occupations, digital inequalities, algorithmic decision-making and social transformation.
 
-Araştırmalar; yapay zekâ ve istihdamdan dijital becerilere, geleceğin mesleklerinden dijital eşitsizliklere ve algoritmik karar alma süreçlerinden toplumun dönüşümüne kadar geniş bir alanı kapsar.
+### Priority Research Areas
 
-### Öncelikli Araştırma Alanları
+- Artificial intelligence and society
+- Digital transformation and social change
+- Artificial intelligence and employment
+- Automation and the jobs of the future
+- Digital labour and the platform economy
+- New forms of work and remote working
+- Future occupations and skills
+- Digital skills and lifelong learning
+- Technological change and labour markets
+- Artificial intelligence and education
+- Digital inequality and inclusion
+- Algorithmic management and working life
+- AI ethics and responsible technology
+- Technology, social policy and welfare
+- Demographic transformation and the society of the future
+- Digital entrepreneurship and social innovation
+- Technology and sustainable development
 
-- Yapay zekâ ve toplum
-- Dijital dönüşüm ve toplumsal değişim
-- Yapay zekâ ve istihdam
-- Otomasyon ve geleceğin işleri
-- Dijital emek ve platform ekonomisi
-- Yeni çalışma biçimleri ve uzaktan çalışma
-- Geleceğin meslekleri ve becerileri
-- Dijital beceriler ve yaşam boyu öğrenme
-- Teknolojik değişim ve işgücü piyasaları
-- Yapay zekâ ve eğitim
-- Dijital eşitsizlik ve dijital kapsayıcılık
-- Algoritmik yönetim ve çalışma hayatı
-- Yapay zekâ etiği ve sorumlu teknoloji
-- Teknoloji, sosyal politika ve refah
-- Demografik dönüşüm ve geleceğin toplumu
-- Dijital girişimcilik ve sosyal inovasyon
-- Teknoloji ve sürdürülebilir kalkınma
+### Research Approach
 
-### Araştırma Yaklaşımı
+The group understands digital transformation as **a comprehensive process of social change with economic, social, cultural and institutional consequences**.
 
-Grup, dijital dönüşümü yalnızca teknolojik bir gelişme olarak değil; **ekonomik, sosyal, kültürel ve kurumsal sonuçları olan kapsamlı bir toplumsal dönüşüm süreci** olarak ele alır.
+It examines the effects of artificial intelligence and automation on productivity, employment, income distribution, working conditions and skills requirements, including the possibility that technological change affects social groups unequally.
 
-Yapay zekâ ve otomasyonun üretkenlik, istihdam, gelir dağılımı, çalışma koşulları ve beceri gereksinimleri üzerindeki etkileri incelenirken; teknolojik dönüşümün farklı toplumsal gruplar üzerindeki etkilerinin eşit olmayabileceği de araştırılır.
+It therefore focuses on the balance between technological innovation and **social justice, human dignity, equality, social protection and social inclusion**.
 
-Bu doğrultuda grup; teknolojik yenilik ile **sosyal adalet, insan onuru, eşitlik, sosyal koruma ve toplumsal kapsayıcılık** arasındaki dengeye odaklanır.
+### Our Work
 
-### Çalışmalarımız
+The research group supports the production and sharing of knowledge through **research projects • data and policy analyses • field studies • futures studies • academic publications • workshops • conferences • training • policy reports • researcher and expert networks**.
 
-Araştırma Grubu;
+Through partnerships with academia, public bodies, the private sector, technology companies, educational institutions and civil society organisations, it aims to translate research on the social effects of technological transformation into policy and practice.
 
-**araştırma projeleri • veri ve politika analizleri • saha araştırmaları • gelecek çalışmaları • bilimsel yayınlar • çalıştaylar • konferanslar • eğitimler • politika raporları • araştırmacı ve uzman ağları**
+### Core Objective
 
-aracılığıyla dijital dönüşüm ve geleceğin toplumuna ilişkin bilgi üretimini destekler.
-
-Akademi, kamu, özel sektör, teknoloji şirketleri, eğitim kurumları ve sivil toplum kuruluşlarıyla iş birlikleri geliştirerek teknolojik dönüşümün toplumsal etkilerine ilişkin araştırmaların politika ve uygulamaya aktarılmasını hedefler.
-
-### Temel Hedef
-
-**Dijital dönüşüm ve yapay zekânın toplumsal etkilerini bilimsel yöntemlerle araştırmak; teknolojik ilerlemenin herkes için daha kapsayıcı, adil, sürdürülebilir ve insan odaklı bir geleceğe katkı sağlamasına yönelik bilgi ve politika önerileri geliştirmek.**
+**To investigate the social effects of digital transformation and artificial intelligence through scientific methods and develop knowledge and policy recommendations that help technological progress contribute to a more inclusive, fair, sustainable and human-centred future for everyone.**

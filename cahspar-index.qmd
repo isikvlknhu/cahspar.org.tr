@@ -1,72 +1,69 @@
 ---
-title: "CAHSPAR Index"
-page-layout: full
+title: "ÇAHSPAR Index"
 ---
 
-## Çalışma Hayatı ve Sosyal Politika Endeksi
+## Working Life and Social Policy Index
 
-**ÇAHSPAR Çalışma Hayatı ve Sosyal Politika Endeksi**, çalışma hayatı, sosyal politika ve toplumsal refah alanındaki gelişmeleri çok boyutlu göstergeler aracılığıyla izlemeyi amaçlayan özgün bir endeks çalışmasıdır.
+The **ÇAHSPAR Working Life and Social Policy Index** is an original initiative designed to monitor developments in working life, social policy and social welfare through multidimensional indicators.
 
-Endeks; çalışma hayatının niteliği, istihdam, sosyal koruma, eşitlik, refah, sürdürülebilirlik ve çalışma yaşamının geleceği gibi farklı boyutları birlikte değerlendirerek Türkiye'deki çalışma hayatı ve sosyal politika görünümünü düzenli olarak izlemeyi hedeflemektedir.
+It aims to track Türkiye’s working life and social policy landscape regularly by considering job quality, employment, social protection, equality, welfare, sustainability and the future of work together.
 
-## Endeksin Amacı
+## Purpose of the Index
 
-ÇAHSPAR Endeksi'nin temel amacı, çalışma hayatı ve sosyal politika alanındaki gelişmeleri **ölçülebilir, karşılaştırılabilir ve izlenebilir göstergeler** aracılığıyla ortaya koymaktır.
+The index’s main purpose is to reveal developments in working life and social policy through **measurable, comparable and trackable indicators**.
 
-Endeks kapsamında;
+Its objectives include:
 
-- Çalışma hayatındaki gelişmelerin izlenmesi,
-- Sosyal politika alanındaki değişimlerin değerlendirilmesi,
-- Çalışanların ve toplumun refahına ilişkin göstergelerin bir arada ele alınması,
-- Zaman içerisindeki değişimlerin ortaya konulması,
-- Araştırmacılar, karar vericiler, kamu kurumları ve sivil toplum kuruluşları için güvenilir bir bilgi kaynağı oluşturulması
+- Monitoring developments in working life
+- Assessing changes in social policy
+- Bringing together indicators of workers’ and society’s wellbeing
+- Identifying changes over time
+- Providing a reliable information source for researchers, decision-makers, public bodies and civil society organisations
 
-amaçlanmaktadır.
+## Dimensions of the Index
 
-## Endeksin Boyutları
+The methodology will bring together key working life and social policy indicators under several dimensions.
 
-ÇAHSPAR Endeksi'nin metodolojik yapısı, çalışma hayatı ve sosyal politika alanındaki temel göstergelerin farklı boyutlar altında bir araya getirilmesi üzerine kurulacaktır.
+### Working Life
+Employment, unemployment, working conditions, wages and key labour market indicators.
 
-### Çalışma Hayatı
-İstihdam, işsizlik, çalışma koşulları, ücretler ve işgücü piyasasının temel göstergeleri.
+### Social Policy
+Indicators of social protection, social security, social services and social policy practices.
 
-### Sosyal Politika
-Sosyal koruma, sosyal güvenlik, sosyal hizmetler ve sosyal politika uygulamalarına ilişkin göstergeler.
+### Equality and Inclusion
+Participation in working life by women, young people and different groups of workers, alongside workplace equality indicators.
 
-### Eşitlik ve Kapsayıcılık
-Kadınlar, gençler ve farklı çalışan gruplarının çalışma hayatına katılımı ve çalışma yaşamındaki eşitlik göstergeleri.
+### Welfare
+Indicators of income, poverty, living conditions and social welfare.
 
-### Refah
-Gelir, yoksulluk, yaşam koşulları ve toplumsal refaha ilişkin göstergeler.
+### Sustainability
+Sustainable working lives, social sustainability and the future of work.
 
-### Sürdürülebilirlik
-Sürdürülebilir çalışma hayatı, sosyal sürdürülebilirlik ve geleceğin çalışma yaşamına ilişkin göstergeler.
+### The Future of Work
+Digital transformation, artificial intelligence, automation, new forms of work and technological change in working life.
 
-### Çalışma Hayatının Geleceği
-Dijital dönüşüm, yapay zekâ, otomasyon, yeni çalışma biçimleri ve çalışma hayatındaki teknolojik dönüşüm.
+## Data Sources
 
-## Veri Kaynakları
+The index is expected to draw on reliable and comparable national and international data sources.
 
-Endeksin oluşturulmasında güvenilir ve karşılaştırılabilir ulusal ve uluslararası veri kaynaklarından yararlanılması planlanmaktadır.
+Key sources will include:
 
-Başlıca veri kaynakları arasında;
+**TurkStat (TÜİK) · Social Security Institution (SGK) · Ministry of Labour and Social Security (ÇSGB) · ILO · OECD · Eurostat · World Bank · United Nations**
 
-**TÜİK · SGK · ÇSGB · ILO · OECD · Eurostat · Dünya Bankası · Birleşmiş Milletler**
+alongside other relevant institutional data sources.
 
-ve ilgili diğer kurumsal veri kaynakları yer alacaktır.
+## Methodology
 
-## Metodoloji
+The methodological framework will cover indicator selection, data standardisation, the construction of dimensions and index calculation.
 
-ÇAHSPAR Endeksi'nin metodolojik çerçevesi; gösterge seçimi, veri standardizasyonu, boyutların oluşturulması ve endeks hesaplama süreçlerini kapsayacak şekilde geliştirilecektir.
-
-Endeks metodolojisi, veri kaynakları ve hesaplama yöntemi kamuoyuyla paylaşılacak; böylece endeks sonuçlarının **şeffaf, izlenebilir ve yeniden üretilebilir** olması hedeflenecektir.
+The methodology, data sources and calculation procedures will be made public so that results are **transparent, traceable and reproducible**.
 
 ---
 
 ::: {.callout-note}
-## ÇAHSPAR Endeksi Yakında
+## ÇAHSPAR Index Coming Soon
 
-ÇAHSPAR Çalışma Hayatı ve Sosyal Politika Endeksi'nin metodolojik geliştirme çalışmaları devam etmektedir.
+Work on the methodology of the ÇAHSPAR Working Life and Social Policy Index is under way.
 
-İlk endeks sonuçları ve metodoloji raporu yayımlandığında bu sayfadan erişime sunulacaktır.
+The first results and methodology report will be available on this page when published.
 :::

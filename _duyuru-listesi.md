@@ -1,14 +1,14 @@
 ::: {.announcement-list}
-- [Yeni!]{.new-badge} 18.10.2026  
-  Derneğimizin uluslararası işbirliği kapsamında, ESD Conference (International Scientific Conference Economic and Social Development) serisinin 29–30 Mayıs 2027 tarihlerinde Ankara’da düzenlenecek “Sustainable Societies and Social Policy: Pathways for Just and Inclusive Futures” başlıklı uluslararası konferansının hazırlıkları başlamıştır. Konferans bildiri kitabı (proceedings book) WOS kapsamında taranacak olup detaylar kısa süre içerisinde paylaşılacaktır.
+- [New!]{.new-badge} 18 October 2026  
+  Preparations have begun for the international conference “Sustainable Societies and Social Policy: Pathways for Just and Inclusive Futures”, to be held in Ankara on 29–30 May 2027 as part of the ESD Conference (International Scientific Conference Economic and Social Development) series and the association’s international partnerships. The conference proceedings are to be indexed in Web of Science (WoS). Further details will be shared shortly.
 
-- [Yeni!]{.new-badge} [Yönetim Kurulu Üyelerimizden Prof.Dr. Volkan Işık ve Prof.Dr. Mustafa Çağlar Özdemir'e 2026 Sosyal Politika Ödülleri En İyi Makale Ödülü!](sosyal-politika-odulleri-2026.qmd)
+- [New!]{.new-badge} [Board members Professor Dr Volkan Işık and Professor Dr Mustafa Çağlar Özdemir receive the Best Article Award at the 2026 Social Policy Awards!](sosyal-politika-odulleri-2026.qmd)
 
-- **Yeni!** 11.09.2026  
-  Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneğimizin kuruluş işlemleri tamamlanmıştır.
+- **New!** 11 September 2026  
+  The establishment of the Working Life and Social Policy Research Association (ÇAHSPAR) has been completed.
 
-- **Duyuru**  
-  Etkinlik, yayın ve proje duyuruları bu alanda yer alacaktır.
+- **Announcement**  
+  Event, publication and project announcements will appear here.
 :::
 
 <style>

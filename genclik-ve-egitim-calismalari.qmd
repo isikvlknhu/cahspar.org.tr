@@ -1,54 +1,48 @@
 ---
-title: "Gençlik ve Eğitim Çalışmaları Araştırma Grubu"
+title: "Youth and Education Studies Research Group"
 ---
 
-![](assets/genclik-ve-egitim-calismalari.png){fig-alt="Gençlik ve Eğitim Çalışmaları Araştırma Grubu" fig-align="center" width="100%"}
+### About
 
-### Hakkında
+The Youth and Education Studies Research Group examines young people’s participation in education, employment and social life from an interdisciplinary perspective. Its main aim is to understand the opportunities and inequalities they face, examine how education and skills policies affect their lives and produce scientific knowledge that contributes to their social and economic empowerment.
 
-Gençlik ve Eğitim Çalışmaları Araştırma Grubu; gençlerin eğitim, istihdam ve toplumsal yaşama katılım süreçlerini disiplinlerarası bir perspektifle araştırır. Grubun temel amacı; gençlerin karşı karşıya olduğu fırsat ve eşitsizlikleri anlamak, eğitim ve beceri politikalarının gençlerin yaşamlarına etkilerini incelemek ve gençlerin sosyal ve ekonomik güçlenmesine katkı sağlayacak bilimsel bilgi üretmektir.
+Research focuses on interconnected areas including the transition from education to employment, youth unemployment, skills development, entrepreneurship, digital transformation and young people’s social participation. The effects of changes in education and working life on young people’s futures are central research interests.
 
-Araştırmalar; eğitimden istihdama geçiş, genç işsizliği, beceri gelişimi, girişimcilik, dijital dönüşüm ve gençlerin toplumsal katılımı gibi birbiriyle bağlantılı alanlara odaklanır. Eğitim ve çalışma hayatındaki dönüşümlerin gençlerin geleceği üzerindeki etkileri grubun temel araştırma konuları arasındadır.
+### Priority Research Areas
 
-### Öncelikli Araştırma Alanları
+- Youth policies
+- Education policies and educational inequality
+- The transition from education to work
+- Youth employment and unemployment
+- Young people not in education, employment or training (NEET)
+- Young people’s labour force participation
+- Vocational education and skills development
+- Future skills and lifelong learning
+- Digital skills and digital education
+- Youth entrepreneurship and social entrepreneurship
+- Young people’s economic and social empowerment
+- Youth poverty and social exclusion
+- Education, employment and social mobility
+- Young people’s social and political participation
+- Youth and technology
+- Artificial intelligence and the future of education
+- Equal opportunities in education and working life
+- Young people’s expectations for the future and life choices
 
-- Gençlik politikaları
-- Eğitim politikaları ve eğitimde eşitsizlik
-- Eğitimden çalışma hayatına geçiş
-- Genç istihdamı ve genç işsizliği
-- Ne eğitimde ne istihdamda olan gençler (NEET)
-- Gençlerin işgücüne katılımı
-- Mesleki eğitim ve beceri geliştirme
-- Geleceğin becerileri ve yaşam boyu öğrenme
-- Dijital beceriler ve dijital eğitim
-- Genç girişimciliği ve sosyal girişimcilik
-- Gençlerin ekonomik ve sosyal güçlenmesi
-- Genç yoksulluğu ve sosyal dışlanma
-- Eğitim, istihdam ve toplumsal hareketlilik
-- Gençlerin sosyal ve siyasal katılımı
-- Gençlik ve teknoloji
-- Yapay zekâ ve eğitimin geleceği
-- Eğitim ve çalışma hayatında fırsat eşitliği
-- Gençlerin geleceğe yönelik beklentileri ve yaşam tercihleri
+### Research Approach
 
-### Araştırma Yaklaşımı
+The group understands youth as a significant life stage in which **education, employment, economic independence, social participation and life transitions** take shape, alongside its definition as an age range.
 
-Grup, gençliği yalnızca belirli bir yaş aralığı olarak değil; **eğitim, istihdam, ekonomik bağımsızlık, sosyal katılım ve yaşam geçişlerinin** şekillendiği önemli bir yaşam dönemi olarak ele alır.
+It explores the relationship between education and working life, the match between young people’s skills and labour market needs, and the structural factors affecting their participation in economic and social life.
 
-Eğitim ile çalışma hayatı arasındaki ilişki, gençlerin sahip olduğu beceriler ile işgücü piyasasının ihtiyaçları arasındaki uyum ve gençlerin ekonomik ve sosyal yaşama katılımını etkileyen yapısal faktörler araştırılır.
+Using quantitative and qualitative methods, research examines the experiences of different groups of young people and inequalities of opportunity. It focuses particularly on **the effects of digital transformation, artificial intelligence and changes in working life on young people’s educational and career pathways**.
 
-Nicel ve nitel araştırma yöntemlerinden yararlanılarak farklı genç gruplarının deneyimleri ve karşılaştıkları fırsat eşitsizlikleri incelenir. Özellikle **dijital dönüşüm, yapay zekâ ve çalışma hayatındaki değişimlerin gençlerin eğitim ve kariyer yolları üzerindeki etkilerine** odaklanılır.
+### Our Work
 
-### Çalışmalarımız
+The research group supports the production and sharing of knowledge through **research projects • youth research • education and labour market analyses • field studies • academic publications • policy analyses • workshops • conferences • training • policy reports • early-career researcher networks**.
 
-Araştırma Grubu;
+Through partnerships with academia, public bodies, educational institutions, the private sector, local authorities and civil society organisations, it aims to translate research findings into policies and practices for young people.
 
-**araştırma projeleri • gençlik araştırmaları • eğitim ve işgücü piyasası analizleri • saha araştırmaları • bilimsel yayınlar • politika analizleri • çalıştaylar • konferanslar • eğitimler • politika raporları • genç araştırmacı ağları**
+### Core Objective
 
-aracılığıyla gençlik ve eğitim alanında bilgi üretimini ve paylaşımını destekler.
-
-Akademi, kamu kurumları, eğitim kuruluşları, özel sektör, yerel yönetimler ve sivil toplum kuruluşlarıyla iş birlikleri geliştirerek araştırma sonuçlarının gençlere yönelik politika ve uygulamalara aktarılmasını hedefler.
-
-### Temel Hedef
-
-**Gençlerin eğitim, istihdam ve toplumsal yaşama katılımını güçlendirecek bilimsel bilgi üretmek; eğitim ve gençlik politikalarının daha kapsayıcı, eşitlikçi ve geleceğin ihtiyaçlarına duyarlı biçimde geliştirilmesine katkı sağlamak.**
+**To produce scientific knowledge that strengthens young people’s participation in education, employment and social life, and contribute to education and youth policies that are more inclusive, equitable and responsive to future needs.**

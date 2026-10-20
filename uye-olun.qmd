@@ -1,42 +1,51 @@
 ---
-title: "Üye Olun"
+title: "Become a Member"
 ---
 
-Üye olmak için:
+You can apply for membership using either of the following methods.
 
-1. YÖNTEM: e-Devlet Üzerinden Üyelik Başvurusu
+## Method 1: Apply through e-Devlet
 
-Derneğimize üyelik başvurunuzu e-Devlet Kapısı üzerinden elektronik olarak gerçekleştirebilirsiniz.
-e-Devlet’e giriş yaptıktan sonra “Dernek Üyelik Başvurusu” hizmetini açarak Derneğimiz adına başvurunuzu oluşturabilirsiniz.
-İzlenecek adımlar:
-e-Devlet (Elektronik İmza veya Mobil İmza ile Giriş) → Dernek Üyelik Başvurusu → Yeni Başvuru → Kütük No: 06-163-043 Derneğin Adı: ÇALIŞMA HAYATI VE SOSYAL POLİTİKA ARAŞTIRMALARI DERNEĞİ → Başvuruyu Tamamla
+You can submit your membership application electronically through the e-Devlet government portal.
+After signing in, open the Association Membership Application service and create an application for our association.
 
-2. YÖNTEM: Başvuru Formu Yoluyla Üyelik Başvurusu
+Follow these steps:
 
-Başvuru Formunu doldurarak derneğimiz e-posta adresine (info@cahspar.org.tr) gönderiniz.
-[Başvuru Formunu indiriniz](assets/uye-basvuru-formu.pdf)
+1. Sign in to e-Devlet using an electronic signature or mobile signature.
+2. Open Association Membership Application (Dernek Üyelik Başvurusu).
+3. Select New Application (Yeni Başvuru).
+4. Enter registration number **06-163-043** and select **ÇALIŞMA HAYATI VE SOSYAL POLİTİKA ARAŞTIRMALARI DERNEĞİ**.
+5. Complete the application (Başvuruyu Tamamla).
 
+## Method 2: Apply Using the Application Form
 
-Üyelikle İlgili Tüzük Maddeleri:
+Complete the application form and email it to info@cahspar.org.tr.
 
-Madde 3 - Dernekler Kanunu’nda belirtilen şartları taşıyan, derneğin amaç ve ilkelerini benimsemiş ve bu doğrultuda çalışmayı kabul etmiş herkes derneğe üye olmak için başvurabilir.
+- [Download the Turkish application form (Türkçe)](assets/uye-basvuru-formu.pdf)
+- [Download the English application form](assets/membership-application-form.pdf)
 
-Derneğin üyelik türleri şunlardır:
+## Membership Provisions of the Constitution
 
-- Asil üyelik
-- Fahri üyelik
-- Onursal üyelik
+Article 3 – Anyone who meets the conditions specified in the Law on Associations, accepts the association’s purposes and principles and agrees to work towards them may apply for membership.
 
-Asil üyelik: Fiil ehliyetine sahip, derneğin amaç ve ilkelerini benimseyen, mevzuatın öngördüğü koşulları taşıyan akademisyenler, araştırmacılar, uzmanlar, işverenler, gerçek ve tüzel kişiler bu derneğe üye olma hakkına sahiptir.
+The association has the following membership categories:
 
-Fahri üyelik: Dernek Yönetim Kurulu kararı ile derneğe yakın ilgi gösterenler, önemli çalışmaları olanlar veya derneğin amacıyla ilgili alanlarda katkı sağlamış kişiler fahri üye olabilir.
+- Full membership
+- Honorary membership
+- Membership of honour
 
-Onursal üyelik: Derneğe maddi ve manevi bakımdan önemli katkı sağlamış kişiler, yönetim kurulu kararıyla onursal üye kabul edilebilir.
+Full membership: Academics, researchers, specialists, employers, natural persons and legal entities with legal capacity who accept the association’s purposes and principles and meet the statutory conditions are entitled to become members.
 
-Madde 4 - Dernek başkanlığına yapılan üyelik başvurusu, dernek yönetim kurulunca en geç otuz gün içinde kabul veya reddedilir. Sonuç yazılı olarak başvuru sahibine bildirilir.
+Honorary membership: By decision of the Board of Directors, honorary membership may be granted to people who show a close interest in the association, have undertaken significant work or have contributed to fields related to its purpose.
 
-Derneğin asli üyeleri, kurucular ile müracaatları üzerine yönetim kurulu kararıyla üyeliğe kabul edilen kişilerdir.
+Membership of honour: People who have made significant material and non-material contributions to the association may be admitted as members of honour by decision of the Board of Directors.
 
-Madde 5 - Dernek üyeleri eşit haklara sahiptir. Her üyenin genel kurulda bir oy hakkı vardır. Fahri üyelerin oy hakkı yoktur.
+Article 4 – Applications submitted to the association’s chair shall be accepted or rejected by the Board of Directors within thirty days at the latest. Applicants shall be informed of the outcome in writing.
 
-Dernek üyeleri, genel kurul tarafından belirlenen giriş ve aylık/yıllık aidatı öderler.
+The association’s full members consist of its founders and those admitted by decision of the Board of Directors following an application.
+
+## Members’ Rights and Duties
+
+Article 5 – Members have equal rights. Each member has one vote at the General Assembly. Honorary members do not have voting rights.
+
+Members shall pay the admission fee and monthly or annual subscriptions determined by the General Assembly.

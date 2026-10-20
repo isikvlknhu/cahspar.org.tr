@@ -1,56 +1,50 @@
 ---
-title: "Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu"
+title: "Social Entrepreneurship and Sustainability Studies Research Group"
 ---
 
-![](assets/sosyal-girisimcilik-ve-surdurulebilirlik.png){fig-alt="Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu" fig-align="center" width="100%"}
+### About
 
-### Hakkında
+The Social Entrepreneurship and Sustainability Studies Research Group examines social enterprises that develop innovative and sustainable responses to social problems, social innovation and approaches to sustainable development from an interdisciplinary perspective.
 
-Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu; toplumsal sorunlara yenilikçi ve sürdürülebilir çözümler geliştiren sosyal girişimleri, sosyal inovasyonu ve sürdürülebilir kalkınma yaklaşımlarını disiplinlerarası bir perspektifle araştırır.
+Its main aim is to study entrepreneurial models that combine economic, social and environmental value, explore the role of entrepreneurship in addressing social problems and produce scientific knowledge that contributes to sustainable social transformation.
 
-Grubun temel amacı; ekonomik değer ile sosyal ve çevresel değeri birlikte ele alan girişimcilik modellerini incelemek, sosyal sorunların çözümünde girişimci yaklaşımların rolünü araştırmak ve sürdürülebilir toplumsal dönüşüme katkı sağlayacak bilimsel bilgi üretmektir.
+Research covers the emergence, development and social impact of social enterprises, the social and solidarity economy, sustainable business models and social innovation.
 
-Araştırmalar; sosyal girişimlerin ortaya çıkışı, gelişimi ve sosyal etkilerinden sosyal ve dayanışma ekonomisine, sürdürülebilir iş modellerinden sosyal inovasyona kadar geniş bir alanı kapsar.
+### Priority Research Areas
 
-### Öncelikli Araştırma Alanları
+- Social entrepreneurship
+- Social innovation
+- Sustainable entrepreneurship
+- The social and solidarity economy
+- Financing social enterprises
+- Social impact and impact measurement
+- Sustainable business models
+- United Nations Sustainable Development Goals
+- The circular economy and resource efficiency
+- Green entrepreneurship and the green transition
+- Governance and stakeholder relations in social enterprises
+- Women’s and youth social entrepreneurship
+- Digital transformation in social enterprises
+- Cooperatives and collective enterprise models
+- Local and regional development
+- Social entrepreneurship ecosystems
+- Partnerships between public bodies, the private sector and civil society
+- Innovative solutions to social problems
 
-- Sosyal girişimcilik
-- Sosyal inovasyon
-- Sürdürülebilir girişimcilik
-- Sosyal ve dayanışma ekonomisi
-- Sosyal girişimlerin finansmanı
-- Sosyal etki ve etki ölçümü
-- Sürdürülebilir iş modelleri
-- Birleşmiş Milletler Sürdürülebilir Kalkınma Amaçları
-- Döngüsel ekonomi ve kaynak verimliliği
-- Yeşil girişimcilik ve yeşil dönüşüm
-- Sosyal girişimlerde yönetişim ve paydaş ilişkileri
-- Kadın ve genç sosyal girişimciliği
-- Sosyal girişimlerde dijital dönüşüm
-- Kooperatifçilik ve kolektif girişim modelleri
-- Yerel ve bölgesel kalkınma
-- Sosyal girişimcilik ekosistemleri
-- Kamu, özel sektör ve sivil toplum iş birlikleri
-- Toplumsal sorunlara yenilikçi çözümler
+### Research Approach
 
-### Araştırma Yaklaşımı
+The group approaches social entrepreneurship as both an enterprise model and **an alternative way of addressing social problems, creating social value and supporting sustainable development**.
 
-Grup, sosyal girişimciliği yalnızca bir girişimcilik modeli olarak değil; **toplumsal sorunların çözümü, sosyal değer yaratılması ve sürdürülebilir kalkınmanın desteklenmesi için alternatif bir yaklaşım** olarak ele alır.
+Research brings together social, economic and environmental dimensions. Key topics include measuring the impact of social enterprises, ensuring their sustainability and examining their relationships with stakeholders.
 
-Araştırmalarda sosyal, ekonomik ve çevresel boyutların birlikte değerlendirilmesine önem verilir. Sosyal girişimlerin yarattığı etkinin ölçülmesi, sürdürülebilirliklerinin sağlanması ve farklı paydaşlarla kurdukları ilişkiler araştırmaların önemli başlıkları arasındadır.
+The group also undertakes interdisciplinary research on the links between social entrepreneurship and **social policy, working life, women’s and young people’s economic empowerment, poverty reduction and local development**.
 
-Grup ayrıca sosyal girişimcilik ile **sosyal politika, çalışma hayatı, kadınların ve gençlerin ekonomik güçlenmesi, yoksullukla mücadele ve yerel kalkınma** arasındaki ilişkileri araştırarak disiplinlerarası çalışmalar yürütür.
+### Our Work
 
-### Çalışmalarımız
+The research group supports the production and sharing of knowledge through **research projects • social impact research • fieldwork • social entrepreneurship analyses • sustainability research • academic publications • policy analyses • training • workshops • conferences • entrepreneur and researcher networks**.
 
-Araştırma Grubu;
+Through partnerships with academia, public bodies, the private sector, social enterprises, cooperatives and civil society organisations, it aims to translate scientific research into practice and social impact.
 
-**araştırma projeleri • sosyal etki araştırmaları • saha çalışmaları • sosyal girişimcilik analizleri • sürdürülebilirlik araştırmaları • bilimsel yayınlar • politika analizleri • eğitimler • çalıştaylar • konferanslar • girişimci ve araştırmacı ağları**
+### Core Objective
 
-aracılığıyla sosyal girişimcilik ve sürdürülebilirlik alanında bilgi üretimini ve paylaşımını destekler.
-
-Akademi, kamu, özel sektör, sosyal girişimler, kooperatifler ve sivil toplum kuruluşlarıyla iş birlikleri geliştirerek bilimsel araştırmaların uygulamaya ve toplumsal etkiye dönüşmesini hedefler.
-
-### Temel Hedef
-
-**Toplumsal ve çevresel sorunlara yenilikçi çözümler geliştiren girişimcilik modellerini bilimsel olarak araştırmak; sosyal değer yaratımını, sürdürülebilir kalkınmayı ve kapsayıcı ekonomik gelişmeyi destekleyecek bilgi ve uygulamaların geliştirilmesine katkı sağlamak.**
+**To research entrepreneurial models that develop innovative solutions to social and environmental problems, and contribute to knowledge and practices that support social value creation, sustainable development and inclusive economic growth.**

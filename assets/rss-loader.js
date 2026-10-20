@@ -27,17 +27,17 @@ document.addEventListener('DOMContentLoaded', async () => {
       .sort((a, b) => new Date(b.published) - new Date(a.published));
 
     if (!items.length) {
-      container.innerHTML = '<p class="rss-empty">Son 30 günde yayımlanan uygun içerik bulunamadı.</p>';
+      container.innerHTML = '<p class="rss-empty">No relevant items have been published in the past 30 days.</p>';
       return;
     }
 
     container.innerHTML = items.map((item) => {
-      const published = new Date(item.published).toLocaleDateString('tr-TR', {
+      const published = new Date(item.published).toLocaleDateString('en-GB', {
         day: 'numeric', month: 'short', year: 'numeric'
       });
-      const source = escapeHtml((item.source || 'Kaynak').trim());
+      const source = escapeHtml((item.source || 'Source').trim());
       const category = escapeHtml((item.category || '').trim());
-      const title = escapeHtml((item.title || 'Güncel yayın').trim());
+      const title = escapeHtml((item.title || 'Latest publication').trim());
       const link = escapeHtml(item.link || '#');
 
       return `
@@ -50,6 +50,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     }).join('');
   } catch (error) {
     console.error('RSS loader failed:', error);
-    container.innerHTML = '<p class="rss-empty">Güncel içerik yüklenemedi.</p>';
+    container.innerHTML = '<p class="rss-empty">The latest updates could not be loaded.</p>';
   }
 });

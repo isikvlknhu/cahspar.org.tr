@@ -1,48 +1,42 @@
 ---
-title: "Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu"
+title: "Social Policy, Poverty and Welfare Research Group"
 ---
 
-![](assets/sosyal-politika-yoksulluk-ve-refah.png){fig-alt="Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu" fig-align="center" width="100%"}
+### About
 
-### Hakkında
+The Social Policy, Poverty and Welfare Research Group examines poverty, inequality, social protection and welfare policies from an interdisciplinary perspective. Its main aim is to produce scientific knowledge that improves social welfare and supports more inclusive, fair and sustainable social policies.
 
-Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu; yoksulluk, eşitsizlik, sosyal koruma ve refah politikalarını disiplinlerarası bir perspektifle araştırır. Grubun temel amacı, toplumsal refahın geliştirilmesine ve daha kapsayıcı, adil ve sürdürülebilir sosyal politikaların oluşturulmasına yönelik bilimsel bilgi üretmektir.
+Research addresses the causes and consequences of economic and social inequalities, the social risks faced by different groups and the capacity of public policies to respond. Building strong links between academic research and policy implementation is a key priority.
 
-Araştırmalar; ekonomik ve sosyal eşitsizliklerin nedenlerini ve sonuçlarını, farklı toplumsal grupların karşı karşıya kaldığı sosyal riskleri ve kamu politikalarının bu risklere yanıt verme kapasitesini ele alır. Akademik araştırma ile politika uygulamaları arasında güçlü bir bağ kurulması grubun temel önceliklerindendir.
+### Priority Research Areas
 
-### Öncelikli Araştırma Alanları
+- Poverty and multidimensional poverty
+- Income and wealth inequality
+- Social policy and the welfare state
+- Social protection and social security
+- Social assistance policies
+- Child and family welfare
+- Women’s poverty and gender inequalities
+- Youth and social risks
+- Ageing and care policies
+- Unemployment and in-work poverty
+- Social exclusion and integration
+- Policies for disadvantaged groups
+- Social services and the care economy
+- Social innovation and the social economy
 
-- Yoksulluk ve çok boyutlu yoksulluk
-- Gelir ve servet eşitsizliği
-- Sosyal politika ve refah devleti
-- Sosyal koruma ve sosyal güvenlik
-- Sosyal yardım politikaları
-- Çocuk ve aile refahı
-- Kadın yoksulluğu ve toplumsal cinsiyet eşitsizlikleri
-- Gençlik ve sosyal riskler
-- Yaşlılık ve bakım politikaları
-- İşsizlik ve çalışan yoksulluğu
-- Sosyal dışlanma ve toplumsal bütünleşme
-- Dezavantajlı gruplara yönelik politikalar
-- Sosyal hizmetler ve bakım ekonomisi
-- Sosyal inovasyon ve sosyal ekonomi
+### Research Approach
 
-### Araştırma Yaklaşımı
+The group considers poverty and welfare through multiple dimensions, including **employment, education, health, housing, social participation and quality of life**, alongside income.
 
-Grup, yoksulluk ve refahı yalnızca gelir düzeyi üzerinden değil; **istihdam, eğitim, sağlık, barınma, sosyal katılım ve yaşam kalitesi** gibi çoklu boyutlarıyla ele alır.
+It uses quantitative and qualitative methods to examine the effectiveness and social impact of social policies, assessing policy alternatives through national and international comparisons.
 
-Nicel ve nitel araştırma yöntemlerinden yararlanarak sosyal politikaların etkinliğini ve toplumsal etkilerini inceler; ulusal ve uluslararası karşılaştırmalar yoluyla politika alternatiflerini değerlendirir.
+### Our Work
 
-### Çalışmalarımız
+The research group supports the production and sharing of knowledge through **research projects • academic publications • policy analyses • field studies • workshops • conferences • research networks**.
 
-Araştırma Grubu;
+Through partnerships with academia, public bodies, the private sector and civil society organisations, it aims to translate research findings into policy and practice.
 
-**araştırma projeleri • bilimsel yayınlar • politika analizleri • saha araştırmaları • çalıştaylar • konferanslar • araştırmacı ağları**
+### Core Objective
 
-aracılığıyla bilgi üretimini ve bilgi paylaşımını destekler.
-
-Akademi, kamu, özel sektör ve sivil toplum kuruluşlarıyla geliştirilen iş birlikleri aracılığıyla araştırma bulgularının politika ve uygulamaya aktarılmasını hedefler.
-
-### Temel Hedef
-
-**Bilimsel araştırma yoluyla yoksulluk ve eşitsizlikle mücadeleye, sosyal korumanın güçlendirilmesine ve toplumun farklı kesimleri için daha kapsayıcı bir refah anlayışının geliştirilmesine katkı sağlamak.**
+**To contribute through scientific research to tackling poverty and inequality, strengthening social protection and developing a more inclusive approach to welfare for different sections of society.**

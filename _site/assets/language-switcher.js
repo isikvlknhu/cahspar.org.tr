@@ -1,7 +1,7 @@
 (function () {
   function getTargetLanguage(link) {
     var label = (link.textContent || "").trim().toUpperCase();
-    if (label === "EN") return "en";
+    if (label === "TR") return "tr";
     if (label === "FR") return "fr";
     if (label === "ES") return "es";
     return null;
@@ -9,7 +9,7 @@
 
   function buildTranslateUrl(targetLang) {
     var currentUrl = window.location.href;
-    return "https://translate.google.com/translate?sl=tr&tl=" + targetLang + "&u=" + encodeURIComponent(currentUrl);
+    return "https://translate.google.com/translate?sl=en&tl=" + targetLang + "&u=" + encodeURIComponent(currentUrl);
   }
 
   function bindLanguageSwitcher() {

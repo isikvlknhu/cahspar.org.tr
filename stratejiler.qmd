@@ -1,13 +1,15 @@
-# Stratejiler
+---
+title: "Strategies"
+---
 
-ÇAHSPAR'ın stratejik yaklaşımı, çalışma yaşamı ve sosyal politika alanında uzun vadeli, etkili ve kapsayıcı çözümler üretmeye dayanır. Dernek, faaliyetlerini bilimsel veri, paydaş görüşleri ve toplumun ihtiyaçlarıyla uyumlu şekilde planlar.
+ÇAHSPAR’s strategic approach focuses on developing lasting, effective and inclusive solutions in working life and social policy. The association plans its activities in line with scientific evidence, stakeholder views and society’s needs.
 
-## Stratejik hedefler
+## Strategic Objectives
 
-- Araştırma üretimini güçlendirmek
-- Eğitim ve kapasite geliştirmeyi yaygınlaştırmak
-- Politikalar için somut öneriler geliştirmek
-- İş birliklerini artırmak
-- Toplumsal farkındalığı yükseltmek
+- Strengthen research output
+- Expand training and capacity building
+- Develop practical policy recommendations
+- Increase collaboration
+- Raise public awareness
 
-Bu stratejiler, derneğin katma değerini artırırken, toplumsal refah ve adalet hedeflerine daha güçlü katkı sunar.
+These strategies increase the association’s contribution to social welfare and justice.

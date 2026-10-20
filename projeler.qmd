@@ -1,13 +1,13 @@
 ---
-title: "Projeler"
+title: "Projects"
 ---
 
-ÇAHSPAR'ın proje yaklaşımı, kurumsal hedeflerle toplumun somut ihtiyaçlarını bir araya getiren uygulamalı ve etkili çalışmalar üretmeyi hedefler.
+ÇAHSPAR’s approach to projects aims to deliver practical and effective work that brings together institutional objectives and society’s specific needs.
 
-## Proje alanları
+## Project Areas
 
-- Çalışma yaşamı ve istihdam politikaları
-- Sosyal koruma ve eşitlik
-- Mesleki eğitim ve beceri geliştirme
-- Dijitalleşme ve geleceğin çalışma biçimleri
-- Toplumsal dönüşüm ve katılım
+- Working life and employment policies
+- Social protection and equality
+- Vocational education and skills development
+- Digitalisation and the future of work
+- Social transformation and participation

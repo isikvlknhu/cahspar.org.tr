@@ -1,221 +1,225 @@
-## 1. Derneğin Adı ve Merkezi
+---
+title: "Constitution"
+---
 
-Madde 1 - Derneğin adı: "Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneği"dir.
-Derneğin merkezi Ankara’dır. Kısa adı "ÇAHSPAR"dır.
-Dernek, yurt içinde ve yurt dışında şube açabilir.
+## 1. Name and Registered Office
 
-## 2. Derneğin Amacı, Çalışma Konuları ve Faaliyet Alanı
+Article 1 – The association’s name is “Çalışma Hayatı ve Sosyal Politika Araştırmaları Derneği” (Working Life and Social Policy Research Association).
+Its registered office is in Ankara. Its abbreviated name is “ÇAHSPAR”.
+The association may establish branches in Türkiye and abroad.
 
-Madde 2 - Dernek; çalışma hayatı ve sosyal politika alanına yönelik kar amacı gütmeyen, yenilikçi ve sürdürülebilir araştırma, eğitim, proje ve danışmanlık faaliyetleri ile çalışma yaşamının ve toplumsal hayatın kalitesinin arttırılması amacıyla kurulmuştur.
+## 2. Purpose, Activities and Scope
 
-Bu kapsamda dernek, insan onuruna yakışır iş, sosyal koruma, istihdam, cinsiyet eşitliği, çevresel duyarlılık ve sosyal politika alanlarında sürdürülebilir çözümler üretmeyi hedefler.
+Article 2 – The association was established to improve the quality of working and social life through innovative, sustainable, not-for-profit research, training, projects and consultancy in working life and social policy.
 
-Dernekçe sürdürülecek çalışma konuları ve biçimleri şunlardır:
+Within this scope, the association aims to develop sustainable solutions in decent work, social protection, employment, gender equality, environmental awareness and social policy.
 
-- Ulusal ve uluslararası düzeyde eğitim, araştırma, kamuoyu araştırması, proje faaliyetleri ve akademik çalışmalar yapmak.
-- Kurs, seminer, konferans, panel, bilgilendirme dâhil her türlü sertifikalı eğitim çalışması düzenlemek ve eğitimler vermek.
-- Ulusal ve/veya uluslararası kurum ve kuruluşlarla iş birliği yapmak, araştırma ve proje platformları oluşturmak.
-- Dernek amacı doğrultusunda kurulmuş ulusal ve uluslararası üst kuruluşlara üye olmak, akredite olmak ve ulusal dernekleri akredite etmek.
-- Gerekli bilgi, belge, doküman ve yayınları temin etmek; dokümantasyon merkezi oluşturmak; istihdam, çalışma hayatı ve sosyal politika alanında bilgilendirme ve yayın çalışmaları yürütmek.
-- Akademik içerikli dergi çıkarmak ve bilimsel üretimi desteklemek.
-- Kongre, çalıştay ve konferans gibi akademik etkinlikler düzenlemek.
-- Gerekli görülmesi halinde vakıf, federasyon ve enstitü kurmak.
-- Sağlıklı çalışma ortamı sağlamak; gerek duyulan teknik araç, ekipman ve taşınmazlara ilişkin işleri yürütmek.
-- Üyelerin temel ihtiyaçlarını karşılamaya yönelik sandık ve benzeri yardım mekanizmaları kurmak.
-- Gerekli izin alınmak koşuluyla yardım toplama faaliyetlerinde bulunmak; bağış ve gönüllü hizmet kabul etmek.
-- Üyeler için lokal, sosyal ve kültürel tesisler kurmak ve kullanıma sunmak.
-- Üyeler arasında sosyal ilişkilerin geliştirilmesi için toplantı, konser, sergi, spor, gezi ve eğlence etkinlikleri düzenlemek.
-- Gerekli görülen yerlerde şube ve temsilcilik açmak.
+The association’s activities and methods are as follows:
 
-Derneğin faaliyet alanı, çalışma yaşamı ve sosyal politika alanlarında yurt içinde ve yurt dışında her türlü eğitim, araştırma, danışmanlık ve proje faaliyetlerini kapsamaktadır.
+- Undertake training, research, public opinion research, projects and academic studies nationally and internationally.
+- Organise and deliver all forms of certified training, including courses, seminars, conferences, panels and information sessions.
+- Collaborate with national and international institutions and organisations and establish research and project platforms.
+- Join and obtain accreditation from national and international umbrella organisations established for purposes consistent with its own, and accredit national associations.
+- Obtain necessary information, records, documents and publications; establish a documentation centre; and provide information and publications on employment, working life and social policy.
+- Publish an academic journal and support scholarly work.
+- Organise academic events such as congresses, workshops and conferences.
+- Establish foundations, federations and institutes where necessary.
+- Provide a healthy working environment and manage matters relating to necessary technical tools, equipment and property.
+- Establish funds and similar assistance mechanisms to meet members’ basic needs.
+- Undertake fundraising with the necessary permission, and accept donations and voluntary services.
+- Establish and make available club premises and social and cultural facilities for members.
+- Organise meetings, concerts, exhibitions, sports, trips and recreational activities to develop social relationships among members.
+- Establish branches and representative offices where necessary.
 
-## 3. Üye Olma Hakkı ve Üyelik İşlemleri
+The association’s scope covers all forms of training, research, consultancy and project activities relating to working life and social policy in Türkiye and abroad.
 
-Madde 3 - Dernekler Kanunu’nda belirtilen şartları taşıyan, derneğin amaç ve ilkelerini benimsemiş ve bu doğrultuda çalışmayı kabul etmiş herkes derneğe üye olmak için başvurabilir.
+## 3. Eligibility for Membership and Membership Procedures
 
-Derneğin üyelik türleri şunlardır:
+Article 3 – Anyone who meets the conditions specified in the Law on Associations, accepts the association’s purposes and principles and agrees to work towards them may apply for membership.
 
-- Asil üyelik
-- Fahri üyelik
-- Onursal üyelik
+The association has the following membership categories:
 
-Asil üyelik: Fiil ehliyetine sahip, derneğin amaç ve ilkelerini benimseyen, mevzuatın öngördüğü koşulları taşıyan akademisyenler, araştırmacılar, uzmanlar, işverenler, gerçek ve tüzel kişiler bu derneğe üye olma hakkına sahiptir.
+- Full membership
+- Honorary membership
+- Membership of honour
 
-Fahri üyelik: Dernek Yönetim Kurulu kararı ile derneğe yakın ilgi gösterenler, önemli çalışmaları olanlar veya derneğin amacıyla ilgili alanlarda katkı sağlamış kişiler fahri üye olabilir.
+Full membership: Academics, researchers, specialists, employers, natural persons and legal entities with legal capacity who accept the association’s purposes and principles and meet the statutory conditions are entitled to become members.
 
-Onursal üyelik: Derneğe maddi ve manevi bakımdan önemli katkı sağlamış kişiler, yönetim kurulu kararıyla onursal üye kabul edilebilir.
+Honorary membership: By decision of the Board of Directors, honorary membership may be granted to people who show a close interest in the association, have undertaken significant work or have contributed to fields related to its purpose.
 
-Madde 4 - Dernek başkanlığına yapılan üyelik başvurusu, dernek yönetim kurulunca en geç otuz gün içinde kabul veya reddedilir. Sonuç yazılı olarak başvuru sahibine bildirilir.
+Membership of honour: People who have made significant material and non-material contributions to the association may be admitted as members of honour by decision of the Board of Directors.
 
-Derneğin asli üyeleri, kurucular ile müracaatları üzerine yönetim kurulu kararıyla üyeliğe kabul edilen kişilerdir.
+Article 4 – Applications submitted to the association’s chair shall be accepted or rejected by the Board of Directors within thirty days at the latest. Applicants shall be informed of the outcome in writing.
 
-## 4. Üyelerin Hak ve Görevleri
+The association’s full members consist of its founders and those admitted by decision of the Board of Directors following an application.
 
-Madde 5 - Dernek üyeleri eşit haklara sahiptir. Her üyenin genel kurulda bir oy hakkı vardır. Fahri üyelerin oy hakkı yoktur.
+## 4. Members’ Rights and Duties
 
-Dernek üyeleri, genel kurul tarafından belirlenen giriş ve aylık/yıllık aidatı öderler.
+Article 5 – Members have equal rights. Each member has one vote at the General Assembly. Honorary members do not have voting rights.
 
-## 5. Üyelikten Çıkma, Çıkarılma ve Düşme
+Members shall pay the admission fee and monthly or annual subscriptions determined by the General Assembly.
 
-Madde 6 - Her üye yazılı bildirim ile dernekten çıkma hakkına sahiptir. İstifa dilekçesi yönetim kuruluna ulaştığı anda çıkış işlemleri sonuçlanmış sayılır.
+## 5. Resignation, Expulsion and Termination of Membership
 
-Madde 7 - Dernek üyeliğinden çıkarılmayı gerektiren haller şunlardır:
+Article 6 – Every member has the right to resign by written notice. Resignation is considered complete when the notice reaches the Board of Directors.
 
-- Dernek tüzüğüne aykırı davranışlarda bulunmak,
-- Verilen görevlerden sürekli kaçınmak,
-- Yapılan ikaza rağmen aidatı altı ay içinde ödememek,
-- Dernek organlarınca verilen kararlara uymamak,
-- Üye olma şartlarını kaybetmek,
-- Sağlık, yaşlılık, tutukluluk veya benzeri nedenlerle uzun süre etkinlik göstermemek.
+Article 7 – The following constitute grounds for expulsion:
 
-Yukarıda sayılan hallerden birinin tespiti halinde yönetim kurulu kararı ile üyelikten çıkarılır.
+- Acting contrary to the association’s constitution
+- Persistently avoiding assigned duties
+- Failing to pay subscriptions within six months despite a warning
+- Failing to comply with decisions of the association’s governing bodies
+- No longer meeting the conditions for membership
+- Prolonged inactivity due to ill health, old age, detention or similar reasons
 
-Madde 8 - Aşağıdaki hallerde üyelik kendiliğinden düşer:
+Where any of these circumstances is established, the member shall be expelled by decision of the Board of Directors.
 
-- Üyenin ölmesi,
-- Üyenin istifa etmesi,
-- Üyenin medeni haklarını kullanma ehliyetini kaybetmesi,
-- Üyeliğe ilişkin yasal engellerin doğması veya gerekli şartların kaybedilmesi.
+Article 8 – Membership terminates automatically in the following circumstances:
 
-## 6. Dernek Organları
+- The member’s death
+- The member’s resignation
+- Loss of the capacity to exercise civil rights
+- The emergence of a legal impediment to membership or loss of the required qualifications
 
-Madde 9 - Derneğin organları şunlardır:
+## 6. Governing Bodies
 
-- Genel Kurul,
-- Yönetim Kurulu,
-- Denetim Kurulu.
+Article 9 – The association’s governing bodies are:
 
-## 7. Genel Kurul
+- The General Assembly
+- The Board of Directors
+- The Supervisory Board
 
-Madde 10 - Genel kurul, derneğin en yetkili karar organıdır. Derneğe kayıtlı üyelerden, gerektiğinde şube veya temsilcilik delegeleri ile seçilmiş delegelerden oluşur.
+## 7. General Assembly
 
-Genel kurul olağan ve olağanüstü şekilde toplanır.
+Article 10 – The General Assembly is the association’s highest decision-making body. It consists of registered members and, where applicable, branch or representative office delegates and elected delegates.
 
-Olağan genel kurul, üç yılda bir Haziran ayında toplanır.
-Olağanüstü genel kurul, yönetim veya denetim kurulunun gerekli görmesi veya üyelerin beşte birinin yazılı talebi üzerine toplanır.
+The General Assembly holds ordinary and extraordinary meetings.
 
-Genel kurula katılma hakkı bulunan üyeler toplantıya en az on beş gün önce çağrılır. Toplantı günü, saati, yeri ve gündemi uygun şekilde duyurulur. İlk toplantı çoğunluk sağlanamadığı takdirde ikinci toplantı yapılabilir.
+The ordinary General Assembly meets every three years in June.
+An extraordinary General Assembly is convened when deemed necessary by the Board of Directors or Supervisory Board, or upon the written request of one fifth of members.
 
-Genel kurul, katılma hakkı bulunan üyelerin salt çoğunluğuyla toplanır; tüzük değişikliği ve dernek feshi hallerinde üçte iki çoğunluk aranır.
+Members entitled to attend shall be invited at least fifteen days before the meeting. The date, time, venue and agenda shall be announced appropriately. If the first meeting does not achieve a quorum, a second meeting may be held.
 
-Genel kurulda her üyenin bir oy hakkı vardır. Üye oyunu şahsen kullanmak zorundadır. Tüzel kişiler ise temsilci aracılığıyla oy kullanır.
+The General Assembly requires an absolute majority of members entitled to attend; a two-thirds majority is required for constitutional amendments and dissolution.
 
-## 8. Genel Kurulun Görev ve Yetkileri
+Each member has one vote at the General Assembly and must vote in person. Legal entities vote through a representative.
 
-Madde 11 - Genel kurulun görev ve yetkileri şunlardır:
+## 8. Duties and Powers of the General Assembly
 
-- Dernek organlarının seçilmesi,
-- Tüzüğün değiştirilmesi,
-- Yönetim ve denetim kurullarının raporlarının görüşülmesi,
-- Bütçenin kabul edilmesi,
-- Dernek organlarının denetlenmesi ve gerekli hallerde görevden alınması,
-- Taşınmaz alım-satım ve benzeri önemli kararların onaylanması,
-- Üyelik kabulü ve üyelikten çıkarma kararı,
-- Derneğin federasyona katılması ve ayrılması,
-- Şube ve temsilcilik açılması ve kapatılması hususlarında yetki verilmesi,
-- Derneğin feshi ve tasfiyesi ile ilgili kararlar almak.
+Article 11 – The General Assembly’s duties and powers are:
 
-## 9. Yönetim Kurulu
+- Electing the association’s governing bodies
+- Amending the constitution
+- Discussing reports of the Board of Directors and Supervisory Board
+- Approving the budget
+- Supervising governing bodies and removing them from office where necessary
+- Approving property purchases, sales and similar significant decisions
+- Deciding on admission to and expulsion from membership
+- Deciding on joining or leaving a federation
+- Authorising the opening and closure of branches and representative offices
+- Deciding on dissolution and liquidation
 
-Madde 12 - Yönetim kurulu, genel kurulca beş asıl ve beş yedek üye olarak seçilir.
+## 9. Board of Directors
 
-Yönetim kurulu, ilk toplantısında görev dağılımı yapar ve başkan, başkan yardımcısı, genel sekreter, sayman ve muhasebe sorumlusu belirler.
+Article 12 – The Board of Directors is elected by the General Assembly and consists of five principal and five substitute members.
 
-Yönetim kurulu, derneğin yürütme organıdır. Dernek iş ve işlemlerini temsil eder, karar alır ve uygular.
+At its first meeting, the Board allocates responsibilities and appoints a chair, deputy chair, general secretary, treasurer and accounting officer.
 
-Yönetim kurulu görevleri arasında şunlar yer alır:
+The Board is the association’s executive body. It represents the association in its affairs, takes decisions and implements them.
 
-- Genel kurulca verilen görevleri yerine getirmek,
-- Derneği temsil etmek veya temsil yetkisini üyelerden birine veya birkaçına vermek,
-- Gelir ve gider hesaplarına ilişkin işlemleri yapmak,
-- Gelecek döneme ait bütçeyi hazırlamak ve genel kurula sunmak,
-- Derneğin çalışmalarına ilişkin yönetmelikleri hazırlamak,
-- Taşınmaz mal alım satımı, kira, rehin ve benzeri işlemleri yürütmek,
-- Şube ve temsilcilik açma işlemlerini gerçekleştirmek,
-- Derneğin faaliyetlerine ilişkin raporları hazırlamak,
-- Üye kabulü, üyelik reddi ve üyelikten çıkarma konularında karar vermek.
+Its duties include:
 
-## 10. Denetim Kurulu
+- Carrying out tasks assigned by the General Assembly
+- Representing the association or delegating authority to one or more members
+- Managing income and expenditure accounts
+- Preparing the budget for the following period and submitting it to the General Assembly
+- Preparing regulations governing the association’s work
+- Managing property purchases and sales, leases, pledges and similar transactions
+- Undertaking procedures to establish branches and representative offices
+- Preparing activity reports
+- Deciding on membership applications, rejections and expulsions
 
-Madde 13 - Denetim kurulu, genel kurulca üç asıl ve üç yedek üye olarak seçilir.
+## 10. Supervisory Board
 
-Denetim kurulu; derneğin faaliyetlerinin, defter ve hesap kayıtlarının mevzuata ve tüzüğe uygun olup olmadığını denetler. Denetim sonuçlarını rapor haline getirerek yönetim kuruluna ve gerektiğinde genel kurula sunar.
+Article 13 – The Supervisory Board is elected by the General Assembly and consists of three principal and three substitute members.
 
-## 11. Derneğin Gelir Kaynakları
+It examines whether the association’s activities, books and accounts comply with legislation and the constitution. It reports its findings to the Board of Directors and, where necessary, the General Assembly.
 
-Madde 14 - Derneğin gelir kaynakları şunlardır:
+## 11. Sources of Income
 
-- Üye aidatı,
-- Şube ödentisi,
-- Gerçek ve tüzel kişilerin bağış ve yardımları,
-- Çay, yemekli toplantı, gezi, konser, yarışma, kongre, çalıştay, konferans ve benzeri etkinliklerden sağlanan gelirler,
-- Bilimsel yayın ve yayımlardan elde edilen gelirler,
-- Derneğin mal varlığından elde edilen gelirler,
-- Mevzuata uygun yardım toplama faaliyetleri,
-- Ticari faaliyetlerden elde edilen kazançlar,
-- Akademik dergiden elde edilen kazançlar,
-- Diğer gelirler.
+Article 14 – The association’s income sources are:
 
-## 12. Defter Tutma Esas ve Usulleri
+- Membership subscriptions
+- Branch contributions
+- Donations and assistance from natural persons and legal entities
+- Income from tea gatherings, dinners, trips, concerts, competitions, congresses, workshops, conferences and similar events
+- Income from academic publications and publishing
+- Income from the association’s assets
+- Fundraising conducted in accordance with legislation
+- Profits from commercial activities
+- Profits from the academic journal
+- Other income
 
-Madde 15 - Dernekte işletme hesabı esasına göre defter tutulur. Yıllık brüt gelir belirli sınırı aşması halinde bilanço esasına geçilir.
+## 12. Bookkeeping Principles and Procedures
 
-Derneğin defter ve kayıtları Dernekler Yönetmeliği hükümlerine uygun olarak tutulur.
+Article 15 – The association shall keep its books on the operating account basis. If its annual gross income exceeds the specified threshold, it shall adopt the balance sheet basis.
 
-Tutulacak defterler arasında şunlar yer alır:
+Books and records shall be maintained in accordance with the Regulation on Associations.
 
-- Üye Kayıt Defteri,
-- Karar Defteri,
-- Evrak Defterleri,
-- Bilanço, Bütçe ve Kesin Hesap Defteri,
-- Gelir ve Gider Defteri,
-- Demirbaş Defteri,
-- Alındı Belgesi Kayıt Defteri.
+The books to be kept include:
 
-## 13. Gelir ve Gider İşlemleri
+- Membership Register
+- Decision Book
+- Correspondence Registers
+- Balance Sheet, Budget and Final Accounts Book
+- Income and Expenditure Book
+- Fixed Asset Register
+- Receipt Register
 
-Madde 16 - Dernek gelirleri alındı belgesi ile tahsil edilir. Banka üzerinden tahsil edilen gelirlerde banka dekontu bu belge yerine geçebilir.
+## 13. Income and Expenditure Procedures
 
-Dernek giderleri fatura, fiş, makbuz ve benzeri harcama belgeleriyle yapılır. Gerekli hallerde gider pusulası ve banka dekontu kullanılabilir.
+Article 16 – Income shall be collected against a receipt. For income collected through a bank, the bank receipt may serve in its place.
 
-## 14. Beyanname ve Bildirim Yükümlülüğü
+Expenditure shall be supported by invoices, till receipts, receipts and similar expenditure documents. Expense vouchers and bank receipts may be used where necessary.
 
-Madde 17 - Derneğin bir önceki yıla ait faaliyetleri ve gelir-gider işlemleri, her takvim yılının ilk dört ayında dernek başkanı tarafından mülki idare amirliğine beyan edilir.
+## 14. Declaration and Notification Obligations
 
-Dernek, gerekli hallerde genel kurul sonuç bildirimi, taşınmaz bildirimleri, yurtdışından yardım alma bildirimi, proje bildirimi ve değişiklik bildirimlerini mevzuata göre vermekle yükümlüdür.
+Article 17 – The association’s activities and income and expenditure transactions for the preceding year shall be declared by the chair to the local administrative authority within the first four months of each calendar year.
 
-## 15. İç Denetim
+Where required, the association shall submit notifications of General Assembly results, property holdings, assistance received from abroad, projects and changes in accordance with legislation.
 
-Madde 18 - Dernekte genel kurul, yönetim kurulu veya denetim kurulu tarafından iç denetim yapılabilir. Gerekirse bağımsız denetim kuruluşlarına denetim yaptırılabilir.
+## 15. Internal Audit
 
-Denetim kurulu, yılda en az bir kez derneği denetler ve denetim sonuçlarını rapor halinde sunar.
+Article 18 – Internal audits may be undertaken by the General Assembly, Board of Directors or Supervisory Board. Independent audit organisations may be engaged where necessary.
 
-## 16. Temsilcilik Açma
+The Supervisory Board shall audit the association at least once a year and report its findings.
 
-Madde 19 - Dernek, gerekli gördüğü yerlerde genel kurul yetkilendirmesi ve yönetim kurulu kararıyla temsilcilik açabilir. Temsilci ve adres bilgileri mülki idare amirliğine yazılı olarak bildirilir.
+## 16. Establishing Representative Offices
 
-## 17. Şubeler
+Article 19 – The association may establish representative offices where necessary, with authorisation from the General Assembly and a decision of the Board of Directors. Details of the representative and address shall be notified in writing to the local administrative authority.
 
-Madde 20 - Dernek, gerekli görülen yerlerde genel kurul kararıyla şube açabilir. Şube, dernek amaç ve hizmet konuları doğrultusunda özerk faaliyetlerde bulunur.
+## 17. Branches
 
-Şubelerin organları şu şekildedir:
+Article 20 – The association may establish branches where necessary by decision of the General Assembly. Branches undertake autonomous activities in line with the association’s purposes and services.
 
-- Genel Kurul,
-- Yönetim Kurulu,
-- Denetim Kurulu.
+The governing bodies of branches are:
 
-## 18. Derneğin Borçlanma Usulleri
+- The General Assembly
+- The Board of Directors
+- The Supervisory Board
 
-Madde 21 - Dernek, amacını gerçekleştirmek ve faaliyetlerini yürütmek için ihtiyaç duyulması halinde yönetim kurulu kararıyla borçlanabilir. Borçlanma, derneğin gelir kaynakları ile karşılanamayacak ölçüde ve ödeme güçlüğü yaratmayacak şekilde yapılmalıdır.
+## 18. Borrowing Procedures
 
-## 19. Tüzüğün Değiştirilmesi
+Article 21 – The association may borrow by decision of the Board of Directors where necessary to achieve its purpose and carry out its activities. Borrowing must remain within the association’s income capacity and must not create payment difficulties.
 
-Madde 22 - Tüzük değişikliği genel kurul kararı ile yapılır. Değişiklik için genel kurulda katılım ve oy çoğunluğu aranır.
+## 19. Amending the Constitution
 
-## 20. Derneğin Feshi ve Mal Varlığının Tasfiyesi
+Article 22 – The constitution may be amended by decision of the General Assembly. Amendments require the applicable attendance and voting majorities at the General Assembly.
 
-Madde 23 - Genel kurul, derneğin feshine karar verebilir.
+## 20. Dissolution and Liquidation of Assets
 
-Fesih kararı için gerekli çoğunluk sağlanır. Fesih halinde, son yönetim kurulu üyelerinden oluşan tasfiye kurulu derneğin para, mal ve haklarını tasfiye eder. Kalan varlık, genel kurulda belirlenen yere devredilir; belirlenmemişse amacına en yakın derneğe devredilir.
+Article 23 – The General Assembly may decide to dissolve the association.
 
-Tüzük metninin tamamı, derneğin kurumsal yapısı, amaçları, yönetim modeli, üyelik düzeni ve faaliyet ilkeleri açısından bu çerçevede düzenlenmiştir.
+The required majority must be achieved for dissolution. Upon dissolution, a liquidation committee consisting of the last members of the Board of Directors shall liquidate the association’s funds, property and rights. Remaining assets shall be transferred to the body designated by the General Assembly or, if none is designated, to the association with the closest purpose.
+
+The full constitution is structured within this framework in respect of the association’s institutional structure, purposes, governance model, membership arrangements and operating principles.

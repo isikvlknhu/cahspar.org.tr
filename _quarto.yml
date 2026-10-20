@@ -2,9 +2,7 @@ project:
   type: website
   output-dir: _site
   resources:
-    - assets/language-switcher.js
-    - assets/rss-loader.js
-    - assets/rss-feed.json
+    - "assets/**"
   render:
     - "*.qmd"
     - "!* [0-9].qmd"
@@ -12,82 +10,82 @@ project:
 website:
   title: ""
   site-url: "https://cahspar.org.tr"
-  description: "Çalışma hayatı ve sosyal politika alanında araştırma, eğitim ve proje faaliyetleri."
+  description: "Research, training and projects in working life and social policy."
   navbar:
     background: "#0f3c78"
     foreground: "#ffffff"
     left:
-      - text: "Ana Sayfa"
+      - text: "Home"
         href: index.qmd
-      - text: "Biz Kimiz?"
+      - text: "Who We Are"
         menu:
-          - text: "Kurumsal Logomuz"
+          - text: "Our Logo"
             href: kurumsal-logomuz.qmd
-          - text: "Kurumsal Yapımız"
+          - text: "Our Structure"
             href: kurumsal-yapimiz.qmd
-          - text: "Nasıl Kurulduk?"
+          - text: "Our Story"
             href: nasil-kurulduk.qmd
-          - text: "Faaliyet Raporları"
+          - text: "Activity Reports"
             href: faaliyet-raporlari.qmd
-          - text: "Stratejiler"
+          - text: "Strategies"
             href: stratejiler.qmd
-          - text: "Tüzük"
+          - text: "Constitution"
             href: tuzuk.qmd
-          - text: "Ödüllerimiz"
+          - text: "Awards"
             href: odullerimiz.qmd
-          - text: "ÇAHSPAR Hakkında"
+          - text: "About ÇAHSPAR"
             href: about.qmd
-      - text: "İşbirlikleri ve Projeler"
+      - text: "Partnerships and Projects"
         menu:
-          - text: "Projeler"
+          - text: "Projects"
             href: projeler.qmd
-          - text: "Uluslararası İşbirlikleri"
+          - text: "International Partnerships"
             href: uluslararasi-isbirlikleri.qmd
-          - text: "Ulusal İşbirlikleri"
+          - text: "National Partnerships"
             href: ulusal-isbirlikleri.qmd
-      - text: "Araştırma Grupları"
+      - text: "Research Groups"
         menu:
-          - text: "Sosyal Politika, Yoksulluk ve Refah Araştırma Grubu"
+          - text: "Social Policy, Poverty and Welfare Research Group"
             href: sosyal-politika-yoksulluk-ve-refah.qmd
-          - text: "Çalışma Hayatı ve İstihdam Araştırma Grubu"
+          - text: "Working Life and Employment Research Group"
             href: calisma-hayati-ve-istihdam.qmd
-          - text: "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu"
+          - text: "Women’s Studies and Gender Research Group"
             href: kadin-calismalari-ve-toplumsal-cinsiyet.qmd
-          - text: "Sosyal Girişimcilik ve Sürdürülebilirlik Çalışmaları Araştırma Grubu"
+          - text: "Social Entrepreneurship and Sustainability Studies Research Group"
             href: sosyal-girisimcilik-ve-surdurulebilirlik.qmd
-          - text: "Dijital Dönüşüm, Yapay Zekâ ve Geleceğin Toplumu Araştırma Grubu"
+          - text: "Digital Transformation, Artificial Intelligence and the Society of the Future Research Group"
             href: dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.qmd
-          - text: "Göç, Uyum ve Sosyal Bütünleşme Araştırma Grubu"
+          - text: "Migration, Integration and Social Cohesion Research Group"
             href: goc-uyum-ve-sosyal-butunlesme.qmd
-          - text: "Gençlik ve Eğitim Çalışmaları Araştırma Grubu"
+          - text: "Youth and Education Studies Research Group"
             href: genclik-ve-egitim-calismalari.qmd
-      - text: "ÇAHSPAR ENDEKSİ"
+      - text: "ÇAHSPAR INDEX"
         href: cahspar-index.qmd
-      - text: "Basın Odası"
+      - text: "Newsroom"
         menu:
-          - text: "Çalışma Hayatı ve Sosyal Politika Bültenleri"
+          - text: "Working Life and Social Policy Bulletins"
             href: cahspar-bultenleri.qmd
-          - text: "Podcastler"
+          - text: "Podcasts"
             href: podcastler.qmd
-          - text: "Duyurular"
+          - text: "Announcements"
             href: duyurular.qmd
-      - text: "Bize Katılın"
+      - text: "Join Us"
         menu:
-          - text: "Gönüllü Olun"
+          - text: "Volunteer"
             href: gonullu-olun.qmd
-          - text: "Üye Olun"
+          - text: "Become a Member"
             href: uye-olun.qmd
-      - text: "Bize Ulaşın"
+      - text: "Contact Us"
         menu:
-          - text: "İletişim"
+          - text: "Contact"
             href: iletisim.qmd
     right:
-      - text: "EN"
-        href: "https://translate.google.com/translate?sl=tr&tl=en&u=https://cahspar.org.tr/"
+      - text: "TR"
+        href: "https://translate.google.com/translate?sl=en&tl=tr&u=https://cahspar.org.tr/"
       - text: "FR"
-        href: "https://translate.google.com/translate?sl=tr&tl=fr&u=https://cahspar.org.tr/"
+        href: "https://translate.google.com/translate?sl=en&tl=fr&u=https://cahspar.org.tr/"
       - text: "ES"
-        href: "https://translate.google.com/translate?sl=tr&tl=es&u=https://cahspar.org.tr/"
+        href: "https://translate.google.com/translate?sl=en&tl=es&u=https://cahspar.org.tr/"
   page-footer:
     center: "© 2026 ÇAHSPAR"
 
@@ -97,6 +95,6 @@ format:
     css: styles.css
     include-in-header: cache-bust.html
     include-after-body: language-switcher.html
-    lang: tr
+    lang: en-GB
     toc: false
     link-external-newwindow: true

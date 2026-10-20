@@ -1,14 +1,14 @@
 ---
-title: "Mali Raporlar"
+title: "Financial Reports"
 ---
 
-ÇAHSPAR'ın mali yapısı ve kaynak kullanımı, şeffaflık, hesap verebilirlik ve kurumsal sorumluluk ilkeleri çerçevesinde izlenir. Mali raporlar, derneğin kaynak yönetimi ve faaliyetlerine dair doğru, güvenilir ve erişilebilir bilgi sunar.
+ÇAHSPAR’s finances and use of resources are monitored in accordance with the principles of transparency, accountability and institutional responsibility. Financial reports provide accurate, reliable and accessible information about the association’s resource management and activities.
 
-## Temel bakış
+## Key Areas
 
-- Bütçe planlaması ve kaynak dağılımı
-- Proje ve faaliyet finansman yapısı
-- Harcama ve denetim yaklaşımı
-- Sürdürülebilir ve sorumlu mali yönetim
+- Budget planning and resource allocation
+- Funding arrangements for projects and activities
+- Expenditure and auditing
+- Sustainable and responsible financial management
 
-Bu raporlar, derneğin kurumsal güveni ve toplumla ilişkisini güçlendiren önemli araçlardan biridir.
+These reports help strengthen trust in the association and its relationship with society.

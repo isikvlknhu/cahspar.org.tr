@@ -1,52 +1,46 @@
 ---
-title: "Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu"
+title: "Women’s Studies and Gender Research Group"
 ---
 
-![](assets/kadin-calismalari-ve-toplumsal-cinsiyet.png){fig-alt="Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu" fig-align="center" width="100%"}
+### About
 
-### Hakkında
+The Women’s Studies and Gender Research Group examines women’s position in social, economic and political life and the different dimensions of gender inequality from an interdisciplinary perspective. Its main aim is to produce scientific knowledge about the structural, economic, cultural and institutional dynamics shaping women’s lives and opportunities, and to contribute to greater gender equality.
 
-Kadın Çalışmaları ve Toplumsal Cinsiyet Araştırma Grubu; kadınların toplumsal, ekonomik ve siyasal yaşam içindeki konumunu ve toplumsal cinsiyet eşitsizliklerinin farklı boyutlarını disiplinlerarası bir perspektifle araştırır. Grubun temel amacı, kadınların yaşamlarını ve fırsatlarını şekillendiren yapısal, ekonomik, kültürel ve kurumsal dinamiklere ilişkin bilimsel bilgi üretmek ve toplumsal cinsiyet eşitliğinin güçlendirilmesine katkı sağlamaktır.
+Research addresses women’s experiences across education, employment, entrepreneurship, decision-making, care responsibilities and social and economic empowerment. The effects of gender on working life, families, social policy and economic life are central research interests.
 
-Araştırmalar; kadınların eğitimden istihdama, girişimcilikten karar alma mekanizmalarına, bakım sorumluluklarından sosyal ve ekonomik güçlenmeye kadar yaşamın farklı alanlarındaki deneyimlerini ele alır. Toplumsal cinsiyetin çalışma hayatı, aile, sosyal politika ve ekonomik yaşam üzerindeki etkileri grubun temel araştırma konuları arasındadır.
+### Priority Research Areas
 
-### Öncelikli Araştırma Alanları
+- Gender equality and inequalities
+- Women’s labour market participation and employment
+- Women’s entrepreneurship and social entrepreneurship
+- Women’s poverty and economic empowerment
+- Pay inequality and career opportunities
+- The glass ceiling and women’s leadership
+- Work–life balance and the care economy
+- Unpaid care work and the household division of labour
+- Family, working life and gender
+- Women’s education and skills development
+- Young women’s employment and social participation
+- Women’s participation in decision-making
+- Women’s cooperatives and collective economic activities
+- Technology, digitalisation and women’s working lives
+- Gender and social policy
+- Women’s social, economic and political empowerment
 
-- Toplumsal cinsiyet eşitliği ve eşitsizlikleri
-- Kadınların işgücü piyasasına katılımı ve istihdamı
-- Kadın girişimciliği ve sosyal girişimcilik
-- Kadın yoksulluğu ve ekonomik güçlenme
-- Ücret eşitsizliği ve kariyer fırsatları
-- Cam tavan ve kadınların liderliği
-- İş-yaşam dengesi ve bakım ekonomisi
-- Ücretsiz bakım emeği ve hane içi iş bölümü
-- Aile, çalışma hayatı ve toplumsal cinsiyet
-- Kadınların eğitim ve beceri gelişimi
-- Genç kadınların istihdamı ve sosyal katılımı
-- Kadınların karar alma mekanizmalarına katılımı
-- Kadın kooperatifleri ve kolektif ekonomik faaliyetler
-- Teknoloji, dijitalleşme ve kadınların çalışma hayatı
-- Toplumsal cinsiyet ve sosyal politika
-- Kadınların sosyal, ekonomik ve siyasal güçlenmesi
+### Research Approach
 
-### Araştırma Yaklaşımı
+The group examines women’s experiences in relation to **economic structures, labour markets, social policies, family relationships, cultural norms and institutional mechanisms**, recognising that these experiences extend beyond individual choices.
 
-Grup, kadınların deneyimlerini bireysel tercihlerle sınırlı olmayan; **ekonomik yapılar, işgücü piyasaları, sosyal politikalar, aile ilişkileri, kültürel normlar ve kurumsal mekanizmalar** ile birlikte ele alır.
+Using quantitative and qualitative methods, it measures gender inequalities, analyses their causes and consequences and compares the experiences of different social groups.
 
-Nicel ve nitel araştırma yöntemlerinden yararlanarak toplumsal cinsiyet eşitsizliklerini ölçer, nedenlerini ve sonuçlarını analiz eder ve farklı toplumsal grupların deneyimlerini karşılaştırmalı bir perspektifle inceler.
+It places particular emphasis on translating scientific knowledge about **women’s employment, entrepreneurship, the care economy and economic empowerment** into social policy and practice.
 
-Özellikle **kadın istihdamı, girişimcilik, bakım ekonomisi ve ekonomik güçlenme** alanlarında üretilen bilimsel bilginin sosyal politika ve uygulamaya aktarılmasına önem verir.
+### Our Work
 
-### Çalışmalarımız
+The research group supports the production and sharing of knowledge through **research projects • field studies • gender analyses • academic publications • policy analyses • workshops • conferences • training • research networks**.
 
-Araştırma Grubu;
+By developing partnerships with academia, public bodies, the private sector and civil society organisations, it aims to turn research findings into policies and practices that support gender equality.
 
-**araştırma projeleri • saha araştırmaları • toplumsal cinsiyet analizleri • bilimsel yayınlar • politika analizleri • çalıştaylar • konferanslar • eğitimler • araştırmacı ağları**
+### Core Objective
 
-aracılığıyla kadın çalışmaları ve toplumsal cinsiyet alanında bilgi üretimini ve paylaşımını destekler.
-
-Akademi, kamu, özel sektör ve sivil toplum kuruluşlarıyla iş birlikleri geliştirerek araştırma sonuçlarının toplumsal cinsiyet eşitliğini destekleyen politika ve uygulamalara dönüştürülmesini hedefler.
-
-### Temel Hedef
-
-**Bilimsel araştırma yoluyla toplumsal cinsiyet eşitsizliklerinin anlaşılmasına, kadınların sosyal ve ekonomik güçlenmesine ve daha eşitlikçi, kapsayıcı ve adil bir toplumun geliştirilmesine katkı sağlamak.**
+**To contribute through scientific research to understanding gender inequalities, supporting women’s social and economic empowerment and developing a more equal, inclusive and fair society.**
