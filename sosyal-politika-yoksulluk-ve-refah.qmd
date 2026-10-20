@@ -2,7 +2,7 @@
 title: "Social Policy, Poverty and Welfare Research Group"
 ---
 
-![](assets/sosyal-politika-yoksulluk-ve-refah.png){fig-alt="Social Policy, Poverty and Welfare Research Group" fig-align="center" width="100%"}
+![](assets/sosyal-politika-yoksulluk-ve-refah-en.png){fig-alt="Social Policy, Poverty and Welfare Research Group" fig-align="center" width="100%"}
 
 ### About
 

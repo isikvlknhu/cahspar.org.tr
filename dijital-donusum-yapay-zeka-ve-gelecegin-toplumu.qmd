@@ -2,7 +2,7 @@
 title: "Digital Transformation, Artificial Intelligence and the Society of the Future Research Group"
 ---
 
-![](assets/dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.png){fig-alt="Digital Transformation, Artificial Intelligence and the Society of the Future Research Group" fig-align="center" width="100%"}
+![](assets/dijital-donusum-yapay-zeka-ve-gelecegin-toplumu-en.png){fig-alt="Digital Transformation, Artificial Intelligence and the Society of the Future Research Group" fig-align="center" width="100%"}
 
 ### About
 

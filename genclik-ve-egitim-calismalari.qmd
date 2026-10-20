@@ -2,7 +2,7 @@
 title: "Youth and Education Studies Research Group"
 ---
 
-![](assets/genclik-ve-egitim-calismalari.png){fig-alt="Youth and Education Studies Research Group" fig-align="center" width="100%"}
+![](assets/genclik-ve-egitim-calismalari-en.png){fig-alt="Youth and Education Studies Research Group" fig-align="center" width="100%"}
 
 ### About
 

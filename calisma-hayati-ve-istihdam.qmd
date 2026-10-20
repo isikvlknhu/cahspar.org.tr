@@ -2,7 +2,7 @@
 title: "Working Life and Employment Research Group"
 ---
 
-![](assets/calisma-hayati-ve-istihdam.png){fig-alt="Working Life and Employment Research Group" fig-align="center" width="100%"}
+![](assets/calisma-hayati-ve-istihdam-en.png){fig-alt="Working Life and Employment Research Group" fig-align="center" width="100%"}
 
 ### About
 

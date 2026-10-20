@@ -8,7 +8,7 @@ The source language is British English (`en-GB`). Write new page content, naviga
 
 TR, FR and ES use Google Translate with English as the source language and preserve the current page URL. These are automatic translations rather than separately maintained language editions.
 
-Research group pages retain their original banner graphics, with English alternative text and English page headings. Text embedded in these original graphics remains Turkish. The logo explanation is now accessible English text. The official ÇAHSPAR logo is retained as a brand asset.
+Research group pages use British English banner graphics (`assets/*-en.png`), including headings, taglines and the detailed labels in the youth and education banner. The original Turkish images are retained as source assets. The logo explanation is now accessible English text. The official ÇAHSPAR logo is retained as a brand asset.
 
 The membership page links to `assets/membership-application-form.pdf`, an English translation of the original blank application form. The original Turkish form is also available as a separate download on the membership page. Embedded podcast audio, third-party forms and linked external publications retain their original languages.
 
