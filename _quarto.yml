@@ -101,8 +101,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
-    include-in-header: cache-bust.html
+    css: styles-editorial.css
     include-after-body: language-switcher.html
     lang: en-GB
     toc: false
