@@ -14,6 +14,7 @@ website:
   site-url: "https://cahspar.org.tr"
   description: "Research, training and projects in working life and social policy."
   navbar:
+    title: "ÇAHSPAR"
     background: "#0f3c78"
     foreground: "#ffffff"
     left:
@@ -89,7 +90,13 @@ website:
       - text: "ES"
         href: "https://translate.google.com/translate?sl=en&tl=es&u=https://cahspar.org.tr/"
   page-footer:
+    left: "Working Life and Social Policy Research Association"
     center: "© 2026 ÇAHSPAR"
+    right:
+      - text: "Contact"
+        href: iletisim.qmd
+      - text: "Become a Member"
+        href: uye-olun.qmd
 
 format:
   html:

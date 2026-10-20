@@ -1,5 +1,6 @@
 ---
 title: "Youth and Education Studies Research Group"
+body-classes: research-page
 ---
 
 ![](assets/genclik-ve-egitim-calismalari-en.png){fig-alt="Youth and Education Studies Research Group" fig-align="center" width="560" .research-group-banner}

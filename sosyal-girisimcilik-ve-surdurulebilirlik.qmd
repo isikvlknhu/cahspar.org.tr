@@ -1,5 +1,6 @@
 ---
 title: "Social Entrepreneurship and Sustainability Studies Research Group"
+body-classes: research-page
 ---
 
 ![](assets/sosyal-girisimcilik-ve-surdurulebilirlik-en.png){fig-alt="Social Entrepreneurship and Sustainability Studies Research Group" fig-align="center" width="560" .research-group-banner}

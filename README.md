@@ -28,3 +28,7 @@ The rendered website is written to `_site/`. The RSS collector uses English disc
 `.github/workflows/quarto-pages.yml` regenerates the publication feed, renders all pages and deploys `_site/` to GitHub Pages when changes reach `main`.
 
 Existing Turkish URL slugs are deliberately preserved to maintain incoming links.
+
+## Design
+
+The shared design uses a full-width institutional masthead, consistent page gutters, clear heading hierarchy and responsive content cards. The homepage brings together the original introduction, activity list and announcements, with direct access to the existing research group pages. Research banners remain centred and capped at 560 px, and Our Structure retains its centred member list. Page text and original links are preserved.

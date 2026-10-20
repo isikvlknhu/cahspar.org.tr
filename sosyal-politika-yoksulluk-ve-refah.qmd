@@ -1,5 +1,6 @@
 ---
 title: "Social Policy, Poverty and Welfare Research Group"
+body-classes: research-page
 ---
 
 ![](assets/sosyal-politika-yoksulluk-ve-refah-en.png){fig-alt="Social Policy, Poverty and Welfare Research Group" fig-align="center" width="560" .research-group-banner}

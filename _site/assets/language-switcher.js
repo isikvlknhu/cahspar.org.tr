@@ -67,14 +67,11 @@
       }
 
       if (clickedItem && window.innerWidth < 992) {
+        // Bootstrap manages dropdown toggles; do not turn them into page links.
+        if (clickedItem.classList.contains("dropdown-toggle")) return;
         var href = clickedItem.getAttribute("href");
-        var targetUrl = href ? new URL(href, window.location.href).href : "";
-        var isCurrentPage = targetUrl && targetUrl === window.location.href;
-
-        setMenuState(!isCurrentPage);
-        if (href && href !== "#" && !isCurrentPage) {
-          window.location.href = href;
-        }
+        if (!href || href === "#") return;
+        setMenuState(false);
       }
     }, true);
   }
