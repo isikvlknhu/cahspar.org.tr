@@ -7,6 +7,8 @@ project:
     - "*.qmd"
     - "!* [0-9].qmd"
 
+page-layout: full
+
 website:
   title: ""
   site-url: "https://cahspar.org.tr"
