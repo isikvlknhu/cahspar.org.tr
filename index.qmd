@@ -11,7 +11,7 @@ body-classes: home-page
 <div class="home-title" role="heading" aria-level="1"><span class="brand-kicker">ÇAHSPAR –</span>Working Life and Social Policy Research Association</div>
 
 ::: {.home-intro}
-The Working Life and Social Policy Research Association (ÇAHSPAR) was established to improve the quality of working and social life through innovative, sustainable, not-for-profit research, training, projects and consultancy in working life and social policy. The association brings together scientific knowledge, vocational education and partnerships between public bodies, universities and civil society to contribute to a fairer and more sustainable world of work.
+The Working Life and Social Policy Research Association (ÇAHSPAR) is an independent academic association founded in Türkiye with an international mission. We connect researchers across countries and disciplines to develop comparative research, international partnerships and projects in working life and social policy. Our ambition is to advance decent work, inclusive social protection and social justice worldwide, while strengthening the international visibility of research from Türkiye.
 :::
 
 ::: {.hero-actions}
@@ -42,11 +42,12 @@ The Working Life and Social Policy Research Association (ÇAHSPAR) was establish
 
 ## Our Activities
 
-- Publishing research reports, policy briefs and bulletins
-- Developing academic research and periodicals
-- Organising training, seminars, conferences and workshops
-- Delivering national and international projects
-- Developing solutions for equality, inclusion and sustainability in working life
+- Developing comparative research across countries and regions
+- Building partnerships with international associations and research institutions
+- Following and critically discussing international research and policy publications
+- Developing joint projects, academic publications and policy briefs
+- Organising international conferences, workshops and researcher exchanges
+- Connecting Türkiye’s scholarship with global debates on working life and social policy
 
 :::
 
