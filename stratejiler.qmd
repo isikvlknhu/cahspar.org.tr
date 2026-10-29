@@ -2,14 +2,28 @@
 title: "Strategies"
 ---
 
-ÇAHSPAR’s strategic approach focuses on developing lasting, effective and inclusive solutions in working life and social policy. The association plans its activities in line with scientific evidence, stakeholder views and society’s needs.
+ÇAHSPAR’s strategy is to build an international research community that produces rigorous comparative evidence on working life and social policy and connects that evidence with public debate and practice.
 
-## Strategic Objectives
+## A Global Agenda with Regional Depth
 
-- Strengthen research output
-- Expand training and capacity building
-- Develop practical policy recommendations
-- Increase collaboration
-- Raise public awareness
+Our long-term research horizon encompasses the 193 UN Member States. We use the ILO’s five broad geographical regions—Africa, Americas, Arab States, Asia and the Pacific, and Europe and Central Asia—as a reference for organising comparative inquiry. Each project will define a feasible geographical scope and explain its data coverage.
 
-These strategies increase the association’s contribution to social welfare and justice.
+## Strategic Priorities
+
+- **Develop comparative research:** Examine employment quality, labour institutions, social protection and inequalities across different economic and welfare systems, combining regional expertise with transparent methods.
+- **Build international partnerships:** Seek joint research and project consortia with universities, international associations, research institutes and organisations working on labour and social policy.
+- **Monitor international knowledge:** Follow international organisations’ publications, official statistics and academic debates; produce critical syntheses that identify emerging questions and evidence gaps.
+- **Create shared research outputs:** Develop comparative reports, scholarly articles, policy briefs, workshops and international conferences around clearly defined research questions.
+- **Support researchers across borders:** Encourage mentoring, methodological exchange and fair participation by early-career researchers and scholars from different regions.
+- **Strengthen Türkiye’s international contribution:** Connect researchers in Türkiye with global networks and increase the visibility of their work through joint publications, comparative projects and international academic dialogue.
+- **Translate evidence into public value:** Engage workers’ and employers’ organisations, public bodies and civil society in discussing findings and their relevance to policy and practice.
+
+## Principles for Delivery
+
+Scientific independence, research ethics, transparent analysis and equitable recognition of contributions guide our work. Comparative findings must take account of institutional context, differences in measurement and the limits of available evidence.
+
+## Assessing Progress
+
+We aim to report on the regional diversity and substance of partnerships, joint proposals and publications, participation by early-career researchers, accessibility of outputs and documented use of findings. Activity counts will be considered alongside research quality, continuity of collaboration and social relevance.
+
+[Explore our international mission and geographical references →](about.qmd)
