@@ -2,4 +2,14 @@
 title: "Research Groups"
 ---
 
-Information about ÇAHSPAR’s research groups will be published on this page.
+ÇAHSPAR’s research groups connect disciplines and regional expertise around shared questions in working life and social policy. They provide a basis for comparative studies, international project development, scholarly exchange and collaboration across career stages.
+
+- [Social Policy, Poverty and Welfare](sosyal-politika-yoksulluk-ve-refah.qmd)
+- [Working Life and Employment](calisma-hayati-ve-istihdam.qmd)
+- [Women’s Studies and Gender](kadin-calismalari-ve-toplumsal-cinsiyet.qmd)
+- [Social Entrepreneurship and Sustainability Studies](sosyal-girisimcilik-ve-surdurulebilirlik.qmd)
+- [Digital Transformation, Artificial Intelligence and the Society of the Future](dijital-donusum-yapay-zeka-ve-gelecegin-toplumu.qmd)
+- [Migration, Integration and Social Cohesion](goc-uyum-ve-sosyal-butunlesme.qmd)
+- [Youth and Education Studies](genclik-ve-egitim-calismalari.qmd)
+
+The groups share an international research horizon and use the [association’s geographical framework](about.qmd#a-global-research-horizon) as a reference. Each study will define its country coverage, methods and sources of evidence.
