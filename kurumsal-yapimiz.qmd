@@ -3,6 +3,8 @@ title: "Our Structure"
 body-classes: structure-page
 ---
 
+ÇAHSPAR’s founding board brings together academic expertise in working life and social policy to guide an international research mission. The association aims to connect this expertise with researchers and institutions across regions through its thematic research groups and collaborative projects.
+
 ## Founding Board Members
 
 <div class="board-member"><img class="member-photo" src="assets/volkan-isik.jpeg" width="72" height="72" alt="Professor Dr Volkan IŞIK" /><span class="board-member-name"><a class="board-member-link" href="https://avesis.hacettepe.edu.tr/volkani" target="_blank" rel="noopener noreferrer">Professor Dr Volkan IŞIK (Chair of the Board)</a></span></div>
