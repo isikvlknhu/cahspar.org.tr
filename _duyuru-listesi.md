@@ -1,5 +1,6 @@
 ::: {.announcement-list}
-- [New!]{.new-badge} [ÇAHSPAR İlk Genel Kurul Toplantısı — 14 Kasım 2026 Cumartesi, saat 14.00, Hacettepe Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Toplantı Odası.](cahspar-ilk-genel-kurul-toplantisi.qmd){lang=tr}
+- [New!]{.new-badge} 29 October 2026  
+  [ÇAHSPAR İlk Genel Kurul Toplantısı — 14 Kasım 2026 Cumartesi, saat 14.00, Hacettepe Üniversitesi Sosyal Bilimler Meslek Yüksekokulu Toplantı Odası.](cahspar-ilk-genel-kurul-toplantisi.qmd){lang=tr}
 
 - [New!]{.new-badge} 18 October 2026  
   Preparations have begun for the international conference “Sustainable Societies and Social Policy: Pathways for Just and Inclusive Futures”, to be held in Ankara on 29–30 May 2027 as part of the ESD Conference (International Scientific Conference Economic and Social Development) series and the association’s international partnerships. The conference proceedings are to be indexed in Web of Science (WoS). Further details will be shared shortly.
