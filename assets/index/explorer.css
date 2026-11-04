@@ -20,3 +20,23 @@ main.content .ci-sse-details{margin:1.5rem 0;padding:0 1rem;border:1px solid var
 main.content .ci-sse-details li,main.content .ci-sse-details p{font-size:.85rem}
 main.content .ci-sse-downloads{display:flex;flex-wrap:wrap;gap:1rem 2rem;font-size:.8rem}
 @media(max-width:650px){main.content .ci-sse-grid{grid-template-columns:1fr}main.content .ci-sse-badge{white-space:normal}main.content .ci-sse-card{padding:1.2rem}}
+/* Reviewed annual observations have their own surface and never enter the demo. */
+main.content .ci-wl{border-top:3px solid var(--teal)}
+main.content .ci-wl-badge{background:#e0eee5;color:#244e3b;padding:.6rem .8rem;font-size:.75rem}
+main.content .ci-wl-source{font-size:.8rem;color:var(--muted)}
+main.content .ci-wl-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.5rem 0}
+main.content .ci-wl-card{padding:1.4rem;border:1px solid var(--line);background:#f6f8f6}
+main.content .ci-wl-card h3{font-size:1.1rem;line-height:1.4;min-height:3em;margin:1rem 0}
+main.content .ci-wl-value{font-size:3.4rem;line-height:1.1;font-weight:600;letter-spacing:-.04em;margin:0!important;font-variant-numeric:tabular-nums}
+main.content .ci-wl-value span{font-size:1.3rem;margin-left:.3rem}
+main.content .ci-wl-change{font-size:.8rem;margin:.6rem 0!important}
+main.content .ci-wl-age{font-size:.75rem;color:var(--muted)}
+main.content .ci-wl-card details{font-size:.8rem;overflow-wrap:anywhere}
+main.content .ci-wl summary{cursor:pointer;font-size:.8rem;padding:.5rem 0;text-underline-offset:.2em;text-decoration:underline}
+main.content .ci-wl-reading{border-left:3px solid var(--teal);padding:1rem 1.2rem;background:#eef4f0;font-size:.9rem}
+main.content .ci-demo{border:1px dashed #b8b7b0;margin:1.5rem 0 3rem;padding:1.3rem;scroll-margin-top:180px}
+main.content .ci-demo>summary{cursor:pointer;font-weight:600;font-size:.9rem}
+main.content .ci-demo[open]>summary{margin-bottom:2rem}
+main.content .ci :is(summary):focus-visible{outline:3px solid #b17b30;outline-offset:3px}
+@media(max-width:1000px){main.content .ci-wl-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){main.content .ci-wl-grid{grid-template-columns:1fr}main.content .ci-wl-card h3{min-height:0}main.content .ci-wl-value{font-size:3rem}main.content .ci-demo{padding:1rem}}

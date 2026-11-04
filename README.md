@@ -18,6 +18,7 @@ Install Quarto and Python 3.11 or later, then run:
 
 ```sh
 python3 scripts/build_rss_feed.py
+python3 scripts/build_working_life_pilot.py --check
 quarto render
 ```
 
@@ -32,3 +33,7 @@ Existing Turkish URL slugs are deliberately preserved to maintain incoming links
 ## Design
 
 The shared design uses a full-width institutional masthead, consistent page gutters, clear heading hierarchy and responsive content cards. The homepage brings together the original introduction, activity list and announcements, with direct access to the existing research group pages. Research banners remain centred and capped at 560 px, and Our Structure retains its centred member list. Page text and original links are preserved.
+
+## Working Life pilot
+
+The first official-data pilot uses the reviewed 2025 TÜİK annual release snapshot in `data/working-life/turkiye-2025.json`. After a reviewed data change, run `python3 scripts/build_working_life_pilot.py` to regenerate the static panel and exports. CI checks that generated outputs match the canonical snapshot. Run `python3 -m unittest discover -s tests -p "test_*.py"` for pilot validation. No score is assigned. The synthetic international demo is collapsed by default and contains no real observations.

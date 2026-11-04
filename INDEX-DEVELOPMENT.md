@@ -58,3 +58,9 @@ The user agreed to a social economy and solidarity thematic area under Sustainab
 No social economy observations have been collected or validated. All four candidates are excluded from composite scores; the synthetic dataset and calculation code are unchanged. SSE-03 has a single potential scoring home in Equality and inclusion; SSE-04 remains thematic. The generic dictionary replaces the potentially overlapping excessive-hours Sustainability candidate with the social economy pilot candidates. The paid-employment share is descriptive until substantive scoring is agreed.
 
 The source review distinguishes verified publication availability from verified observations, records a page-date/observation-date mismatch, and flags undecoded VGM PDFs. It promises neither restricted-register access nor a ready-to-use harmonised international series. Next work is source-table validation and entity-perimeter specification before observation collection.
+
+## First official-data Working Life pilot — 4 November 2026
+
+Working Life is now the first Türkiye pilot with actual official observations: five 2025 annual rates from TÜİK release 57996, published 25 March 2026, verified in the official live portal and metadata tab. The canonical versioned snapshot records source heading, reference/publication/access dates, statistical scope and published year-on-year percentage-point changes. No 2024 observations have been reconstructed.
+
+The static real-data panel and its CSV/JSON are generated from one reviewed input with a drift check in the deployment workflow. The international synthetic explorer is closed by default; its fixture and calculation code are unchanged. The social economy panel remains research-only. No composite or rank is assigned because weighting, denominator harmonisation, overlap and job-quality coverage remain unresolved. The Turkish research note is `docs/working-life-pilot-tr.md`.
