@@ -5,3 +5,18 @@ main.content .ci{--ink:#123b59;--teal:#316b61;--line:#dce3e5;--muted:#63717d;col
 @media print{main.content .ci-hero,main.content .ci-section-nav,main.content .ci-toolbar,main.content .ci-button,main.content .ci-primary{display:none!important}main.content .ci-table-scroll{overflow:visible}#ci-table{min-width:0;font-size:8pt}main.content .ci-profile-grid{display:block}main.content .ci-notice{display:block}main.content .ci>section{padding:1rem 0}}
 
 #ci-table th:first-child{min-width:76px}#ci-table th:nth-child(2){min-width:52px}
+/* Türkiye pilot is a research panel, separate from synthetic score calculations. */
+main.content .ci-sse{border-top:3px solid var(--teal)}
+main.content .ci-sse-badge{display:inline-block;background:#e4ede8;color:#244d43;padding:.5rem .8rem;font-size:.75rem;white-space:nowrap}
+main.content .ci-sse-callout{padding:1rem 1.3rem;border-left:3px solid var(--teal);background:#f0f4f2;font-size:.85rem;margin:1.5rem 0}
+main.content .ci-sse-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+main.content .ci-sse-card{padding:1.5rem;border:1px solid var(--line)}
+main.content .ci-sse-card h3{font-family:Georgia,serif;font-size:1.4rem;line-height:1.35;margin:.7rem 0}
+main.content .ci-sse-card p,main.content .ci-sse-card details{font-size:.85rem}
+main.content .ci-sse-state{color:#675120;background:#faf5e9;padding:.5rem .7rem;font-size:.75rem!important}
+main.content .ci-sse summary{cursor:pointer;font-size:.85rem;text-decoration:underline;text-underline-offset:.2em;padding:.6rem 0}
+main.content .ci-sse summary:focus-visible{outline:3px solid #b17b30;outline-offset:3px}
+main.content .ci-sse-details{margin:1.5rem 0;padding:0 1rem;border:1px solid var(--line)}
+main.content .ci-sse-details li,main.content .ci-sse-details p{font-size:.85rem}
+main.content .ci-sse-downloads{display:flex;flex-wrap:wrap;gap:1rem 2rem;font-size:.8rem}
+@media(max-width:650px){main.content .ci-sse-grid{grid-template-columns:1fr}main.content .ci-sse-badge{white-space:normal}main.content .ci-sse-card{padding:1.2rem}}
