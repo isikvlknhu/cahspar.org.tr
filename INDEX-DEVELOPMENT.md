@@ -64,3 +64,7 @@ The source review distinguishes verified publication availability from verified 
 Working Life is now the first Türkiye pilot with actual official observations: five 2025 annual rates from TÜİK release 57996, published 25 March 2026, verified in the official live portal and metadata tab. The canonical versioned snapshot records source heading, reference/publication/access dates, statistical scope and published year-on-year percentage-point changes. No 2024 observations have been reconstructed.
 
 The static real-data panel and its CSV/JSON are generated from one reviewed input with a drift check in the deployment workflow. The international synthetic explorer is closed by default; its fixture and calculation code are unchanged. The social economy panel remains research-only. No composite or rank is assigned because weighting, denominator harmonisation, overlap and job-quality coverage remain unresolved. The Turkish research note is `docs/working-life-pilot-tr.md`.
+
+## Member consultation publication
+
+The user authorised live publication of the current pilot for association members to review. A clearly labelled member-consultation section now links to the existing institutional contact address, info@cahspar.org.tr, with an optional email template. The site stores no comments and sends no email automatically. Publication follows the existing main-branch GitHub Pages workflow.

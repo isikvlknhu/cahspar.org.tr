@@ -40,3 +40,8 @@ main.content .ci-demo[open]>summary{margin-bottom:2rem}
 main.content .ci :is(summary):focus-visible{outline:3px solid #b17b30;outline-offset:3px}
 @media(max-width:1000px){main.content .ci-wl-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){main.content .ci-wl-grid{grid-template-columns:1fr}main.content .ci-wl-card h3{min-height:0}main.content .ci-wl-value{font-size:3rem}main.content .ci-demo{padding:1rem}}
+
+main.content .ci-member-review{display:grid;grid-template-columns:1.8fr 1fr;gap:3rem;background:#eef4f0;margin:1.5rem 0;padding:2rem!important;border-left:4px solid var(--teal)}
+main.content .ci-member-review h2{font-size:2rem}main.content .ci-member-review p{font-size:.85rem}
+main.content .ci-review-action{align-self:center}main.content .ci-review-action p{margin-top:1rem;font-size:.75rem;overflow-wrap:anywhere}
+@media(max-width:800px){main.content .ci-member-review{grid-template-columns:1fr;gap:.5rem;padding:1.3rem!important}}

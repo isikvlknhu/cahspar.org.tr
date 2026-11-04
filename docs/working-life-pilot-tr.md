@@ -29,6 +29,6 @@ Genç işsizliği 15–24, diğer göstergeler 15+ yaş kapsamındadır. Göster
 
 `data/working-life/turkiye-2025.json` ana kayıttır. Kaynak başlığı, bülten kimliği, gözlem yılı, yayım/erişim tarihleri, yaş grubu, ölçü birimi ve tanımlar tutulur. WL kimlikleri ÇAHSPAR'ın iç kimlikleridir; resmî TÜİK seri kodu değildir. Seri kodu doğrulanmadığından boş bırakıldı. CSV, JSON ve sayfa paneli aynı kayıttan üretilir.
 
-Uluslararası temsili demo kapalı başlar ve gerçek gözlemleri içermez. Sosyal ekonomi çalışması ayrı bir araştırma tasarımı olarak korunur. Çalışma henüz canlı siteye aktarılmış değildir.
+Uluslararası temsili demo kapalı başlar ve gerçek gözlemleri içermez. Sosyal ekonomi çalışması ayrı bir araştırma tasarımı olarak korunur. Bu sürüm, dernek üyelerinin inceleme ve görüşlerine açılan pilot yayınıdır. Görüşler Index sayfasındaki e-posta bağlantısıyla info@cahspar.org.tr adresine iletilebilir.
 
 Sonraki aşama: özgün yıllık tablolar ve seri kodları; geçmiş dönem/revizyon uyumu; çalışma süresi, kayıt dışılık, ücret ve güvenlik göstergelerinin veri denetimi; ardından puanlama yönteminin kararlaştırılması.
