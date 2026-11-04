@@ -1,0 +1,443 @@
+{
+  "status": "synthetic-demo",
+  "notice": "All values are invented interface fixtures. They are not official statistics, estimates or ÇAHSPAR findings.",
+  "years": [
+    2022,
+    2023,
+    2024
+  ],
+  "dimensions": [
+    {
+      "id": "working",
+      "name": "Working life",
+      "description": "Employment, job quality, wages and working conditions."
+    },
+    {
+      "id": "social",
+      "name": "Social policy",
+      "description": "Social protection, social security and access to services."
+    },
+    {
+      "id": "equality",
+      "name": "Equality and inclusion",
+      "description": "Participation and opportunity across population groups."
+    },
+    {
+      "id": "welfare",
+      "name": "Welfare",
+      "description": "Income, poverty and living conditions."
+    },
+    {
+      "id": "sustainability",
+      "name": "Sustainability",
+      "description": "Sustainable working lives and social resilience."
+    },
+    {
+      "id": "future",
+      "name": "The future of work",
+      "description": "Digital skills, technological change and new forms of work."
+    }
+  ],
+  "countries": [
+    {
+      "code": "TUR",
+      "name": "Türkiye",
+      "region": "Europe and Central Asia",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 55.8,
+            "social": 52.0,
+            "equality": 45.2,
+            "welfare": 48.4,
+            "sustainability": 53.8,
+            "future": 49.0
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 56.4,
+            "social": 53.0,
+            "equality": 46.6,
+            "welfare": 50.2,
+            "sustainability": 54.4,
+            "future": 50.0
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 57.0,
+            "social": 54.0,
+            "equality": 48.0,
+            "welfare": 52.0,
+            "sustainability": 55.0,
+            "future": 51.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "DEU",
+      "name": "Germany",
+      "region": "Europe and Central Asia",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 77.0,
+            "social": 81.2,
+            "equality": 72.4,
+            "welfare": 80.8,
+            "sustainability": 73.0,
+            "future": 76.2
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 78.0,
+            "social": 82.6,
+            "equality": 74.2,
+            "welfare": 81.4,
+            "sustainability": 74.0,
+            "future": 77.6
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 79.0,
+            "social": 84.0,
+            "equality": 76.0,
+            "welfare": 82.0,
+            "sustainability": 75.0,
+            "future": 79.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "SWE",
+      "name": "Sweden",
+      "region": "Europe and Central Asia",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 80.2,
+            "social": 82.4,
+            "equality": 86.8,
+            "welfare": 83.0,
+            "sustainability": 83.2,
+            "future": 83.4
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 81.6,
+            "social": 84.2,
+            "equality": 87.4,
+            "welfare": 84.0,
+            "sustainability": 84.6,
+            "future": 85.2
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 83.0,
+            "social": 86.0,
+            "equality": 88.0,
+            "welfare": 85.0,
+            "sustainability": 86.0,
+            "future": 87.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "ESP",
+      "name": "Spain",
+      "region": "Europe and Central Asia",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 65.4,
+            "social": 74.8,
+            "equality": 71.0,
+            "welfare": 71.2,
+            "sustainability": 68.4,
+            "future": 66.8
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 67.2,
+            "social": 75.4,
+            "equality": 72.0,
+            "welfare": 72.6,
+            "sustainability": 70.2,
+            "future": 67.4
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 69.0,
+            "social": 76.0,
+            "equality": 73.0,
+            "welfare": 74.0,
+            "sustainability": 72.0,
+            "future": 68.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "POL",
+      "name": "Poland",
+      "region": "Europe and Central Asia",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 68.8,
+            "social": 67.0,
+            "equality": 64.2,
+            "welfare": 67.4,
+            "sustainability": 63.8,
+            "future": 62.0
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 69.4,
+            "social": 68.0,
+            "equality": 65.6,
+            "welfare": 69.2,
+            "sustainability": 64.4,
+            "future": 63.0
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 70.0,
+            "social": 69.0,
+            "equality": 67.0,
+            "welfare": 71.0,
+            "sustainability": 65.0,
+            "future": 64.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "CAN",
+      "name": "Canada",
+      "region": "Americas",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 78.0,
+            "social": 78.2,
+            "equality": 78.4,
+            "welfare": 81.8,
+            "sustainability": 76.0,
+            "future": 81.2
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 79.0,
+            "social": 79.6,
+            "equality": 80.2,
+            "welfare": 82.4,
+            "sustainability": 77.0,
+            "future": 82.6
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 80.0,
+            "social": 81.0,
+            "equality": 82.0,
+            "welfare": 83.0,
+            "sustainability": 78.0,
+            "future": 84.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "region": "Americas",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 49.2,
+            "social": 51.4,
+            "equality": 47.8,
+            "welfare": 49.0,
+            "sustainability": 54.2,
+            "future": 44.4
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 50.6,
+            "social": 53.2,
+            "equality": 48.4,
+            "welfare": 50.0,
+            "sustainability": 55.6,
+            "future": 46.2
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 52.0,
+            "social": 55.0,
+            "equality": 49.0,
+            "welfare": 51.0,
+            "sustainability": 57.0,
+            "future": 48.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "region": "East Asia and Pacific",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 77.4,
+            "social": 76.8,
+            "equality": 63.0,
+            "welfare": 77.2,
+            "sustainability": 69.4,
+            "future": 80.8
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 79.2,
+            "social": 77.4,
+            "equality": 64.0,
+            "welfare": 78.6,
+            "sustainability": 71.2,
+            "future": 81.4
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 81.0,
+            "social": 78.0,
+            "equality": 65.0,
+            "welfare": 80.0,
+            "sustainability": 73.0,
+            "future": 82.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "KOR",
+      "name": "Republic of Korea",
+      "region": "East Asia and Pacific",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 75.8,
+            "social": 70.0,
+            "equality": 59.2,
+            "welfare": 72.4,
+            "sustainability": 68.8,
+            "future": 86.0
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 76.4,
+            "social": 71.0,
+            "equality": 60.6,
+            "welfare": 74.2,
+            "sustainability": 69.4,
+            "future": 87.0
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 77.0,
+            "social": 72.0,
+            "equality": 62.0,
+            "welfare": 76.0,
+            "sustainability": 70.0,
+            "future": 88.0
+          }
+        }
+      ]
+    },
+    {
+      "code": "ZAF",
+      "name": "South Africa",
+      "region": "Sub-Saharan Africa",
+      "records": [
+        {
+          "year": 2022,
+          "scores": {
+            "working": 37.0,
+            "social": 45.2,
+            "equality": 41.4,
+            "welfare": 40.8,
+            "sustainability": 44.0,
+            "future": 41.2
+          }
+        },
+        {
+          "year": 2023,
+          "scores": {
+            "working": 38.0,
+            "social": 46.6,
+            "equality": 43.2,
+            "welfare": 41.4,
+            "sustainability": 45.0,
+            "future": 42.6
+          }
+        },
+        {
+          "year": 2024,
+          "scores": {
+            "working": 39.0,
+            "social": 48.0,
+            "equality": 45.0,
+            "welfare": 42.0,
+            "sustainability": 46.0,
+            "future": 44.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -32,6 +32,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Verify reviewed Working Life pilot outputs
+        run: python3 scripts/build_working_life_pilot.py --check
+
       - name: Render Quarto site
         run: quarto render
 
