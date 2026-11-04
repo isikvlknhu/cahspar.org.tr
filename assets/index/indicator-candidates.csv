@@ -1,0 +1,7 @@
+status,dimension,candidate_indicator,proposed_unit,favourable_direction,potential_sources,coverage,weight,notes
+DRAFT - NOT APPROVED,Working life,Employment-to-population ratio,"%, working-age population",Higher,TÜİK / ILOSTAT,To be verified,Not agreed,"Definition, denominator, reference period and comparability require validation; no values collected."
+DRAFT - NOT APPROVED,Social policy,Social protection coverage,"%, population covered",Higher,SGK / ILO,To be verified,Not agreed,"Definition, denominator, reference period and comparability require validation; no values collected."
+DRAFT - NOT APPROVED,Equality and inclusion,Gender employment gap,Percentage points,Lower,TÜİK / ILOSTAT,To be verified,Not agreed,"Definition, denominator, reference period and comparability require validation; no values collected."
+DRAFT - NOT APPROVED,Welfare,At-risk-of-poverty rate,"%, specified poverty threshold",Lower,TÜİK / Eurostat,To be verified,Not agreed,"Definition, denominator, reference period and comparability require validation; no values collected."
+DRAFT - NOT APPROVED,Sustainability,Excessive working hours,"%, employed people above an agreed threshold",Lower,TÜİK / ILOSTAT,To be verified,Not agreed,"Definition, denominator, reference period and comparability require validation; no values collected."
+DRAFT - NOT APPROVED,The future of work,Basic or above-basic digital skills,"%, specified age group",Higher,TÜİK / Eurostat,To be verified,Not agreed,"Definition, denominator, reference period and comparability require validation; no values collected."

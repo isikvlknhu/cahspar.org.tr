@@ -1,69 +1,50 @@
 ---
 title: "ÇAHSPAR Index"
+description: "Explore the proposed ÇAHSPAR Working Life and Social Policy Index: six dimensions, an interactive synthetic-data prototype and a transparent methodology roadmap."
+body-classes: index-page
+format:
+  html:
+    css:
+      - styles-editorial-mobile-masthead.css
+      - assets/index/explorer.css
 ---
 
-## Working Life and Social Policy Index
-
-The **ÇAHSPAR Working Life and Social Policy Index** is an original initiative designed to monitor developments in working life, social policy and social welfare through multidimensional indicators.
-
-It aims to track Türkiye’s working life and social policy landscape regularly by considering job quality, employment, social protection, equality, welfare, sustainability and the future of work together.
-
-## Purpose of the Index
-
-The index’s main purpose is to reveal developments in working life and social policy through **measurable, comparable and trackable indicators**.
-
-Its objectives include:
-
-- Monitoring developments in working life
-- Assessing changes in social policy
-- Bringing together indicators of workers’ and society’s wellbeing
-- Identifying changes over time
-- Providing a reliable information source for researchers, decision-makers, public bodies and civil society organisations
-
-## Dimensions of the Index
-
-The methodology will bring together key working life and social policy indicators under several dimensions.
-
-### Working Life
-Employment, unemployment, working conditions, wages and key labour market indicators.
-
-### Social Policy
-Indicators of social protection, social security, social services and social policy practices.
-
-### Equality and Inclusion
-Participation in working life by women, young people and different groups of workers, alongside workplace equality indicators.
-
-### Welfare
-Indicators of income, poverty, living conditions and social welfare.
-
-### Sustainability
-Sustainable working lives, social sustainability and the future of work.
-
-### The Future of Work
-Digital transformation, artificial intelligence, automation, new forms of work and technological change in working life.
-
-## Data Sources
-
-The index is expected to draw on reliable and comparable national and international data sources.
-
-Key sources will include:
-
-**TurkStat (TÜİK) · Social Security Institution (SGK) · Ministry of Labour and Social Security (ÇSGB) · ILO · OECD · Eurostat · World Bank · United Nations**
-
-alongside other relevant institutional data sources.
-
-## Methodology
-
-The methodological framework will cover indicator selection, data standardisation, the construction of dimensions and index calculation.
-
-The methodology, data sources and calculation procedures will be made public so that results are **transparent, traceable and reproducible**.
-
----
-
-::: {.callout-note}
-## ÇAHSPAR Index Coming Soon
-
-Work on the methodology of the ÇAHSPAR Working Life and Social Policy Index is under way.
-
-The first results and methodology report will be available on this page when published.
-:::
+```{=html}
+<div class="ci" id="cahspar-explorer">
+<header class="ci-hero">
+  <div><p class="ci-eyebrow">ÇAHSPAR RESEARCH / INDEX IN DEVELOPMENT</p>
+  <h1>Working life.<br>Shared wellbeing.</h1>
+  <p class="ci-lead">A multidimensional view of working life and social policy, with Türkiye at its centre.</p>
+  <p>Explore six connected dimensions of a fairer, more sustainable world of work.</p>
+  <a class="ci-primary" href="#explore">Explore the prototype <span aria-hidden="true">↗</span></a>
+  <a class="ci-text-link" href="#methodology">Read the proposed approach →</a></div>
+  <div class="ci-framework" aria-label="The six dimensions of the proposed index"><span class="ci-eyebrow">ONE FRAMEWORK · SIX DIMENSIONS</span><div class="ci-framework-row"><span>01</span><strong>Working life</strong></div><div class="ci-framework-row"><span>02</span><strong>Social policy</strong></div><div class="ci-framework-row"><span>03</span><strong>Equality and inclusion</strong></div><div class="ci-framework-row"><span>04</span><strong>Welfare</strong></div><div class="ci-framework-row"><span>05</span><strong>Sustainability</strong></div><div class="ci-framework-row"><span>06</span><strong>The future of work</strong></div></div>
+</header>
+<div class="ci-notice" role="note"><strong>Demonstration · synthetic data</strong><span>Every score, rank and trend below is invented to demonstrate the interface. No official ÇAHSPAR results have been published. Years refer to sample data, not publication editions.</span></div>
+<nav class="ci-section-nav" aria-label="Index sections"><a href="#explore">01 / Explore</a><a href="#dimensions">02 / Dimensions</a><a href="#methodology">03 / Methodology</a><a href="#sources">04 / Data sources</a></nav>
+<section id="explore" aria-labelledby="explore-title">
+  <div class="ci-section-heading"><div><p class="ci-eyebrow">EXPLORE THE FRAMEWORK</p><h2 id="explore-title">Different dimensions. A connected picture.</h2><p>A sample international comparison to test the experience. The final coverage is still to be agreed.</p></div><button id="ci-download" class="ci-button" disabled>Download demo CSV ↓</button></div>
+  <div id="ci-status" role="status" aria-live="polite">Loading the demonstration…</div>
+  <noscript><p>This interactive prototype requires JavaScript. The dimensions and proposed methodology remain available below.</p></noscript>
+  <div id="ci-app" hidden>
+    <div class="ci-toolbar">
+      <label>Find a country<input id="ci-search" type="search" placeholder="Search by country name" autocomplete="off"></label>
+      <label>Region<select id="ci-region"><option value="">All regions</option></select></label>
+      <label>Sample year<select id="ci-year"></select></label>
+      <fieldset class="ci-toggle"><legend>Display values</legend><label><input type="radio" name="ci-view" value="score" checked> Scores</label><label><input type="radio" name="ci-view" value="rank"> Ranks</label></fieldset>
+      <button id="ci-reset" class="ci-button">Reset filters</button>
+    </div>
+    <div class="ci-table-meta"><p id="ci-count" role="status" aria-live="polite"></p><span id="ci-scale">Scores: 0–100 · Higher is better · Demo only</span></div>
+    <div class="ci-table-scroll" role="region" aria-label="Demonstration country rankings, scroll horizontally for all dimensions" tabindex="0"><div id="ci-table-host"></div></div>
+    <p class="ci-table-note">Ranks use the full sample for the selected year, including when a region or search filter is applied. Equal values share a rank. Overall scores use an illustrative equal-weight mean of the six dimensions.</p>
+    <section class="ci-compare" aria-labelledby="ci-compare-title"><div><h3 id="ci-compare-title">Compare countries</h3><p id="ci-compare-help" role="status" aria-live="polite">Select up to three countries in the table.</p></div><button id="ci-clear" class="ci-button">Clear selection</button><div id="ci-comparison"></div></section>
+    <section id="ci-profile" class="ci-profile" aria-labelledby="ci-profile-title"></section>
+  </div>
+</section>
+<section id="dimensions"><p class="ci-eyebrow">THE PROPOSED FRAMEWORK</p><h2>Six lenses on working life and social policy</h2><p>These dimensions follow the association’s original Index brief. Indicators below are candidates for consultation, not an approved measurement framework.</p><div class="ci-dimension-grid"><article class="ci-dimension"><span class="ci-dimension-number">01</span><h3>Working life</h3><p>Employment, job quality, wages and working conditions.</p><small>Candidate indicator</small><p><strong>Employment-to-population ratio</strong></p></article><article class="ci-dimension"><span class="ci-dimension-number">02</span><h3>Social policy</h3><p>Social protection, social security and access to services.</p><small>Candidate indicator</small><p><strong>Social protection coverage</strong></p></article><article class="ci-dimension"><span class="ci-dimension-number">03</span><h3>Equality and inclusion</h3><p>Participation and opportunity across population groups.</p><small>Candidate indicator</small><p><strong>Gender employment gap</strong></p></article><article class="ci-dimension"><span class="ci-dimension-number">04</span><h3>Welfare</h3><p>Income, poverty and living conditions.</p><small>Candidate indicator</small><p><strong>At-risk-of-poverty rate</strong></p></article><article class="ci-dimension"><span class="ci-dimension-number">05</span><h3>Sustainability</h3><p>Sustainable working lives and social resilience.</p><small>Candidate indicator</small><p><strong>Excessive working hours</strong></p></article><article class="ci-dimension"><span class="ci-dimension-number">06</span><h3>The future of work</h3><p>Digital skills, technological change and new forms of work.</p><small>Candidate indicator</small><p><strong>Basic or above-basic digital skills</strong></p></article></div></section>
+<section id="methodology" class="ci-method"><div><p class="ci-eyebrow">TRANSPARENT BY DESIGN</p><h2>From indicators to insight</h2><p>The Index aims to make developments measurable, comparable and trackable for researchers, decision-makers, public bodies and civil society.</p><a href="assets/index/indicator-candidates.csv" download>Download candidate indicator dictionary (CSV) ↓</a></div><div><ol><li><strong>Define the indicators.</strong> Confirm relevance, coverage and comparability with subject specialists.</li><li><strong>Document each observation.</strong> Record its source, unit, reference period, population and revision status.</li><li><strong>Agree the calculation.</strong> Publish direction, normalisation, weights, missing-data rules and sensitivity checks before releasing results.</li><li><strong>Publish reproducible results.</strong> Release versioned data, calculation rules and a methodology report together.</li></ol><p class="ci-method-note"><strong>Not yet decided:</strong> geographic coverage, baseline, indicator set, weighting and aggregation. The prototype’s 0–100 scores and equal weights are interface assumptions only. Missing values must never silently become zero.</p></div></section>
+<section id="sources"><p class="ci-eyebrow">EVIDENCE BEFORE RANKINGS</p><h2>Planned institutional data sources</h2><p>The original brief identifies the institutions below. Their inclusion here does not imply a data agreement, verified indicator coverage or endorsement. No institutional statistics are used in this demonstration.</p><div class="ci-sources"><a href="https://www.tuik.gov.tr/">TurkStat (TÜİK) ↗</a><a href="https://www.sgk.gov.tr/">SGK ↗</a><a href="https://www.csgb.gov.tr/">ÇSGB ↗</a><a href="https://ilostat.ilo.org/">ILOSTAT ↗</a><a href="https://data-explorer.oecd.org/">OECD ↗</a><a href="https://ec.europa.eu/eurostat">Eurostat ↗</a><a href="https://data.worldbank.org/">World Bank ↗</a><a href="https://data.un.org/">United Nations ↗</a></div></section>
+<footer class="ci-footer"><p><strong>A research programme in progress.</strong> The next milestone is an agreed methodology and a documented pilot dataset for Türkiye.</p><a href="iletisim.html">Contribute to the Index →</a></footer>
+</div>
+<script src="assets/index/explorer.js" type="module"></script>
+```
