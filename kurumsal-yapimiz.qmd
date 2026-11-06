@@ -19,6 +19,6 @@ body-classes: structure-page
 
 ## Advisory Board
 
-<div class="board-member"><img class="member-photo" src="assets/mustafa-ozguven.jpeg" width="72" height="72" alt="Associate Professor Dr. Mustafa OZGUVEN" /><span class="board-member-name"><a class="board-member-link" href="https://scholar.xjtlu.edu.cn/en/persons/MustafaOzguven/" target="_blank" rel="noopener noreferrer">Associate Professor Mustafa Ozguven</a><br />Xi'an Jiaotong-Liverpool University — China</span></div>
+<div class="board-member"><img class="member-photo" src="assets/mustafa-ozguven.jpeg" width="72" height="72" alt="Associate Professor Dr. Mustafa OZGUVEN" /><span class="board-member-name"><a class="board-member-link" href="https://scholar.xjtlu.edu.cn/en/persons/MustafaOzguven/" target="_blank" rel="noopener noreferrer">Associate Professor Dr. Mustafa OZGUVEN</a><br />Xi'an Jiaotong-Liverpool University — China</span></div>
 
 ## Members of Honour
