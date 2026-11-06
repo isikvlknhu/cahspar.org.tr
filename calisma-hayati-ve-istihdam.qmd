@@ -17,6 +17,13 @@ body-classes: research-page
 
 ### Team Members
 
+- Dr. Mahmut Kaya
+- Dr. Akın Özdemir
+- Dr. Ferdağ Akın
+- Dr. Bahar Yolvermez
+- Dr. Nazan Çetinkaya
+- Dr. Mehmet Aykul
+
 :::
 
 ### About
