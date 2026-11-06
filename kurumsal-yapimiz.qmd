@@ -21,4 +21,4 @@ body-classes: structure-page
 
 <div class="board-member"><img class="member-photo" src="assets/mustafa-ozguven.jpeg" width="72" height="72" alt="Associate Professor Mustafa Ozguven" /><span class="board-member-name"><a class="board-member-link" href="https://scholar.xjtlu.edu.cn/en/persons/MustafaOzguven/" target="_blank" rel="noopener noreferrer">Associate Professor Mustafa Ozguven</a><br />Xi'an Jiaotong-Liverpool University — China</span></div>
 
-## Supervisory Board
+## Members of Honour
