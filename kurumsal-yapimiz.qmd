@@ -19,6 +19,8 @@ body-classes: structure-page
 
 ## Advisory Board
 
+<div class="board-member"><img class="member-photo" src="assets/mohammed-abubakar.jpeg" width="72" height="72" alt="Professor Dr. A. Mohammed ABUBAKAR" /><span class="board-member-name"><a class="board-member-link" href="https://www.ccsu.edu/person/mohammed-abubakar" target="_blank" rel="noopener noreferrer">Professor Dr. A. Mohammed ABUBAKAR</a><br />Central Connecticut State University — USA</span></div>
+
 <div class="board-member"><img class="member-photo" src="assets/mustafa-ozguven.jpeg" width="72" height="72" alt="Associate Professor Dr. Mustafa OZGUVEN" /><span class="board-member-name"><a class="board-member-link" href="https://scholar.xjtlu.edu.cn/en/persons/MustafaOzguven/" target="_blank" rel="noopener noreferrer">Associate Professor Dr. Mustafa OZGUVEN</a><br />Xi'an Jiaotong-Liverpool University — China</span></div>
 
 ## Members of Honour
