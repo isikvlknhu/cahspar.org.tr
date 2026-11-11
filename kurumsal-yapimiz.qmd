@@ -1,5 +1,5 @@
 ---
-title: "Our Structure"
+title: "Members and Advisory Board"
 body-classes: structure-page
 ---
 
