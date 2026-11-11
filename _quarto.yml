@@ -24,7 +24,7 @@ website:
         menu:
           - text: "Our Logo"
             href: kurumsal-logomuz.qmd
-          - text: "Members and Advisory Board"
+          - text: "Founding Members and Advisory Board"
             href: kurumsal-yapimiz.qmd
           - text: "Our Story"
             href: nasil-kurulduk.qmd

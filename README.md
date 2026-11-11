@@ -32,7 +32,7 @@ Existing Turkish URL slugs are deliberately preserved to maintain incoming links
 
 ## Design
 
-The shared design uses a full-width institutional masthead, consistent page gutters, clear heading hierarchy and responsive content cards. The homepage brings together the original introduction, activity list and announcements, with direct access to the existing research group pages. Research banners remain centred and capped at 560 px, and Members and Advisory Board retains its centred member list. Page text and original links are preserved.
+The shared design uses a full-width institutional masthead, consistent page gutters, clear heading hierarchy and responsive content cards. The homepage brings together the original introduction, activity list and announcements, with direct access to the existing research group pages. Research banners remain centred and capped at 560 px, and Founding Members and Advisory Board retains its centred member list. Page text and original links are preserved.
 
 ## Working Life pilot
 
